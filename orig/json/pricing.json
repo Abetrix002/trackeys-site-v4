@@ -1,0 +1,592 @@
+{
+ "title": "",
+ "hero": {
+  "eyebrow": "PRICING",
+  "h1": "Pick the tier. Mix the modules. Grow from there.",
+  "p": "Per-user pricing with modules bundled into three tiers. Add Fleet, Premium Support or custom integrations à la carte. Annual billing only.",
+  "ctas": [
+   "USD",
+   "AED",
+   "EUR"
+  ],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "ADD-ONS",
+   "h2": "Extend any tier with à la carte modules.",
+   "sub": "Pay for what you need, scale as you grow.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Fleet Management",
+      "Live tracking, driver safety scoring, maintenance and fuel analytics.",
+      "$19",
+      "per vehicle / month"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Advanced Vision AI",
+      "Beyond 10k/mo — high-volume planogram compliance and OOS detection.",
+      "$0.08",
+      "per shelf scan"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Premium Support 24/7",
+      "Round-the-clock phone + chat. 1-hour response, dedicated on-call.",
+      "$1,500",
+      "per month"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Custom Integrations",
+      "Hand-built connector for proprietary ERPs, custom EDI or legacy systems.",
+      "$5,000",
+      "one-time, per integration"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "COMPARE",
+   "h2": "Full feature comparison.",
+   "sub": "Every capability, line by line, across the three tiers.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "PLATFORM & SUPPORT"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Users",
+      "5–25",
+      "15–500",
+      "Unlimited"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Role-based dashboards",
+      "3 roles",
+      "All roles",
+      "Custom roles"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "API access",
+      "—"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Integrations included",
+      "—",
+      "3",
+      "Unlimited"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SSO / SCIM",
+      "—",
+      "—"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Audit logs",
+      "—",
+      "Standard",
+      "Advanced"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Uptime SLA",
+      "99.5%",
+      "99.9%",
+      "99.95%"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Support",
+      "Email",
+      "Priority · 4h SLA",
+      "Dedicated CSM"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Onboarding",
+      "Self-serve",
+      "Guided",
+      "White-glove"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "ROI CALCULATOR",
+   "h2": "See the numbers for your team.",
+   "sub": "Based on outcomes customers see on the Growth tier: +15% sales per visit, +20% coverage, −40% admin time.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "FIELD REPS"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "25",
+      "people"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "5",
+      "500"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "IMPLEMENTATION",
+   "h2": "You're live in 6 weeks, on average.",
+   "sub": "Growth customers onboard with a specialist. Enterprise gets a dedicated success manager and custom change-management program.",
+   "items": [
+    {
+     "title": "Discovery & kickoff",
+     "desc": "Meet your success team, map your workflows, plan integrations and migration. You walk out with a staged rollout plan.",
+     "bullets": [],
+     "lines": [
+      "01",
+      "WEEK 1",
+      "Discovery & kickoff",
+      "Meet your success team, map your workflows, plan integrations and migration. You walk out with a staged rollout plan."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Build & train",
+     "desc": "Data imported, integrations wired, users provisioned, dashboards configured. Train-the-trainer sessions for field leads.",
+     "bullets": [],
+     "lines": [
+      "02",
+      "WEEKS 2–5",
+      "Build & train",
+      "Data imported, integrations wired, users provisioned, dashboards configured. Train-the-trainer sessions for field leads."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Launch & optimize",
+     "desc": "Pilot region goes live, then full rollout. Weekly office hours, monthly optimization reviews, quarterly business reviews.",
+     "bullets": [],
+     "lines": [
+      "03",
+      "WEEKS 6+",
+      "Launch & optimize",
+      "Pilot region goes live, then full rollout. Weekly office hours, monthly optimization reviews, quarterly business reviews."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Pricing, modules, contracts — clearly.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How does per-module pricing work?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "What counts as a \"visit\" or a \"shelf scan\"?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can we change tiers or add modules mid-contract?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Do you offer a free trial?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "What's included in onboarding?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Is there a discount for nonprofits or education?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How is data security handled?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "You're never blocked. Overages are billed at $0.05 per extra visit and $0.08 per extra shelf scan. We alert you when you hit 80% of your limit so you can upgrade or manage usage proactively.",
+     "bullets": [],
+     "lines": [
+      "What happens if we exceed visit or scan limits?",
+      "You're never blocked. Overages are billed at $0.05 per extra visit and $0.08 per extra shelf scan. We alert you when you hit 80% of your limit so you can upgrade or manage usage proactively."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "How does per-module pricing work?",
+    "What counts as a \"visit\" or a \"shelf scan\"?",
+    "Can we change tiers or add modules mid-contract?",
+    "Do you offer a free trial?",
+    "What's included in onboarding?",
+    "Is there a discount for nonprofits or education?",
+    "How is data security handled?",
+    "What happens if we exceed visit or scan limits?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Run the pilot. See the numbers. Then scale.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Per-user pricing with modules bundled into three tiers. Add Fleet, Premium Support or custom integrations à la carte. Annual billing only."
+  ],
+  [
+   "li",
+   "Sales Force Automation (core)"
+  ],
+  [
+   "li",
+   "Offline-first mobile app"
+  ],
+  [
+   "li",
+   "Up to 5,000 visits / month"
+  ],
+  [
+   "li",
+   "Real-time GPS tracking"
+  ],
+  [
+   "li",
+   "Dispatch & POD workflows"
+  ],
+  [
+   "li",
+   "Email support"
+  ],
+  [
+   "li",
+   "AI route optimization (multi-factor)"
+  ],
+  [
+   "li",
+   "Van sales & mobile invoicing"
+  ],
+  [
+   "li",
+   "Merchandising AI (10k shelf scans/mo)"
+  ],
+  [
+   "li",
+   "Distribution Management (DMS)"
+  ],
+  [
+   "li",
+   "Role-based dashboards (HOD, Ops, Driver)"
+  ],
+  [
+   "li",
+   "Up to 50,000 visits / month"
+  ],
+  [
+   "li",
+   "Priority support · 4-hour SLA"
+  ],
+  [
+   "li",
+   "API access + 3 integrations"
+  ],
+  [
+   "li",
+   "Unlimited visits + shelf scans"
+  ],
+  [
+   "li",
+   "Multi-entity, multi-currency, multi-tax"
+  ],
+  [
+   "li",
+   "Dedicated success manager"
+  ],
+  [
+   "li",
+   "Custom integrations (SAP, Oracle, D365)"
+  ],
+  [
+   "li",
+   "On-prem or private cloud option"
+  ],
+  [
+   "li",
+   "Advanced security (SSO, SCIM, audit logs)"
+  ],
+  [
+   "li",
+   "99.95% uptime SLA"
+  ],
+  [
+   "li",
+   "Custom AI model training"
+  ],
+  [
+   "h2",
+   "Extend any tier with à la carte modules."
+  ],
+  [
+   "p",
+   "Pay for what you need, scale as you grow."
+  ],
+  [
+   "h2",
+   "Full feature comparison."
+  ],
+  [
+   "p",
+   "Every capability, line by line, across the three tiers."
+  ],
+  [
+   "h2",
+   "See the numbers for your team."
+  ],
+  [
+   "p",
+   "Based on outcomes customers see on the Growth tier: +15% sales per visit, +20% coverage, −40% admin time."
+  ],
+  [
+   "h2",
+   "You're live in 6 weeks, on average."
+  ],
+  [
+   "p",
+   "Growth customers onboard with a specialist. Enterprise gets a dedicated success manager and custom change-management program."
+  ],
+  [
+   "p",
+   "Meet your success team, map your workflows, plan integrations and migration. You walk out with a staged rollout plan."
+  ],
+  [
+   "p",
+   "Data imported, integrations wired, users provisioned, dashboards configured. Train-the-trainer sessions for field leads."
+  ],
+  [
+   "p",
+   "Pilot region goes live, then full rollout. Weekly office hours, monthly optimization reviews, quarterly business reviews."
+  ],
+  [
+   "h2",
+   "Pricing, modules, contracts — clearly."
+  ],
+  [
+   "p",
+   "You're never blocked. Overages are billed at $0.05 per extra visit and $0.08 per extra shelf scan. We alert you when you hit 80% of your limit so you can upgrade or manage usage proactively."
+  ],
+  [
+   "h2",
+   "Run the pilot. See the numbers. Then scale."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "How does per-module pricing work?",
+   "a": "Each tier bundles a set of modules (SFA, Delivery & Routing, Merchandising AI, DMS). If you only need SFA + Delivery, pick Starter. If you need all four, pick Growth. Enterprise unlocks everything plus custom modules and workflows. You can also add Fleet Management as a separate add-on on any tier."
+  },
+  {
+   "q": "What counts as a \"visit\" or a \"shelf scan\"?",
+   "a": "A visit is a single rep check-in at a store or customer location. A shelf scan is one photo processed by the vision AI (a single aisle typically takes 2–4 scans). Both limits are monthly and reset on your billing anniversary."
+  },
+  {
+   "q": "Can we change tiers or add modules mid-contract?",
+   "a": "Yes. You can upgrade at any time and we'll prorate the difference. Downgrades apply at renewal. Adding an add-on (Fleet, Premium Support, etc.) is instant with pro-rated billing to your anniversary."
+  },
+  {
+   "q": "Do you offer a free trial?",
+   "a": "Yes — 14 days on Starter or Growth, no credit card required. You get full access to the modules in that tier and we'll help you import sample data so you can evaluate with your own customers and stores."
+  },
+  {
+   "q": "What's included in onboarding?",
+   "a": "Starter is self-serve with guided setup videos. Growth includes a 2-week guided onboarding with a specialist (data migration, user training, integration setup). Enterprise gets a white-glove program: 6–12 weeks with a dedicated success manager, custom workflow design and change-management support."
+  },
+  {
+   "q": "Is there a discount for nonprofits or education?",
+   "a": "Yes — 40% off Growth for registered nonprofits and 25% off for accredited education institutions. Contact us with documentation to apply."
+  },
+  {
+   "q": "How is data security handled?",
+   "a": "SOC 2 Type II certified. AES-256 at rest, TLS 1.3 in transit. Enterprise plans include SSO, SCIM provisioning, advanced audit logs, data residency options (US, EU, UAE) and optional on-prem deployment."
+  },
+  {
+   "q": "What happens if we exceed visit or scan limits?",
+   "a": "You're never blocked. Overages are billed at $0.05 per extra visit and $0.08 per extra shelf scan. We alert you when you hit 80% of your limit so you can upgrade or manage usage proactively."
+  }
+ ]
+}

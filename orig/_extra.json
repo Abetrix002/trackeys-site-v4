@@ -1,0 +1,28 @@
+{
+ "roles": {
+  "Operations": "LIVE\nSee the platform with your role's eyes.\n\nSwitch roles on the right to see how each persona experiences the same field reality.\n\nLIVE · 38 field units\nlat 25.197 · lng 55.274\nDIFOT\n96.2%▲ +2.1\nACTIVE ROUTES\n14\nAVG ETA DRIFT\n−3m\nCFR\n98.8%▲ +0.4\nVIEW AS ROLE\nOperations\nDispatch\nDriver\nSales\nMerchandiser\nToday's operations\nHead of Field Ops · Dubai region\nVans deployed\n14 / 16\nSales agents active\n22\nMerchandisers in field\n9\nOpen exceptions\n3\nORDERS · LAST 12H",
+  "Dispatch": "LIVE\nSee the platform with your role's eyes.\n\nSwitch roles on the right to see how each persona experiences the same field reality.\n\nLIVE · 38 field units\nlat 25.197 · lng 55.274\nDIFOT\n96.2%▲ +2.1\nACTIVE ROUTES\n14\nAVG ETA DRIFT\n−3m\nCFR\n98.8%▲ +0.4\nVIEW AS ROLE\nOperations\nDispatch\nDriver\nSales\nMerchandiser\nDispatch queue\nRoute DXB-N-03 · reopt. 2m ago\n04:12\nCarrefour MBZ\nDELIVERED\n05:40\nLuLu Al Barsha\nEN ROUTE\n06:55\nSpinneys Meadows\nQUEUED\n08:10\nAl Maya JBR\nQUEUED\n09:40\nChoithrams Jumeirah\nRISK",
+  "Driver": "LIVE\nSee the platform with your role's eyes.\n\nSwitch roles on the right to see how each persona experiences the same field reality.\n\nLIVE · 38 field units\nlat 25.197 · lng 55.274\nDIFOT\n96.2%▲ +2.1\nACTIVE ROUTES\n14\nAVG ETA DRIFT\n−3m\nCFR\n98.8%▲ +0.4\nVIEW AS ROLE\nOperations\nDispatch\nDriver\nSales\nMerchandiser\nNext stop · 5 min\nMohammed A. · Van VN-1128\nSTOP 3 of 11\nLuLu Hypermarket · Al Barsha\n42 cases · AED 8,420\nNavigate\nCall\nUP NEXT\n— Spinneys Meadows · 06:55\n— Al Maya JBR · 08:10\n— Choithrams · 09:40",
+  "Sales": "LIVE\nSee the platform with your role's eyes.\n\nSwitch roles on the right to see how each persona experiences the same field reality.\n\nLIVE · 38 field units\nlat 25.197 · lng 55.274\nDIFOT\n96.2%▲ +2.1\nACTIVE ROUTES\n14\nAVG ETA DRIFT\n−3m\nCFR\n98.8%▲ +0.4\nVIEW AS ROLE\nOperations\nDispatch\nDriver\nSales\nMerchandiser\nPre-sales visits\nTerritory: Dubai North · 8 visits today\nGéant Ibn Battuta\nPipeline · AED 12.4k\nHIGH\nViva Supermarket\nPipeline · AED 4.1k\nMED\nUnion Coop Al Quoz\nPipeline · AED 9.8k\nHIGH\nWest Zone Mart\nPipeline · AED 2.0k\nLOW",
+  "Merchandiser": "LIVE\nSee the platform with your role's eyes.\n\nSwitch roles on the right to see how each persona experiences the same field reality.\n\nLIVE · 38 field units\nlat 25.197 · lng 55.274\nDIFOT\n96.2%▲ +2.1\nACTIVE ROUTES\n14\nAVG ETA DRIFT\n−3m\nCFR\n98.8%▲ +0.4\nVIEW AS ROLE\nOperations\nDispatch\nDriver\nSales\nMerchandiser\nPlanogram compliance\nScan → AI audit · last: Carrefour MBZ\n24 SKUs detected\n3 misplaced\nCompliance\n87.5%"
+ },
+ "menus": {
+  "Product": [
+   "Sales Force Automation",
+   "Delivery & Routing",
+   "Merchandising AI",
+   "Distribution"
+  ],
+  "Solutions": [
+   "FMCG",
+   "Logistics & Supply Chain",
+   "Fleet Management",
+   "Distribution"
+  ],
+  "Resources": [
+   "All resources",
+   "Blog",
+   "Case studies"
+  ]
+ }
+}

@@ -1,0 +1,648 @@
+{
+ "title": "Distribution Management — Trackeys",
+ "hero": {
+  "eyebrow": "DISTRIBUTION MANAGEMENT",
+  "h1": "Your entire distribution network — on one live dashboard.",
+  "p": "Trackeys DMS unifies distributor orders, inventory, fulfillment and performance into one system. Plants, warehouses and distributors — one truth.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "99.5%",
+    "inventory accuracy"
+   ],
+   [
+    "99%+",
+    "order fulfillment"
+   ],
+   [
+    "24/7",
+    "network visibility"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "NETWORK FLOW · 24H",
+     "Trackeys DMS",
+     "Plant A",
+     "Plant B",
+     "Dist. 1",
+     "Dist. 2",
+     "Dist. 3",
+     "Dist. 4",
+     "ORDERS TODAY",
+     "2,418",
+     "FULFILL RATE",
+     "99.2%",
+     "STOCK ACCURACY",
+     "99.6%"
+    ],
+    "svg": [
+     "Trackeys DMS",
+     "Plant A",
+     "Plant B",
+     "Dist. 1",
+     "Dist. 2",
+     "Dist. 3",
+     "Dist. 4"
+    ]
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Distribution that actually runs itself.",
+   "sub": "Order aggregation, automated replenishment, distributor performance and forecasting in one network-aware platform.",
+   "items": [
+    {
+     "title": "Distributor order management",
+     "desc": "Every distributor orders through one portal with real-time stock, pricing and credit visibility.",
+     "bullets": [
+      "Self-service distributor portal",
+      "Live stock by SKU",
+      "Credit & limit management"
+     ],
+     "lines": [
+      "Distributor order management",
+      "Every distributor orders through one portal with real-time stock, pricing and credit visibility.",
+      "Self-service distributor portal",
+      "Live stock by SKU",
+      "Credit & limit management"
+     ],
+     "href": ""
+    },
+    {
+     "title": "AI demand forecasting",
+     "desc": "Machine-learning forecasts per SKU per distributor per week. MAPE continuously monitored.",
+     "bullets": [
+      "Per-SKU-per-DC forecasts",
+      "MAPE/RMSE monitoring",
+      "Promotional lift modeling"
+     ],
+     "lines": [
+      "AI demand forecasting",
+      "Machine-learning forecasts per SKU per distributor per week. MAPE continuously monitored.",
+      "Per-SKU-per-DC forecasts",
+      "MAPE/RMSE monitoring",
+      "Promotional lift modeling"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Automated replenishment",
+     "desc": "Reorder triggers based on forecast, stock-on-hand, in-transit and safety stock — fully configurable.",
+     "bullets": [
+      "Dynamic safety stock",
+      "Lead-time aware",
+      "Push or pull mode"
+     ],
+     "lines": [
+      "Automated replenishment",
+      "Reorder triggers based on forecast, stock-on-hand, in-transit and safety stock — fully configurable.",
+      "Dynamic safety stock",
+      "Lead-time aware",
+      "Push or pull mode"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Distributor performance",
+     "desc": "Scorecards on fulfillment, payment, sell-out and market coverage. Objective performance conversations.",
+     "bullets": [
+      "Fulfillment rate",
+      "Payment timeliness",
+      "Secondary sales share"
+     ],
+     "lines": [
+      "Distributor performance",
+      "Scorecards on fulfillment, payment, sell-out and market coverage. Objective performance conversations.",
+      "Fulfillment rate",
+      "Payment timeliness",
+      "Secondary sales share"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Inventory accuracy",
+     "desc": "99.5%+ inventory accuracy with barcode scanning, cycle counts and reconciliation workflows.",
+     "bullets": [
+      "Cycle count scheduling",
+      "Discrepancy workflows",
+      "Batch & expiry tracking"
+     ],
+     "lines": [
+      "Inventory accuracy",
+      "99.5%+ inventory accuracy with barcode scanning, cycle counts and reconciliation workflows.",
+      "Cycle count scheduling",
+      "Discrepancy workflows",
+      "Batch & expiry tracking"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Network-wide visibility",
+     "desc": "Plants, warehouses, distributors and retail on one map with live stock, orders and in-transit.",
+     "bullets": [
+      "End-to-end map view",
+      "Drill to SKU / location",
+      "Anomaly alerts"
+     ],
+     "lines": [
+      "Network-wide visibility",
+      "Plants, warehouses, distributors and retail on one map with live stock, orders and in-transit.",
+      "End-to-end map view",
+      "Drill to SKU / location",
+      "Anomaly alerts"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "From forecast to fulfilled.",
+   "sub": "How an order moves through Trackeys DMS when every node is connected.",
+   "items": [
+    {
+     "title": "Forecast",
+     "desc": "AI predicts next-period demand per SKU per distributor per week — with promotional lift modeled in.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Forecast",
+      "AI predicts next-period demand per SKU per distributor per week — with promotional lift modeled in."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Reorder",
+     "desc": "Automated triggers generate replenishment orders against the forecast and safety stock.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "Reorder",
+      "Automated triggers generate replenishment orders against the forecast and safety stock."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Allocate",
+     "desc": "Available stock allocates across distributors based on forecast, performance and priority.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "Allocate",
+      "Available stock allocates across distributors based on forecast, performance and priority."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Fulfill",
+     "desc": "Warehouses pick, pack and ship. Everything tracked at batch / lot level.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Fulfill",
+      "Warehouses pick, pack and ship. Everything tracked at batch / lot level."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Deliver",
+     "desc": "Handoff to the Delivery module — the same system that ships to distributors or direct to trade.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Deliver",
+      "Handoff to the Delivery module — the same system that ships to distributors or direct to trade."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Measure",
+     "desc": "Fulfillment rate, accuracy, lead time and distributor scorecards roll up automatically.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Measure",
+      "Fulfillment rate, accuracy, lead time and distributor scorecards roll up automatically."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "Distribution networks on Trackeys run tighter, faster and more accurate.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "99.5%",
+      "inventory accuracy",
+      "Across every node in the network"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "99%+",
+      "order fulfillment",
+      "Automated replenishment prevents stock-outs"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "−30%",
+      "manual order entry",
+      "Distributor self-service portal"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Built to connect plants, warehouses and partners.",
+   "sub": "ERP-native integration plus standardized APIs for WMS, 3PL and distributor systems.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "SAP S/4HANA",
+      "Orders · Inventory · AR"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OR",
+      "Oracle Fusion",
+      "Supply chain cloud"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "MI",
+      "Microsoft D365",
+      "F&O · SCM"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "MA",
+      "Manhattan",
+      "WMS"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "BL",
+      "Blue Yonder",
+      "Forecasting feed"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "KI",
+      "Kinaxis",
+      "Supply planning"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "ED",
+      "EDI X12",
+      "Distributor EDI"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SN",
+      "Snowflake",
+      "Data platform"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How does Trackeys handle multi-tier distribution?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "What forecasting models are used?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can distributors use their own mobile apps?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Yes — full FEFO/FIFO logic at warehouse and distributor level. Expiry alerts fire ahead of time so product can be rotated, discounted or returned before write-off.",
+     "bullets": [],
+     "lines": [
+      "Does it handle expiry, batch and lot tracking?",
+      "Yes — full FEFO/FIFO logic at warehouse and distributor level. Expiry alerts fire ahead of time so product can be rotated, discounted or returned before write-off."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "How does Trackeys handle multi-tier distribution?",
+    "What forecasting models are used?",
+    "Can distributors use their own mobile apps?",
+    "Does it handle expiry, batch and lot tracking?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Run your network like it's one warehouse. Because it should be.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Trackeys DMS unifies distributor orders, inventory, fulfillment and performance into one system. Plants, warehouses and distributors — one truth."
+  ],
+  [
+   "h2",
+   "Distribution that actually runs itself."
+  ],
+  [
+   "p",
+   "Order aggregation, automated replenishment, distributor performance and forecasting in one network-aware platform."
+  ],
+  [
+   "p",
+   "Every distributor orders through one portal with real-time stock, pricing and credit visibility."
+  ],
+  [
+   "li",
+   "Self-service distributor portal"
+  ],
+  [
+   "li",
+   "Live stock by SKU"
+  ],
+  [
+   "li",
+   "Credit & limit management"
+  ],
+  [
+   "p",
+   "Machine-learning forecasts per SKU per distributor per week. MAPE continuously monitored."
+  ],
+  [
+   "li",
+   "Per-SKU-per-DC forecasts"
+  ],
+  [
+   "li",
+   "MAPE/RMSE monitoring"
+  ],
+  [
+   "li",
+   "Promotional lift modeling"
+  ],
+  [
+   "p",
+   "Reorder triggers based on forecast, stock-on-hand, in-transit and safety stock — fully configurable."
+  ],
+  [
+   "li",
+   "Dynamic safety stock"
+  ],
+  [
+   "li",
+   "Lead-time aware"
+  ],
+  [
+   "li",
+   "Push or pull mode"
+  ],
+  [
+   "p",
+   "Scorecards on fulfillment, payment, sell-out and market coverage. Objective performance conversations."
+  ],
+  [
+   "li",
+   "Fulfillment rate"
+  ],
+  [
+   "li",
+   "Payment timeliness"
+  ],
+  [
+   "li",
+   "Secondary sales share"
+  ],
+  [
+   "p",
+   "99.5%+ inventory accuracy with barcode scanning, cycle counts and reconciliation workflows."
+  ],
+  [
+   "li",
+   "Cycle count scheduling"
+  ],
+  [
+   "li",
+   "Discrepancy workflows"
+  ],
+  [
+   "li",
+   "Batch & expiry tracking"
+  ],
+  [
+   "p",
+   "Plants, warehouses, distributors and retail on one map with live stock, orders and in-transit."
+  ],
+  [
+   "li",
+   "End-to-end map view"
+  ],
+  [
+   "li",
+   "Drill to SKU / location"
+  ],
+  [
+   "li",
+   "Anomaly alerts"
+  ],
+  [
+   "h2",
+   "From forecast to fulfilled."
+  ],
+  [
+   "p",
+   "How an order moves through Trackeys DMS when every node is connected."
+  ],
+  [
+   "p",
+   "AI predicts next-period demand per SKU per distributor per week — with promotional lift modeled in."
+  ],
+  [
+   "p",
+   "Automated triggers generate replenishment orders against the forecast and safety stock."
+  ],
+  [
+   "p",
+   "Available stock allocates across distributors based on forecast, performance and priority."
+  ],
+  [
+   "p",
+   "Warehouses pick, pack and ship. Everything tracked at batch / lot level."
+  ],
+  [
+   "p",
+   "Handoff to the Delivery module — the same system that ships to distributors or direct to trade."
+  ],
+  [
+   "p",
+   "Fulfillment rate, accuracy, lead time and distributor scorecards roll up automatically."
+  ],
+  [
+   "h2",
+   "Distribution networks on Trackeys run tighter, faster and more accurate."
+  ],
+  [
+   "h2",
+   "Built to connect plants, warehouses and partners."
+  ],
+  [
+   "p",
+   "ERP-native integration plus standardized APIs for WMS, 3PL and distributor systems."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Yes — full FEFO/FIFO logic at warehouse and distributor level. Expiry alerts fire ahead of time so product can be rotated, discounted or returned before write-off."
+  ],
+  [
+   "h2",
+   "Run your network like it's one warehouse. Because it should be."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "How does Trackeys handle multi-tier distribution?",
+   "a": "Fully. Plant → regional DC → sub-distributor → retail is modeled as a first-class network. Each tier has its own visibility, pricing, credit and reporting — with roll-up all the way back to the brand owner."
+  },
+  {
+   "q": "What forecasting models are used?",
+   "a": "An ensemble: classical time-series (SARIMA, Prophet), gradient boosting (LightGBM) on rich feature sets, and neural approaches for long-horizon and promotional lift. The system picks the best model per SKU per distributor based on cross-validation."
+  },
+  {
+   "q": "Can distributors use their own mobile apps?",
+   "a": "Yes. Distributors use the white-labeled Trackeys distributor app or web portal. Orders, stock checks, payments and performance reports are all self-service."
+  },
+  {
+   "q": "Does it handle expiry, batch and lot tracking?",
+   "a": "Yes — full FEFO/FIFO logic at warehouse and distributor level. Expiry alerts fire ahead of time so product can be rotated, discounted or returned before write-off."
+  }
+ ]
+}

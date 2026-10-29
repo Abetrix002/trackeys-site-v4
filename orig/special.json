@@ -1,0 +1,1914 @@
+{
+ "posts": {
+  "secondary-sales-visibility": {
+   "head": [
+    "← All articles",
+    "DISTRIBUTION",
+    "Why secondary sales visibility is the FMCG blind spot costing you 20% of revenue.",
+    "Primary sales leave your warehouse — and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks.",
+    "IS",
+    "Imran Shaikh",
+    "Head of Distribution, Trackeys",
+    "Apr 14, 2026 · 8 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "For most FMCG brands, the moment a truck leaves the warehouse is the moment visibility dies. Primary sales are clean, tracked and auditable. Secondary sales — what the distributor actually sells to retail — is a monthly data dump at best, a guess at worst."
+    ],
+    [
+     "h2",
+     "The visibility cliff"
+    ],
+    [
+     "p",
+     "We recently audited the distribution data of six mid-market FMCG brands across South Asia and the Gulf. On average, they could answer \"what did we ship?\" within 2 hours, but \"what did our distributors sell?\" took 3 weeks. Three weeks of blind spots is three weeks of stock rotting, three weeks of promotions going unreconciled, three weeks of competitors moving faster."
+    ],
+    [
+     "h2",
+     "The 20% you're leaving on the table"
+    ],
+    [
+     "p",
+     "When you don't see secondary sales in real time, four things go wrong: (1) trade spend gets misallocated against the wrong SKUs, (2) replenishment lags demand and you OOS in fast-moving stores, (3) slow movers hide inside aggregate distributor reports, (4) channel P&L becomes a story instead of a number. Together these account for roughly 15–25% of addressable revenue in most of the brands we've analyzed."
+    ],
+    [
+     "blockquote",
+     "The moment we got secondary-sales visibility down to a day, our promo ROI calculation stopped being theoretical. It became something we acted on, weekly."
+    ],
+    [
+     "h2",
+     "What closing the gap looks like"
+    ],
+    [
+     "p",
+     "Distributors log secondary sales through a portal or mobile app. Van sales direct to trade is captured at source. Both feed one secondary-sales view with SKU-level traceability. Forecast engines then recalibrate against the new signal — which lifts fill rate, cuts obsolescence, and makes trade spend a knob you can actually turn."
+    ],
+    [
+     "p",
+     "It isn't a tech problem anymore. It's a process problem. Most of the distributors we work with had never been asked for daily data. Once asked — and given a tool that made it 30 seconds of work — they provided it happily."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "vision-ai-planogram": {
+   "head": [
+    "← All articles",
+    "AI IN FMCG",
+    "Vision AI for planograms: from nice-to-have to non-negotiable in 24 months.",
+    "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why — and what makes a good vision model for retail execution.",
+    "FA",
+    "Fatima Al-Hashimi",
+    "VP Product, Trackeys",
+    "Apr 08, 2026 · 6 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "Three years ago, \"AI merchandising\" on an RFP meant a shelf-image-capture feature a human auditor would later review. Today, the bar is a real-time detection model that scores planogram compliance, share-of-shelf and out-of-stock on the rep's phone in under 3 seconds."
+    ],
+    [
+     "h2",
+     "What changed"
+    ],
+    [
+     "p",
+     "Two things: model quality got dramatically better for long-tail SKU detection, and phones got fast enough to run inference on-device. The result is that a rep walking into a 200-SKU aisle can get instant, objective compliance scoring — no more human audit queues, no more week-long feedback loops."
+    ],
+    [
+     "h2",
+     "What makes a good model"
+    ],
+    [
+     "p",
+     "SKU-level recall above 94%. Sub-second inference on mid-tier Android devices. Handles edge cases — shelf occlusion, odd lighting, skewed angles — without collapsing confidence. And trained on your actual SKU catalog, not a generic CPG dataset."
+    ],
+    [
+     "blockquote",
+     "Compliance went from a monthly audit we argued about to a daily number the ops team actually managed."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "merch-compliance-gap": {
+   "head": [
+    "← All articles",
+    "MERCHANDISING",
+    "The 30% gap between planned merchandising and what's actually on shelves.",
+    "Why store-level execution so often betrays brand-level strategy — and how to close the gap with measurement that doesn't rely on self-reporting.",
+    "KV",
+    "Karthik Venkatesh",
+    "Director of Retail Execution",
+    "Mar 28, 2026 · 7 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "Almost every FMCG brand we benchmark has the same problem: what the trade marketing team plans and what the rep actually executes in-store diverge by an average of 30%. Sometimes more."
+    ],
+    [
+     "h2",
+     "Why it happens"
+    ],
+    [
+     "p",
+     "Planograms land in a rep's inbox as a PDF. The rep does their best. The auditor, weeks later, scores compliance from memory. Nobody is lying — the feedback loop is just too slow and fuzzy for anyone to act on."
+    ],
+    [
+     "h2",
+     "What closes it"
+    ],
+    [
+     "p",
+     "Photo-based compliance scoring with the planogram visible on-screen. Real-time feedback to the rep. Aggregate dashboards that highlight the exact 3 stores out of 400 where compliance is slipping. That's enough to flip merchandising from a lagging audit to a leading signal."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "ai-demand-forecasting": {
+   "head": [
+    "← All articles",
+    "AI IN FMCG",
+    "Stop forecasting demand with Excel. A practical guide to AI replenishment for distribution.",
+    "Classical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches — without hand-tuning 200 parameters.",
+    "PR",
+    "Priya Ramesh",
+    "Head of AI, Trackeys",
+    "Mar 19, 2026 · 9 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "Demand forecasting in FMCG distribution is still mostly a spreadsheet exercise. That's not because the spreadsheets are wrong — it's because the people running them are genuinely good at what they do. The problem is ceiling: at a certain SKU × store × week granularity, no human can hold enough context to be accurate."
+    ],
+    [
+     "h2",
+     "Where AI actually wins"
+    ],
+    [
+     "p",
+     "Three places: handling promo uplift as a continuous signal instead of a flag, recognizing seasonality at long tail (not just the top 20 SKUs), and cold-starting new products off taxonomy instead of history. Plus the obvious one — just doing all of it across millions of SKU-store combos."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "customer-story-gulf-beverages": {
+   "head": [
+    "← All articles",
+    "CUSTOMER STORIES",
+    "Gulf Beverages cut stockouts by 42% in 90 days.",
+    "Regional beverage distributor went from weekly stockout reports to live replenishment signals in under a quarter. The story — and the numbers.",
+    "Tt",
+    "Trackeys team",
+    "Mar 12, 2026 · 5 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "Gulf Beverages distributes 180 SKUs across 4,200 retail points in the UAE and Oman. Before Trackeys, stockouts averaged 11% — high enough to be a board-level topic. Ninety days after going live on Distribution + SFA, that number was 6.4%."
+    ],
+    [
+     "h2",
+     "What moved the needle"
+    ],
+    [
+     "p",
+     "Three things, in order of impact: demand forecasting that recognized promotion lift per-SKU instead of per-category; van sales that logged secondary sales at point of sale; and an HOD dashboard that surfaced the worst-performing 2% of stores every morning for targeted intervention."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "van-sales-offline-first": {
+   "head": [
+    "← All articles",
+    "DISTRIBUTION",
+    "Offline-first is not a feature. It's a philosophy.",
+    "Half your van-sales routes run through bad cellular zones. Building for that reality changes everything — from sync protocols to conflict resolution.",
+    "IS",
+    "Imran Shaikh",
+    "Head of Distribution, Trackeys",
+    "Feb 27, 2026 · 6 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "Most sales apps treat offline as a fallback mode. In FMCG van sales, offline is the default — at least half of the day. Designing an app that is great offline and excellent when connected is a fundamentally different engineering problem."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "customer-story-pan-india": {
+   "head": [
+    "← All articles",
+    "CUSTOMER STORIES",
+    "Pan-India FMCG brand onboards 1,400 distributors in 8 weeks.",
+    "The playbook that turned a two-year rollout estimate into a one-quarter reality — and what we learned about distributor change management.",
+    "Tt",
+    "Trackeys team",
+    "Feb 14, 2026 · 4 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "When the VP of distribution signed the contract, his internal estimate was 18–24 months to fully onboard. Eight weeks after kickoff, 1,400 distributors were live. Here's what it took — and what we'd do differently."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "retail-execution-metrics": {
+   "head": [
+    "← All articles",
+    "MERCHANDISING",
+    "The 5 retail execution metrics that actually correlate with revenue.",
+    "Compliance, availability, visibility, freshness, price. Here's the order of importance, how to measure each without self-reporting, and the benchmarks worth hitting.",
+    "KV",
+    "Karthik Venkatesh",
+    "Director of Retail Execution",
+    "Feb 03, 2026 · 7 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "There are about 40 \"retail execution\" metrics floating around industry white papers. Most are vanity. Five actually correlate, strongly, with revenue in the stores where you measure them."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  },
+  "customer-story-east-africa": {
+   "head": [
+    "← All articles",
+    "CUSTOMER STORIES",
+    "East-African FMCG cuts delivery cost-per-drop by 18%.",
+    "How a regional distributor used multi-factor AI routing to handle 60% more orders with the same fleet — and turned last-mile from cost center to growth lever.",
+    "Tt",
+    "Trackeys team",
+    "Jan 22, 2026 · 5 min read"
+   ],
+   "body": [
+    [
+     "p",
+     "Before Trackeys, the planning team built routes in a spreadsheet every morning at 5am. After Trackeys, the system builds them at 2am, the planners review at 6am, and the fleet rolls at 7am with 18% lower cost per drop."
+    ]
+   ],
+   "more": [
+    "Keep reading",
+    "Turn the ideas into outcomes. Book a 30-minute demo."
+   ]
+  }
+ },
+ "cases": {
+  "gulf-beverages": {
+   "head": [
+    "BEVERAGES · UAE",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+   ],
+   "card": [
+    [
+     "GULF",
+     "BEVERAGES"
+    ],
+    [],
+    [
+     "−42%",
+     "stockouts",
+     "+18%",
+     "secondary sales",
+     "90 days",
+     "time to value"
+    ]
+   ],
+   "stats": [
+    [
+     "GULF",
+     "BEVERAGES"
+    ],
+    [
+     "−42%",
+     "stockouts"
+    ],
+    [
+     "+18%",
+     "secondary sales"
+    ],
+    [
+     "90 days",
+     "time to value"
+    ]
+   ],
+   "blocks": [
+    [
+     "BEVERAGES · UAE",
+     "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+    ],
+    [
+     "CHALLENGE",
+     "Stockouts were 11% across a 4,200-outlet network. Distributor data arrived weekly at best. Replenishment decisions were made on 2-week-old data, and promo impact was always estimated in hindsight."
+    ],
+    [
+     "SOLUTION",
+     "Rolled out Trackeys Distribution + SFA with offline van-sales capture. Distributor portal replaced the weekly Excel with daily secondary-sales logging. AI forecast layered promo lift as a continuous signal per SKU."
+    ],
+    [
+     "OUTCOME",
+     "Within 90 days, stockouts dropped to 6.4%. Secondary sales rose 18%, attributed to better availability in fast-moving outlets. Promo-ROI analysis became weekly, not post-quarter."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+    ],
+    [
+     "Your story is next. Book a demo.",
+     "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+    ],
+    [
+     "Trackeys",
+     "AI-enhanced sales force tracking & automation. Every field activity, visible."
+    ]
+   ],
+   "quote": [
+    "Trackeys",
+    "Product",
+    "Solutions",
+    "Resources",
+    "Sign in",
+    "Book a demo",
+    "← All case studies",
+    "BEVERAGES · UAE",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "GULF",
+    "BEVERAGES",
+    "−42%",
+    "stockouts",
+    "+18%",
+    "secondary sales",
+    "90 days",
+    "time to value",
+    "CHALLENGE",
+    "Stockouts were 11% across a 4,200-outlet network. Distributor data arrived weekly at best. Replenishment decisions were made on 2-week-old data, and promo impact was always estimated in hindsight.",
+    "SOLUTION",
+    "Rolled out Trackeys Distribution + SFA with offline van-sales capture. Distributor portal replaced the weekly Excel with daily secondary-sales logging. AI forecast layered promo lift as a continuous signal per SKU.",
+    "OUTCOME",
+    "Within 90 days, stockouts dropped to 6.4%. Secondary sales rose 18%, attributed to better availability in fast-moving outlets. Promo-ROI analysis became weekly, not post-quarter.",
+    "“Trackeys turned distribution from a black box into a real-time steering wheel. We don't guess anymore — we know.”",
+    "— Hassan Al-Mansoori, VP Distribution",
+    "More customer stories",
+    "CUSTOMER STORIES",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "Packaged foods · India",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "CUSTOMER STORIES",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "Logistics · Kenya",
+    "CUSTOMER STORIES",
+    "Planogram compliance from 61% to 89% in one quarter.",
+    "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.",
+    "Beverages · Saudi Arabia",
+    "Your story is next. Book a demo.",
+    "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+    "Book a demo",
+    "Watch 2-min overview",
+    "Trackeys",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+    "PRODUCT",
+    "Sales Force Automation",
+    "Delivery & Routing",
+    "Merchandising AI",
+    "Distribution",
+    "Fleet Management",
+    "Integrations",
+    "SOLUTIONS",
+    "FMCG",
+    "Logistics",
+    "Distribution",
+    "Fleet",
+    "RESOURCES",
+    "All resources",
+    "Blog",
+    "Case studies",
+    "Book a demo",
+    "Documentation",
+    "Security",
+    "© 2026 Koraspond Technologies. Trackeys is a Koraspond product.",
+    "Privacy",
+    "Terms",
+    "Security",
+    "Cookies"
+   ],
+   "h2s": [
+    "More customer stories",
+    "Your story is next. Book a demo."
+   ]
+  },
+  "pan-india-fmcg": {
+   "head": [
+    "PACKAGED FOODS · INDIA",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+   ],
+   "card": [
+    [
+     "PATIL",
+     "FOODS"
+    ],
+    [],
+    [
+     "1,400",
+     "distributors live in 8 weeks",
+     "6→1",
+     "tools consolidated",
+     "+22%",
+     "coverage"
+    ]
+   ],
+   "stats": [
+    [
+     "PATIL",
+     "FOODS"
+    ],
+    [
+     "1,400",
+     "distributors live in 8 weeks"
+    ],
+    [
+     "6→1",
+     "tools consolidated"
+    ],
+    [
+     "+22%",
+     "coverage"
+    ]
+   ],
+   "blocks": [
+    [
+     "PACKAGED FOODS · INDIA",
+     "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+    ],
+    [
+     "CHALLENGE",
+     "Sales ops ran on 6 disconnected systems per region. Distributor onboarding was a 90-day project. Leadership estimated a 2-year rollout for any unified platform."
+    ],
+    [
+     "SOLUTION",
+     "Phased rollout: 50 pilot distributors in week 2, then 3 regions per fortnight. Standard 30-minute onboarding flow for each distributor. Train-the-trainer model with regional leads."
+    ],
+    [
+     "OUTCOME",
+     "1,400 distributors live in 8 weeks. Coverage up 22% from improved beat-plan execution. 6 legacy tools sunset within the first quarter."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+    ],
+    [
+     "Your story is next. Book a demo.",
+     "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+    ],
+    [
+     "Trackeys",
+     "AI-enhanced sales force tracking & automation. Every field activity, visible."
+    ]
+   ],
+   "quote": [
+    "Trackeys",
+    "Product",
+    "Solutions",
+    "Resources",
+    "Sign in",
+    "Book a demo",
+    "← All case studies",
+    "PACKAGED FOODS · INDIA",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "PATIL",
+    "FOODS",
+    "1,400",
+    "distributors live in 8 weeks",
+    "6→1",
+    "tools consolidated",
+    "+22%",
+    "coverage",
+    "CHALLENGE",
+    "Sales ops ran on 6 disconnected systems per region. Distributor onboarding was a 90-day project. Leadership estimated a 2-year rollout for any unified platform.",
+    "SOLUTION",
+    "Phased rollout: 50 pilot distributors in week 2, then 3 regions per fortnight. Standard 30-minute onboarding flow for each distributor. Train-the-trainer model with regional leads.",
+    "OUTCOME",
+    "1,400 distributors live in 8 weeks. Coverage up 22% from improved beat-plan execution. 6 legacy tools sunset within the first quarter.",
+    "“The rollout velocity was the real surprise. We planned for 18 months. We finished in 8 weeks.”",
+    "— Ravi Patil, National Sales Director",
+    "More customer stories",
+    "CUSTOMER STORIES",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "Beverages · UAE",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "CUSTOMER STORIES",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "Logistics · Kenya",
+    "CUSTOMER STORIES",
+    "Planogram compliance from 61% to 89% in one quarter.",
+    "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.",
+    "Beverages · Saudi Arabia",
+    "Your story is next. Book a demo.",
+    "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+    "Book a demo",
+    "Watch 2-min overview",
+    "Trackeys",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+    "PRODUCT",
+    "Sales Force Automation",
+    "Delivery & Routing",
+    "Merchandising AI",
+    "Distribution",
+    "Fleet Management",
+    "Integrations",
+    "SOLUTIONS",
+    "FMCG",
+    "Logistics",
+    "Distribution",
+    "Fleet",
+    "RESOURCES",
+    "All resources",
+    "Blog",
+    "Case studies",
+    "Book a demo",
+    "Documentation",
+    "Security",
+    "© 2026 Koraspond Technologies. Trackeys is a Koraspond product.",
+    "Privacy",
+    "Terms",
+    "Security",
+    "Cookies"
+   ],
+   "h2s": [
+    "More customer stories",
+    "Your story is next. Book a demo."
+   ]
+  },
+  "east-africa-logistics": {
+   "head": [
+    "LOGISTICS · KENYA",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+   ],
+   "card": [
+    [
+     "SAVANNAH",
+     "LOGISTICS"
+    ],
+    [],
+    [
+     "−18%",
+     "cost per drop",
+     "+60%",
+     "orders handled",
+     "+25%",
+     "fleet utilization"
+    ]
+   ],
+   "stats": [
+    [
+     "SAVANNAH",
+     "LOGISTICS"
+    ],
+    [
+     "−18%",
+     "cost per drop"
+    ],
+    [
+     "+60%",
+     "orders handled"
+    ],
+    [
+     "+25%",
+     "fleet utilization"
+    ]
+   ],
+   "blocks": [
+    [
+     "LOGISTICS · KENYA",
+     "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+    ],
+    [
+     "CHALLENGE",
+     "Planners built routes manually every morning at 5am. Fleet utilization capped around 68%. As volume grew, planners couldn't keep up, and overtime costs started eating margins."
+    ],
+    [
+     "SOLUTION",
+     "Deployed Trackeys Delivery & Routing with multi-factor AI optimization: time-windows, vehicle constraints, driver hours, and live traffic. Planners shifted from building routes to reviewing exceptions."
+    ],
+    [
+     "OUTCOME",
+     "Cost per drop fell 18%. Fleet utilization climbed to 85%. Same team now handles 60% more orders."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+    ],
+    [
+     "Your story is next. Book a demo.",
+     "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+    ],
+    [
+     "Trackeys",
+     "AI-enhanced sales force tracking & automation. Every field activity, visible."
+    ]
+   ],
+   "quote": [
+    "Trackeys",
+    "Product",
+    "Solutions",
+    "Resources",
+    "Sign in",
+    "Book a demo",
+    "← All case studies",
+    "LOGISTICS · KENYA",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "SAVANNAH",
+    "LOGISTICS",
+    "−18%",
+    "cost per drop",
+    "+60%",
+    "orders handled",
+    "+25%",
+    "fleet utilization",
+    "CHALLENGE",
+    "Planners built routes manually every morning at 5am. Fleet utilization capped around 68%. As volume grew, planners couldn't keep up, and overtime costs started eating margins.",
+    "SOLUTION",
+    "Deployed Trackeys Delivery & Routing with multi-factor AI optimization: time-windows, vehicle constraints, driver hours, and live traffic. Planners shifted from building routes to reviewing exceptions.",
+    "OUTCOME",
+    "Cost per drop fell 18%. Fleet utilization climbed to 85%. Same team now handles 60% more orders.",
+    "“Our planners stopped being route-builders and became decision-makers. That's the real win.”",
+    "— Mary Kimani, Head of Operations",
+    "More customer stories",
+    "CUSTOMER STORIES",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "Beverages · UAE",
+    "CUSTOMER STORIES",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "Packaged foods · India",
+    "CUSTOMER STORIES",
+    "Planogram compliance from 61% to 89% in one quarter.",
+    "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.",
+    "Beverages · Saudi Arabia",
+    "Your story is next. Book a demo.",
+    "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+    "Book a demo",
+    "Watch 2-min overview",
+    "Trackeys",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+    "PRODUCT",
+    "Sales Force Automation",
+    "Delivery & Routing",
+    "Merchandising AI",
+    "Distribution",
+    "Fleet Management",
+    "Integrations",
+    "SOLUTIONS",
+    "FMCG",
+    "Logistics",
+    "Distribution",
+    "Fleet",
+    "RESOURCES",
+    "All resources",
+    "Blog",
+    "Case studies",
+    "Book a demo",
+    "Documentation",
+    "Security",
+    "© 2026 Koraspond Technologies. Trackeys is a Koraspond product.",
+    "Privacy",
+    "Terms",
+    "Security",
+    "Cookies"
+   ],
+   "h2s": [
+    "More customer stories",
+    "Your story is next. Book a demo."
+   ]
+  },
+  "gcc-beverage-brand": {
+   "head": [
+    "BEVERAGES · SAUDI ARABIA",
+    "Planogram compliance from 61% to 89% in one quarter.",
+    "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+   ],
+   "card": [
+    [
+     "AL-RIYADH",
+     "BEVCO"
+    ],
+    [],
+    [
+     "61%→89%",
+     "planogram compliance",
+     "+14%",
+     "share of shelf",
+     "−70%",
+     "audit cost"
+    ]
+   ],
+   "stats": [
+    [
+     "AL-RIYADH",
+     "BEVCO"
+    ],
+    [
+     "61%→89%",
+     "planogram compliance"
+    ],
+    [
+     "+14%",
+     "share of shelf"
+    ],
+    [
+     "−70%",
+     "audit cost"
+    ]
+   ],
+   "blocks": [
+    [
+     "BEVERAGES · SAUDI ARABIA",
+     "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+    ],
+    [
+     "CHALLENGE",
+     "Monthly human audits reported compliance around 75%, but trusted internal checks suggested reality was closer to 60%. The feedback loop was too slow for anyone to act on."
+    ],
+    [
+     "SOLUTION",
+     "Merchandising AI replaced manual audits with photo-based, real-time compliance scoring. Reps got instant feedback. HOD dashboards surfaced the bottom 5% of stores every morning."
+    ],
+    [
+     "OUTCOME",
+     "Verified compliance climbed from 61% to 89% in 90 days. Share of shelf gained 14%. Audit costs dropped 70%."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+    ],
+    [
+     "Your story is next. Book a demo.",
+     "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+    ],
+    [
+     "Trackeys",
+     "AI-enhanced sales force tracking & automation. Every field activity, visible."
+    ]
+   ],
+   "quote": [
+    "Trackeys",
+    "Product",
+    "Solutions",
+    "Resources",
+    "Sign in",
+    "Book a demo",
+    "← All case studies",
+    "BEVERAGES · SAUDI ARABIA",
+    "Planogram compliance from 61% to 89% in one quarter.",
+    "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.",
+    "AL-RIYADH",
+    "BEVCO",
+    "61%→89%",
+    "planogram compliance",
+    "+14%",
+    "share of shelf",
+    "−70%",
+    "audit cost",
+    "CHALLENGE",
+    "Monthly human audits reported compliance around 75%, but trusted internal checks suggested reality was closer to 60%. The feedback loop was too slow for anyone to act on.",
+    "SOLUTION",
+    "Merchandising AI replaced manual audits with photo-based, real-time compliance scoring. Reps got instant feedback. HOD dashboards surfaced the bottom 5% of stores every morning.",
+    "OUTCOME",
+    "Verified compliance climbed from 61% to 89% in 90 days. Share of shelf gained 14%. Audit costs dropped 70%.",
+    "“We went from arguing about compliance numbers to acting on them, daily.”",
+    "— Khalid Al-Shehri, Trade Marketing Director",
+    "More customer stories",
+    "CUSTOMER STORIES",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "Beverages · UAE",
+    "CUSTOMER STORIES",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "Packaged foods · India",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "CUSTOMER STORIES",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "Logistics · Kenya",
+    "Your story is next. Book a demo.",
+    "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+    "Book a demo",
+    "Watch 2-min overview",
+    "Trackeys",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+    "PRODUCT",
+    "Sales Force Automation",
+    "Delivery & Routing",
+    "Merchandising AI",
+    "Distribution",
+    "Fleet Management",
+    "Integrations",
+    "SOLUTIONS",
+    "FMCG",
+    "Logistics",
+    "Distribution",
+    "Fleet",
+    "RESOURCES",
+    "All resources",
+    "Blog",
+    "Case studies",
+    "Book a demo",
+    "Documentation",
+    "Security",
+    "© 2026 Koraspond Technologies. Trackeys is a Koraspond product.",
+    "Privacy",
+    "Terms",
+    "Security",
+    "Cookies"
+   ],
+   "h2s": [
+    "More customer stories",
+    "Your story is next. Book a demo."
+   ]
+  },
+  "pharma-distributor": {
+   "head": [
+    "PHARMA · EGYPT",
+    "99.7% batch-traceability accuracy across cold-chain distribution.",
+    "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs."
+   ],
+   "card": [
+    [
+     "CAIRO",
+     "PHARMA"
+    ],
+    [],
+    [
+     "99.7%",
+     "batch traceability",
+     "−65%",
+     "expiry wastage",
+     "100%",
+     "cold-chain compliance"
+    ]
+   ],
+   "stats": [
+    [
+     "CAIRO",
+     "PHARMA"
+    ],
+    [
+     "99.7%",
+     "batch traceability"
+    ],
+    [
+     "−65%",
+     "expiry wastage"
+    ],
+    [
+     "100%",
+     "cold-chain compliance"
+    ]
+   ],
+   "blocks": [
+    [
+     "PHARMA · EGYPT",
+     "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs."
+    ],
+    [
+     "CHALLENGE",
+     "Regulatory reporting required batch-level traceability to the end retail point. Existing system tracked only to distributor level, forcing 3 analysts to reconcile manually each month."
+    ],
+    [
+     "SOLUTION",
+     "Batch and expiry tracking at SKU level across the whole chain. IoT temperature sensors integrated with shipment records. Automated regulatory reporting."
+    ],
+    [
+     "OUTCOME",
+     "99.7% traceability accuracy — audit-ready in minutes, not days. Expiry wastage fell 65% from better FIFO enforcement."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+    ],
+    [
+     "Your story is next. Book a demo.",
+     "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+    ],
+    [
+     "Trackeys",
+     "AI-enhanced sales force tracking & automation. Every field activity, visible."
+    ]
+   ],
+   "quote": [
+    "Trackeys",
+    "Product",
+    "Solutions",
+    "Resources",
+    "Sign in",
+    "Book a demo",
+    "← All case studies",
+    "PHARMA · EGYPT",
+    "99.7% batch-traceability accuracy across cold-chain distribution.",
+    "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs.",
+    "CAIRO",
+    "PHARMA",
+    "99.7%",
+    "batch traceability",
+    "−65%",
+    "expiry wastage",
+    "100%",
+    "cold-chain compliance",
+    "CHALLENGE",
+    "Regulatory reporting required batch-level traceability to the end retail point. Existing system tracked only to distributor level, forcing 3 analysts to reconcile manually each month.",
+    "SOLUTION",
+    "Batch and expiry tracking at SKU level across the whole chain. IoT temperature sensors integrated with shipment records. Automated regulatory reporting.",
+    "OUTCOME",
+    "99.7% traceability accuracy — audit-ready in minutes, not days. Expiry wastage fell 65% from better FIFO enforcement.",
+    "“Regulatory audits went from a 2-week sprint to a 1-hour report generation.”",
+    "— Dr. Nadia Fouad, Head of Compliance",
+    "More customer stories",
+    "CUSTOMER STORIES",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "Beverages · UAE",
+    "CUSTOMER STORIES",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "Packaged foods · India",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "CUSTOMER STORIES",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "Logistics · Kenya",
+    "Your story is next. Book a demo.",
+    "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+    "Book a demo",
+    "Watch 2-min overview",
+    "Trackeys",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+    "PRODUCT",
+    "Sales Force Automation",
+    "Delivery & Routing",
+    "Merchandising AI",
+    "Distribution",
+    "Fleet Management",
+    "Integrations",
+    "SOLUTIONS",
+    "FMCG",
+    "Logistics",
+    "Distribution",
+    "Fleet",
+    "RESOURCES",
+    "All resources",
+    "Blog",
+    "Case studies",
+    "Book a demo",
+    "Documentation",
+    "Security",
+    "© 2026 Koraspond Technologies. Trackeys is a Koraspond product.",
+    "Privacy",
+    "Terms",
+    "Security",
+    "Cookies"
+   ],
+   "h2s": [
+    "More customer stories",
+    "Your story is next. Book a demo."
+   ]
+  },
+  "southeast-asia-dairy": {
+   "head": [
+    "DAIRY · INDONESIA",
+    "+28% sales per rep after 6 weeks on SFA + AI copilot.",
+    "Indonesian dairy brand deployed AI-assisted pre-sales with route optimization and upsell suggestions. Reps sold more, drove less."
+   ],
+   "card": [
+    [
+     "NUSANTARA",
+     "DAIRY"
+    ],
+    [],
+    [
+     "+28%",
+     "sales per rep",
+     "+34%",
+     "upsell attach rate",
+     "−22%",
+     "drive time"
+    ]
+   ],
+   "stats": [
+    [
+     "NUSANTARA",
+     "DAIRY"
+    ],
+    [
+     "+28%",
+     "sales per rep"
+    ],
+    [
+     "+34%",
+     "upsell attach rate"
+    ],
+    [
+     "−22%",
+     "drive time"
+    ]
+   ],
+   "blocks": [
+    [
+     "DAIRY · INDONESIA",
+     "Indonesian dairy brand deployed AI-assisted pre-sales with route optimization and upsell suggestions. Reps sold more, drove less."
+    ],
+    [
+     "CHALLENGE",
+     "Sales per rep was plateauing. Reps followed fixed beat plans and missed upsell opportunities, especially on high-margin premium SKUs."
+    ],
+    [
+     "SOLUTION",
+     "AI sales copilot surfaced upsell cues per customer based on order history and SKU affinity. Route optimization cut drive time and added 2 visits per day."
+    ],
+    [
+     "OUTCOME",
+     "Sales per rep rose 28%. Upsell attach rate climbed 34%. Drive time dropped 22%, enabling the extra visits."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+    ],
+    [
+     "CUSTOMER STORIES",
+     "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+    ],
+    [
+     "Your story is next. Book a demo.",
+     "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+    ],
+    [
+     "Trackeys",
+     "AI-enhanced sales force tracking & automation. Every field activity, visible."
+    ]
+   ],
+   "quote": [
+    "Trackeys",
+    "Product",
+    "Solutions",
+    "Resources",
+    "Sign in",
+    "Book a demo",
+    "← All case studies",
+    "DAIRY · INDONESIA",
+    "+28% sales per rep after 6 weeks on SFA + AI copilot.",
+    "Indonesian dairy brand deployed AI-assisted pre-sales with route optimization and upsell suggestions. Reps sold more, drove less.",
+    "NUSANTARA",
+    "DAIRY",
+    "+28%",
+    "sales per rep",
+    "+34%",
+    "upsell attach rate",
+    "−22%",
+    "drive time",
+    "CHALLENGE",
+    "Sales per rep was plateauing. Reps followed fixed beat plans and missed upsell opportunities, especially on high-margin premium SKUs.",
+    "SOLUTION",
+    "AI sales copilot surfaced upsell cues per customer based on order history and SKU affinity. Route optimization cut drive time and added 2 visits per day.",
+    "OUTCOME",
+    "Sales per rep rose 28%. Upsell attach rate climbed 34%. Drive time dropped 22%, enabling the extra visits.",
+    "“The copilot doesn't replace the rep's judgment — it sharpens it. Every visit gets two seconds of AI context.”",
+    "— Dimas Wijaya, National Sales Manager",
+    "More customer stories",
+    "CUSTOMER STORIES",
+    "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "Beverages · UAE",
+    "CUSTOMER STORIES",
+    "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned.",
+    "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "Packaged foods · India",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "CUSTOMER STORIES",
+    "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+    "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "Logistics · Kenya",
+    "Your story is next. Book a demo.",
+    "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+    "Book a demo",
+    "Watch 2-min overview",
+    "Trackeys",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+    "PRODUCT",
+    "Sales Force Automation",
+    "Delivery & Routing",
+    "Merchandising AI",
+    "Distribution",
+    "Fleet Management",
+    "Integrations",
+    "SOLUTIONS",
+    "FMCG",
+    "Logistics",
+    "Distribution",
+    "Fleet",
+    "RESOURCES",
+    "All resources",
+    "Blog",
+    "Case studies",
+    "Book a demo",
+    "Documentation",
+    "Security",
+    "© 2026 Koraspond Technologies. Trackeys is a Koraspond product.",
+    "Privacy",
+    "Terms",
+    "Security",
+    "Cookies"
+   ],
+   "h2s": [
+    "More customer stories",
+    "Your story is next. Book a demo."
+   ]
+  }
+ },
+ "pricing": {
+  "tiers": [
+   {
+    "lines": [
+     "Starter",
+     "For small teams getting field ops onto one system.",
+     "$29per user / month",
+     "Billed annually · min. 5 users",
+     "Start 14-day trial",
+     "WHAT'S INCLUDED",
+     "Sales Force Automation (core)",
+     "Offline-first mobile app",
+     "Up to 5,000 visits / month",
+     "Real-time GPS tracking",
+     "Dispatch & POD workflows",
+     "Email support"
+    ],
+    "li": [
+     "Sales Force Automation (core)",
+     "Offline-first mobile app",
+     "Up to 5,000 visits / month",
+     "Real-time GPS tracking",
+     "Dispatch & POD workflows",
+     "Email support"
+    ]
+   },
+   {
+    "lines": [
+     "MOST POPULAR",
+     "Growth",
+     "For scaling distributors, FMCG brands and logistics ops.",
+     "$79per user / month",
+     "Billed annually · min. 15 users",
+     "Start 14-day trial",
+     "EVERYTHING IN STARTER, PLUS",
+     "AI route optimization (multi-factor)",
+     "Van sales & mobile invoicing",
+     "Merchandising AI (10k shelf scans/mo)",
+     "Distribution Management (DMS)",
+     "Role-based dashboards (HOD, Ops, Driver)",
+     "Up to 50,000 visits / month",
+     "Priority support · 4-hour SLA",
+     "API access + 3 integrations"
+    ],
+    "li": [
+     "AI route optimization (multi-factor)",
+     "Van sales & mobile invoicing",
+     "Merchandising AI (10k shelf scans/mo)",
+     "Distribution Management (DMS)",
+     "Role-based dashboards (HOD, Ops, Driver)",
+     "Up to 50,000 visits / month",
+     "Priority support · 4-hour SLA",
+     "API access + 3 integrations"
+    ]
+   },
+   {
+    "lines": [
+     "Enterprise",
+     "For multi-country operations with custom workflows.",
+     "Custom pricing",
+     "Annual contract · volume pricing",
+     "Contact sales",
+     "EVERYTHING IN GROWTH, PLUS",
+     "Unlimited visits + shelf scans",
+     "Multi-entity, multi-currency, multi-tax",
+     "Dedicated success manager",
+     "Custom integrations (SAP, Oracle, D365)",
+     "On-prem or private cloud option",
+     "Advanced security (SSO, SCIM, audit logs)",
+     "99.95% uptime SLA",
+     "Custom AI model training"
+    ],
+    "li": [
+     "Unlimited visits + shelf scans",
+     "Multi-entity, multi-currency, multi-tax",
+     "Dedicated success manager",
+     "Custom integrations (SAP, Oracle, D365)",
+     "On-prem or private cloud option",
+     "Advanced security (SSO, SCIM, audit logs)",
+     "99.95% uptime SLA",
+     "Custom AI model training"
+    ]
+   }
+  ],
+  "rows": [
+   [
+    "COMPARE",
+    "Full feature comparison.",
+    "Every capability, line by line, across the three tiers."
+   ],
+   [
+    "FEATURE",
+    "Starter",
+    "Growth",
+    "Enterprise"
+   ],
+   [
+    "Pre-sales & van sales",
+    "✓",
+    "✓",
+    "✓"
+   ],
+   [
+    "Offline-first mobile app",
+    "✓",
+    "✓",
+    "✓"
+   ],
+   [
+    "Real-time GPS tracking",
+    "✓",
+    "✓",
+    "✓"
+   ],
+   [
+    "Proof-of-delivery workflows",
+    "✓",
+    "✓",
+    "✓"
+   ],
+   [
+    "DISTRIBUTION & DMS",
+    "✓",
+    "✓",
+    "✓",
+    "✓"
+   ]
+  ],
+  "groupsText": [
+   "COMPARE",
+   "Full feature comparison.",
+   "Every capability, line by line, across the three tiers.",
+   "FEATURE",
+   "Starter",
+   "Growth",
+   "Enterprise",
+   "SALES FORCE AUTOMATION",
+   "Visits / month",
+   "5,000",
+   "50,000",
+   "Unlimited",
+   "Pre-sales & van sales",
+   "Offline-first mobile app",
+   "AI sales copilot",
+   "—",
+   "Territory planning AI",
+   "—",
+   "DELIVERY & ROUTING",
+   "Real-time GPS tracking",
+   "Proof-of-delivery workflows",
+   "AI multi-factor routing",
+   "Basic",
+   "Full",
+   "Full + custom",
+   "Dynamic re-routing",
+   "—",
+   "Customer tracking page",
+   "—",
+   "MERCHANDISING AI",
+   "Shelf scans / month",
+   "—",
+   "10,000",
+   "Unlimited",
+   "Planogram compliance",
+   "—",
+   "Share-of-shelf analytics",
+   "—",
+   "Custom model training",
+   "—",
+   "—",
+   "DISTRIBUTION & DMS",
+   "Distributor portal",
+   "—",
+   "AI demand forecasting",
+   "—",
+   "Secondary sales tracking",
+   "—",
+   "Trade spend management",
+   "—",
+   "—",
+   "PLATFORM & SUPPORT",
+   "Users",
+   "5–25",
+   "15–500",
+   "Unlimited",
+   "Role-based dashboards",
+   "3 roles",
+   "All roles",
+   "Custom roles",
+   "API access",
+   "—",
+   "Integrations included",
+   "—",
+   "3",
+   "Unlimited",
+   "SSO / SCIM",
+   "—",
+   "—",
+   "Audit logs",
+   "—",
+   "Standard",
+   "Advanced",
+   "Uptime SLA",
+   "99.5%",
+   "99.9%",
+   "99.95%",
+   "Support",
+   "Email",
+   "Priority · 4h SLA",
+   "Dedicated CSM",
+   "Onboarding",
+   "Self-serve",
+   "Guided",
+   "White-glove"
+  ]
+ },
+ "demo": {
+  "labels": [
+   "FULL NAME *",
+   "WORK EMAIL *",
+   "COMPANY *",
+   "PHONE",
+   "COUNTRY",
+   "INDUSTRY",
+   "TEAM SIZE",
+   "CURRENT TOOLS (OPTIONAL)",
+   "WHAT ARE YOU HOPING TO SEE?"
+  ],
+  "ph": [
+   "Jane Smith",
+   "jane@company.com",
+   "Acme FMCG",
+   "+971 50 000 0000",
+   "e.g. SAP, Salesforce, Excel, custom app",
+   "Pain points, goals, must-haves..."
+  ],
+  "selects": [
+   [
+    "Select...",
+    "Afghanistan",
+    "Albania",
+    "Algeria",
+    "Andorra",
+    "Angola",
+    "Argentina",
+    "Armenia",
+    "Australia",
+    "Austria",
+    "Azerbaijan",
+    "Bahamas",
+    "Bahrain",
+    "Bangladesh",
+    "Barbados",
+    "Belarus",
+    "Belgium",
+    "Belize",
+    "Benin",
+    "Bhutan",
+    "Bolivia",
+    "Bosnia and Herzegovina",
+    "Botswana",
+    "Brazil",
+    "Brunei",
+    "Bulgaria",
+    "Burkina Faso",
+    "Burundi",
+    "Cambodia",
+    "Cameroon",
+    "Canada",
+    "Cape Verde",
+    "Central African Republic",
+    "Chad",
+    "Chile",
+    "China",
+    "Colombia",
+    "Comoros",
+    "Congo (Brazzaville)",
+    "Congo (Kinshasa)",
+    "Costa Rica",
+    "Croatia",
+    "Cuba",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Djibouti",
+    "Dominica",
+    "Dominican Republic",
+    "Ecuador",
+    "Egypt",
+    "El Salvador",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Estonia",
+    "Eswatini",
+    "Ethiopia",
+    "Fiji",
+    "Finland",
+    "France",
+    "Gabon",
+    "Gambia",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Greece",
+    "Grenada",
+    "Guatemala",
+    "Guinea",
+    "Guinea-Bissau",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iran",
+    "Iraq",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kiribati",
+    "Kuwait",
+    "Kyrgyzstan",
+    "Laos",
+    "Latvia",
+    "Lebanon",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Madagascar",
+    "Malawi",
+    "Malaysia",
+    "Maldives",
+    "Mali",
+    "Malta",
+    "Marshall Islands",
+    "Mauritania",
+    "Mauritius",
+    "Mexico",
+    "Micronesia",
+    "Moldova",
+    "Monaco",
+    "Mongolia",
+    "Montenegro",
+    "Morocco",
+    "Mozambique",
+    "Myanmar",
+    "Namibia",
+    "Nauru",
+    "Nepal",
+    "Netherlands",
+    "New Zealand",
+    "Nicaragua",
+    "Niger",
+    "Nigeria",
+    "North Korea",
+    "North Macedonia",
+    "Norway",
+    "Oman",
+    "Pakistan",
+    "Palau",
+    "Palestine",
+    "Panama",
+    "Papua New Guinea",
+    "Paraguay",
+    "Peru",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Russia",
+    "Rwanda",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Samoa",
+    "San Marino",
+    "Sao Tome and Principe",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia",
+    "Seychelles",
+    "Sierra Leone",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "Solomon Islands",
+    "Somalia",
+    "South Africa",
+    "South Korea",
+    "South Sudan",
+    "Spain",
+    "Sri Lanka",
+    "Sudan",
+    "Suriname",
+    "Sweden",
+    "Switzerland",
+    "Syria",
+    "Taiwan",
+    "Tajikistan",
+    "Tanzania",
+    "Thailand",
+    "Timor-Leste",
+    "Togo",
+    "Tonga",
+    "Trinidad and Tobago",
+    "Tunisia",
+    "Turkey",
+    "Turkmenistan",
+    "Tuvalu",
+    "Uganda",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States",
+    "Uruguay",
+    "Uzbekistan",
+    "Vanuatu",
+    "Vatican City",
+    "Venezuela",
+    "Vietnam",
+    "Yemen",
+    "Zambia",
+    "Zimbabwe"
+   ],
+   [
+    "Select...",
+    "FMCG / CPG",
+    "Logistics & Supply Chain",
+    "Distribution",
+    "Pharma",
+    "Retail",
+    "Other"
+   ],
+   [
+    "Select...",
+    "1–25",
+    "26–100",
+    "101–500",
+    "501–2,000",
+    "2,000+"
+   ]
+  ],
+  "page": [
+   "BOOK A DEMO",
+   "See Trackeys on your data. In 30 minutes.",
+   "Live walkthrough tailored to your industry. Bring a sample of your stores, SKUs or routes — we'll load it and show you what Trackeys surfaces.",
+   "30 minutes, tailored to you",
+   "We set up a demo on your industry and workflows — not a canned script.",
+   "See your data, not lorem ipsum",
+   "Bring a CSV of stores, SKUs or reps. We'll show live insights within minutes.",
+   "Meet a specialist, not a BDR",
+   "You talk to someone who's rolled out Trackeys — not a qualifier.",
+   "Leave with a pilot plan",
+   "A concrete next-step proposal in your inbox within 24 hours.",
+   "STEP 1 OF 2",
+   "Tell us about your team.",
+   "FULL NAME *",
+   "WORK EMAIL *",
+   "COMPANY *",
+   "PHONE",
+   "COUNTRY",
+   "Select...",
+   "Afghanistan",
+   "Albania",
+   "Algeria",
+   "Andorra",
+   "Angola",
+   "Argentina",
+   "Armenia",
+   "Australia",
+   "Austria",
+   "Azerbaijan",
+   "Bahamas",
+   "Bahrain",
+   "Bangladesh",
+   "Barbados",
+   "Belarus",
+   "Belgium",
+   "Belize",
+   "Benin",
+   "Bhutan",
+   "Bolivia",
+   "Bosnia and Herzegovina",
+   "Botswana",
+   "Brazil",
+   "Brunei",
+   "Bulgaria",
+   "Burkina Faso",
+   "Burundi",
+   "Cambodia",
+   "Cameroon",
+   "Canada",
+   "Cape Verde",
+   "Central African Republic",
+   "Chad",
+   "Chile",
+   "China",
+   "Colombia",
+   "Comoros",
+   "Congo (Brazzaville)",
+   "Congo (Kinshasa)",
+   "Costa Rica",
+   "Croatia",
+   "Cuba",
+   "Cyprus",
+   "Czech Republic",
+   "Denmark",
+   "Djibouti",
+   "Dominica",
+   "Dominican Republic",
+   "Ecuador",
+   "Egypt",
+   "El Salvador",
+   "Equatorial Guinea",
+   "Eritrea",
+   "Estonia",
+   "Eswatini",
+   "Ethiopia",
+   "Fiji",
+   "Finland",
+   "France",
+   "Gabon",
+   "Gambia",
+   "Georgia",
+   "Germany",
+   "Ghana",
+   "Greece",
+   "Grenada",
+   "Guatemala",
+   "Guinea",
+   "Guinea-Bissau",
+   "Guyana",
+   "Haiti",
+   "Honduras",
+   "Hungary",
+   "Iceland",
+   "India",
+   "Indonesia",
+   "Iran",
+   "Iraq",
+   "Ireland",
+   "Israel",
+   "Italy",
+   "Jamaica",
+   "Japan",
+   "Jordan",
+   "Kazakhstan",
+   "Kenya",
+   "Kiribati",
+   "Kuwait",
+   "Kyrgyzstan",
+   "Laos",
+   "Latvia",
+   "Lebanon",
+   "Lesotho",
+   "Liberia",
+   "Libya",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Madagascar",
+   "Malawi",
+   "Malaysia",
+   "Maldives",
+   "Mali",
+   "Malta",
+   "Marshall Islands",
+   "Mauritania",
+   "Mauritius",
+   "Mexico",
+   "Micronesia",
+   "Moldova",
+   "Monaco",
+   "Mongolia",
+   "Montenegro",
+   "Morocco",
+   "Mozambique",
+   "Myanmar",
+   "Namibia",
+   "Nauru",
+   "Nepal",
+   "Netherlands",
+   "New Zealand",
+   "Nicaragua",
+   "Niger",
+   "Nigeria",
+   "North Korea",
+   "North Macedonia",
+   "Norway",
+   "Oman",
+   "Pakistan",
+   "Palau",
+   "Palestine",
+   "Panama",
+   "Papua New Guinea",
+   "Paraguay",
+   "Peru",
+   "Philippines",
+   "Poland",
+   "Portugal",
+   "Qatar",
+   "Romania",
+   "Russia",
+   "Rwanda",
+   "Saint Kitts and Nevis",
+   "Saint Lucia",
+   "Saint Vincent and the Grenadines",
+   "Samoa",
+   "San Marino",
+   "Sao Tome and Principe",
+   "Saudi Arabia",
+   "Senegal",
+   "Serbia",
+   "Seychelles",
+   "Sierra Leone",
+   "Singapore",
+   "Slovakia",
+   "Slovenia",
+   "Solomon Islands",
+   "Somalia",
+   "South Africa",
+   "South Korea",
+   "South Sudan",
+   "Spain",
+   "Sri Lanka",
+   "Sudan",
+   "Suriname",
+   "Sweden",
+   "Switzerland",
+   "Syria",
+   "Taiwan",
+   "Tajikistan",
+   "Tanzania",
+   "Thailand",
+   "Timor-Leste",
+   "Togo",
+   "Tonga",
+   "Trinidad and Tobago",
+   "Tunisia",
+   "Turkey",
+   "Turkmenistan",
+   "Tuvalu",
+   "Uganda",
+   "Ukraine",
+   "United Arab Emirates",
+   "United Kingdom",
+   "United States",
+   "Uruguay",
+   "Uzbekistan",
+   "Vanuatu",
+   "Vatican City",
+   "Venezuela",
+   "Vietnam",
+   "Yemen",
+   "Zambia",
+   "Zimbabwe",
+   "INDUSTRY",
+   "Select...",
+   "FMCG / CPG",
+   "Logistics & Supply Chain",
+   "Distribution",
+   "Pharma",
+   "Retail",
+   "Other",
+   "TEAM SIZE",
+   "Select...",
+   "1–25",
+   "26–100",
+   "101–500",
+   "501–2,000",
+   "2,000+",
+   "CURRENT TOOLS (OPTIONAL)",
+   "WHAT ARE YOU HOPING TO SEE?",
+   "Continue to calendar →"
+  ]
+ }
+}

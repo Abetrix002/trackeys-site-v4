@@ -1,0 +1,655 @@
+{
+ "title": "For Fleet Management — Trackeys",
+ "hero": {
+  "eyebrow": "FOR FLEET MANAGEMENT",
+  "h1": "Your fleet — where it is, what it's doing, what it costs.",
+  "p": "Trackeys gives fleet managers real-time location, driver behavior, maintenance and utilization for mixed fleets of any size.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "−15%",
+    "fuel cost"
+   ],
+   [
+    "+20%",
+    "on-time deliveries"
+   ],
+   [
+    "+25%",
+    "vehicle utilization"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "Depot",
+     "07:00",
+     "Carrefour",
+     "07:42",
+     "LuLu",
+     "08:18",
+     "Spinneys",
+     "09:05",
+     "Al Maya",
+     "09:50",
+     "Choithrams",
+     "10:35",
+     "ROUTE DXB-N-03",
+     "11 stops · 48 km",
+     "AI SAVED",
+     "14 min · 8 km"
+    ],
+    "svg": [
+     "Depot",
+     "07:00",
+     "Carrefour",
+     "07:42",
+     "LuLu",
+     "08:18",
+     "Spinneys",
+     "09:05",
+     "Al Maya",
+     "09:50",
+     "Choithrams",
+     "10:35"
+    ]
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Everything a modern fleet manager needs.",
+   "sub": "Tracking, driver safety, maintenance and cost — in one operational view.",
+   "items": [
+    {
+     "title": "Live vehicle tracking",
+     "desc": "Every vehicle on the map with 5-second latency and accuracy radius reporting.",
+     "bullets": [
+      "Battery-optimized polling",
+      "Geofence triggers",
+      "Historical replay"
+     ],
+     "lines": [
+      "Live vehicle tracking",
+      "Every vehicle on the map with 5-second latency and accuracy radius reporting.",
+      "Battery-optimized polling",
+      "Geofence triggers",
+      "Historical replay"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Driver behavior & safety",
+     "desc": "Speeding, harsh braking, cornering and idling — scored per driver with coaching workflows.",
+     "bullets": [
+      "Safety scorecards",
+      "Harsh event alerts",
+      "Coaching playlists"
+     ],
+     "lines": [
+      "Driver behavior & safety",
+      "Speeding, harsh braking, cornering and idling — scored per driver with coaching workflows.",
+      "Safety scorecards",
+      "Harsh event alerts",
+      "Coaching playlists"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Maintenance scheduling",
+     "desc": "Odometer, engine-hour and event-based triggers. Preventive schedules and workshop coordination.",
+     "bullets": [
+      "PM scheduling",
+      "DVIR (vehicle inspection)",
+      "Workshop integration"
+     ],
+     "lines": [
+      "Maintenance scheduling",
+      "Odometer, engine-hour and event-based triggers. Preventive schedules and workshop coordination.",
+      "PM scheduling",
+      "DVIR (vehicle inspection)",
+      "Workshop integration"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Fuel & cost tracking",
+     "desc": "Fuel card integration, theft detection and cost-per-kilometer by vehicle and driver.",
+     "bullets": [
+      "Fuel card reconciliation",
+      "Theft anomalies",
+      "CPK & TCO"
+     ],
+     "lines": [
+      "Fuel & cost tracking",
+      "Fuel card integration, theft detection and cost-per-kilometer by vehicle and driver.",
+      "Fuel card reconciliation",
+      "Theft anomalies",
+      "CPK & TCO"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Route & utilization",
+     "desc": "Optimize vehicle allocation across jobs. Measure utilization and identify idle assets.",
+     "bullets": [
+      "Utilization scorecards",
+      "Idle asset alerts",
+      "Job-vehicle fit"
+     ],
+     "lines": [
+      "Route & utilization",
+      "Optimize vehicle allocation across jobs. Measure utilization and identify idle assets.",
+      "Utilization scorecards",
+      "Idle asset alerts",
+      "Job-vehicle fit"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Telematics-ready",
+     "desc": "Plug in existing hardware or use Trackeys-certified devices. All data in one view.",
+     "bullets": [
+      "Samsara · Geotab · Motive",
+      "BYO telematics",
+      "Trackeys devices"
+     ],
+     "lines": [
+      "Telematics-ready",
+      "Plug in existing hardware or use Trackeys-certified devices. All data in one view.",
+      "Samsara · Geotab · Motive",
+      "BYO telematics",
+      "Trackeys devices"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "From key turn to scheduled service.",
+   "sub": "How a vehicle-day runs through Trackeys.",
+   "items": [
+    {
+     "title": "Assign",
+     "desc": "Vehicle and driver allocated to job based on fit, hours and availability.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Assign",
+      "Vehicle and driver allocated to job based on fit, hours and availability."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Inspect",
+     "desc": "Pre-trip DVIR captures vehicle condition with photos and sign-off.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "Inspect",
+      "Pre-trip DVIR captures vehicle condition with photos and sign-off."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Track",
+     "desc": "Location, speed, and safety events stream live to ops.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "Track",
+      "Location, speed, and safety events stream live to ops."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Deliver",
+     "desc": "Jobs completed with POD. Mileage and fuel captured automatically.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Deliver",
+      "Jobs completed with POD. Mileage and fuel captured automatically."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Close",
+     "desc": "Post-trip DVIR, driver settlement and vehicle parking logged.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Close",
+      "Post-trip DVIR, driver settlement and vehicle parking logged."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Maintain",
+     "desc": "Upcoming PM and alerts surface; workshop slots auto-scheduled.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Maintain",
+      "Upcoming PM and alerts surface; workshop slots auto-scheduled."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "Fleet managers running Trackeys cut cost and lift utilization together.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "−15%",
+      "fuel cost",
+      "Route + behavior coaching combined"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+20%",
+      "on-time deliveries",
+      "Live re-routing and visibility"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+25%",
+      "vehicle utilization",
+      "Smarter allocation"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Works with your fleet hardware and systems.",
+   "sub": "Native telematics, fuel card and ERP integrations.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "Samsara",
+      "Telematics + video"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "GE",
+      "Geotab",
+      "GO devices"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "MO",
+      "Motive",
+      "Fleet + ELD"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "FL",
+      "Fleetio",
+      "Maintenance"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "WE",
+      "WEX",
+      "Fuel cards"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SH",
+      "Shell Card",
+      "Fuel data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "SAP PM",
+      "Plant maintenance"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OR",
+      "Oracle EAM",
+      "Asset mgmt"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Does Trackeys work with our existing GPS hardware?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How is driver behavior scored?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can drivers see their own scorecards?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Yes. Vehicle profiles model weight, volume, fuel type, emissions and job fit. The routing and allocation engine respects constraints for every vehicle class.",
+     "bullets": [],
+     "lines": [
+      "Does it handle mixed fleets (trucks, vans, cars, bikes)?",
+      "Yes. Vehicle profiles model weight, volume, fuel type, emissions and job fit. The routing and allocation engine respects constraints for every vehicle class."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Does Trackeys work with our existing GPS hardware?",
+    "How is driver behavior scored?",
+    "Can drivers see their own scorecards?",
+    "Does it handle mixed fleets (trucks, vans, cars, bikes)?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Give your fleet a brain. And give your manager their evenings back.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Trackeys gives fleet managers real-time location, driver behavior, maintenance and utilization for mixed fleets of any size."
+  ],
+  [
+   "h2",
+   "Everything a modern fleet manager needs."
+  ],
+  [
+   "p",
+   "Tracking, driver safety, maintenance and cost — in one operational view."
+  ],
+  [
+   "p",
+   "Every vehicle on the map with 5-second latency and accuracy radius reporting."
+  ],
+  [
+   "li",
+   "Battery-optimized polling"
+  ],
+  [
+   "li",
+   "Geofence triggers"
+  ],
+  [
+   "li",
+   "Historical replay"
+  ],
+  [
+   "p",
+   "Speeding, harsh braking, cornering and idling — scored per driver with coaching workflows."
+  ],
+  [
+   "li",
+   "Safety scorecards"
+  ],
+  [
+   "li",
+   "Harsh event alerts"
+  ],
+  [
+   "li",
+   "Coaching playlists"
+  ],
+  [
+   "p",
+   "Odometer, engine-hour and event-based triggers. Preventive schedules and workshop coordination."
+  ],
+  [
+   "li",
+   "PM scheduling"
+  ],
+  [
+   "li",
+   "DVIR (vehicle inspection)"
+  ],
+  [
+   "li",
+   "Workshop integration"
+  ],
+  [
+   "p",
+   "Fuel card integration, theft detection and cost-per-kilometer by vehicle and driver."
+  ],
+  [
+   "li",
+   "Fuel card reconciliation"
+  ],
+  [
+   "li",
+   "Theft anomalies"
+  ],
+  [
+   "li",
+   "CPK & TCO"
+  ],
+  [
+   "p",
+   "Optimize vehicle allocation across jobs. Measure utilization and identify idle assets."
+  ],
+  [
+   "li",
+   "Utilization scorecards"
+  ],
+  [
+   "li",
+   "Idle asset alerts"
+  ],
+  [
+   "li",
+   "Job-vehicle fit"
+  ],
+  [
+   "p",
+   "Plug in existing hardware or use Trackeys-certified devices. All data in one view."
+  ],
+  [
+   "li",
+   "Samsara · Geotab · Motive"
+  ],
+  [
+   "li",
+   "BYO telematics"
+  ],
+  [
+   "li",
+   "Trackeys devices"
+  ],
+  [
+   "h2",
+   "From key turn to scheduled service."
+  ],
+  [
+   "p",
+   "How a vehicle-day runs through Trackeys."
+  ],
+  [
+   "p",
+   "Vehicle and driver allocated to job based on fit, hours and availability."
+  ],
+  [
+   "p",
+   "Pre-trip DVIR captures vehicle condition with photos and sign-off."
+  ],
+  [
+   "p",
+   "Location, speed, and safety events stream live to ops."
+  ],
+  [
+   "p",
+   "Jobs completed with POD. Mileage and fuel captured automatically."
+  ],
+  [
+   "p",
+   "Post-trip DVIR, driver settlement and vehicle parking logged."
+  ],
+  [
+   "p",
+   "Upcoming PM and alerts surface; workshop slots auto-scheduled."
+  ],
+  [
+   "h2",
+   "Fleet managers running Trackeys cut cost and lift utilization together."
+  ],
+  [
+   "h2",
+   "Works with your fleet hardware and systems."
+  ],
+  [
+   "p",
+   "Native telematics, fuel card and ERP integrations."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Yes. Vehicle profiles model weight, volume, fuel type, emissions and job fit. The routing and allocation engine respects constraints for every vehicle class."
+  ],
+  [
+   "h2",
+   "Give your fleet a brain. And give your manager their evenings back."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "Does Trackeys work with our existing GPS hardware?",
+   "a": "Yes. Certified connectors for Samsara, Geotab, Motive and most major telematics providers. For proprietary or niche devices, a standardized ingest API handles the rest."
+  },
+  {
+   "q": "How is driver behavior scored?",
+   "a": "A composite score weighs speeding (vs. posted limits), harsh braking, acceleration, cornering, idling and seatbelt compliance. Weights are configurable per fleet profile and the engine learns from your historical data."
+  },
+  {
+   "q": "Can drivers see their own scorecards?",
+   "a": "Yes. Drivers get a mobile scorecard with their own trends, coaching tips and peer comparisons. Gamification is optional — with leaderboards that reward safety and efficiency."
+  },
+  {
+   "q": "Does it handle mixed fleets (trucks, vans, cars, bikes)?",
+   "a": "Yes. Vehicle profiles model weight, volume, fuel type, emissions and job fit. The routing and allocation engine respects constraints for every vehicle class."
+  }
+ ]
+}

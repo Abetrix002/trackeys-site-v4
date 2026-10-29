@@ -1,0 +1,647 @@
+{
+ "title": "For FMCG — Trackeys",
+ "hero": {
+  "eyebrow": "FOR FMCG",
+  "h1": "Every shelf, every store, every rep — one operating system.",
+  "p": "Trackeys unifies pre-sales, van sales, merchandising and distribution for FMCG brands that need retail execution at scale.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "+15%",
+    "store coverage"
+   ],
+   [
+    "+20%",
+    "merch compliance"
+   ],
+   [
+    "+15%",
+    "sales per visit"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "09:42 · Trackeys Agent",
+     "Today · 8 visits",
+     "Géant Ibn Battuta",
+     "AED 12.4k",
+     "Viva Supermarket",
+     "AED 4.1k",
+     "Union Coop",
+     "AED 9.8k",
+     "West Zone Mart",
+     "AED 2.0k",
+     "LIVE PIPELINE · NW REGION",
+     "Géant Mall",
+     "AED 124,800",
+     "Proposal · lead score 70",
+     "Carrefour City Centre",
+     "AED 89,200",
+     "Negotiation · lead score 75",
+     "LuLu Hypermarket",
+     "AED 56,400",
+     "Qualified · lead score 80",
+     "Copilot: add 2 visits in Al Barsha to hit weekly target"
+    ],
+    "svg": []
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Built for FMCG field reality.",
+   "sub": "Modern trade, traditional trade, wholesale and direct — one platform covers all channels.",
+   "items": [
+    {
+     "title": "Pre-sales & field reps",
+     "desc": "Beat plans, pitch cards and order capture tailored to FMCG SKU complexity.",
+     "bullets": [
+      "Bundle & promo support",
+      "Trade-scheme handling",
+      "Returns & claims"
+     ],
+     "lines": [
+      "Pre-sales & field reps",
+      "Beat plans, pitch cards and order capture tailored to FMCG SKU complexity.",
+      "Bundle & promo support",
+      "Trade-scheme handling",
+      "Returns & claims"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Van sales",
+     "desc": "Load-out, on-truck stock, invoicing and payment collection — offline-first.",
+     "bullets": [
+      "Primary & secondary sales",
+      "Multi-currency invoicing",
+      "Driver settlement"
+     ],
+     "lines": [
+      "Van sales",
+      "Load-out, on-truck stock, invoicing and payment collection — offline-first.",
+      "Primary & secondary sales",
+      "Multi-currency invoicing",
+      "Driver settlement"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Vision AI merchandising",
+     "desc": "Planogram compliance, share-of-shelf and OOS detection from a phone photo.",
+     "bullets": [
+      "SKU-level detection",
+      "Competitor capture",
+      "Display ROI"
+     ],
+     "lines": [
+      "Vision AI merchandising",
+      "Planogram compliance, share-of-shelf and OOS detection from a phone photo.",
+      "SKU-level detection",
+      "Competitor capture",
+      "Display ROI"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Distribution & DMS",
+     "desc": "Distributor portal, automated replenishment and forecasting across the network.",
+     "bullets": [
+      "Secondary sales tracking",
+      "Distributor scorecards",
+      "Trade spend"
+     ],
+     "lines": [
+      "Distribution & DMS",
+      "Distributor portal, automated replenishment and forecasting across the network.",
+      "Secondary sales tracking",
+      "Distributor scorecards",
+      "Trade spend"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Trade marketing insights",
+     "desc": "Promotion effectiveness, trade spend ROI and channel performance by SKU.",
+     "bullets": [
+      "Promo uplift analysis",
+      "Trade spend tracking",
+      "Channel P&L"
+     ],
+     "lines": [
+      "Trade marketing insights",
+      "Promotion effectiveness, trade spend ROI and channel performance by SKU.",
+      "Promo uplift analysis",
+      "Trade spend tracking",
+      "Channel P&L"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Executive dashboards",
+     "desc": "Live pulse of primary and secondary sales, coverage and execution by region.",
+     "bullets": [
+      "Market coverage map",
+      "Target vs. actual",
+      "Anomaly alerts"
+     ],
+     "lines": [
+      "Executive dashboards",
+      "Live pulse of primary and secondary sales, coverage and execution by region.",
+      "Market coverage map",
+      "Target vs. actual",
+      "Anomaly alerts"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "Every channel, end-to-end.",
+   "sub": "From HQ target down to the last bottle on the last shelf.",
+   "items": [
+    {
+     "title": "Plan",
+     "desc": "Targets cascade to regions, teams, reps — plus beat plans and promo calendars.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Plan",
+      "Targets cascade to regions, teams, reps — plus beat plans and promo calendars."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Execute",
+     "desc": "Reps hit stores with pitches, promos and planograms on their phones.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "Execute",
+      "Reps hit stores with pitches, promos and planograms on their phones."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Sell",
+     "desc": "Orders captured on-spot. Van sales invoice and collect in one flow.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "Sell",
+      "Orders captured on-spot. Van sales invoice and collect in one flow."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Merchandise",
+     "desc": "Shelf scans score compliance, OOS and share-of-shelf in real time.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Merchandise",
+      "Shelf scans score compliance, OOS and share-of-shelf in real time."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Distribute",
+     "desc": "Distributors pull replenishment against AI forecast and promo lift.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Distribute",
+      "Distributors pull replenishment against AI forecast and promo lift."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Learn",
+     "desc": "Insights feed the next beat plan, promo and assortment decision.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Learn",
+      "Insights feed the next beat plan, promo and assortment decision."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "FMCG brands on Trackeys grow retail execution quarter over quarter.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+15%",
+      "store coverage",
+      "Smarter routes + shorter visits"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+20%",
+      "merchandising compliance",
+      "AI-scored planograms"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+15%",
+      "sales per visit",
+      "Pitch guidance + promo awareness"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Connects to your FMCG stack.",
+   "sub": "Pre-built integrations for the tools FMCG companies already run.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "SAP S/4HANA",
+      "Orders · Master data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OR",
+      "Oracle NetSuite",
+      "Finance · Inventory"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "NI",
+      "Nielsen",
+      "Retail audit"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "IR",
+      "IRI Circana",
+      "POS data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "PO",
+      "Power BI",
+      "Analytics"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SN",
+      "Snowflake",
+      "Data platform"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "ST",
+      "Stripe",
+      "Payments"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "TW",
+      "Twilio",
+      "Customer SMS"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Does Trackeys handle both modern trade and traditional trade?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can we manage trade schemes and promo mechanics?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How is secondary sales tracked?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Yes. Multi-entity, multi-currency, multi-tax and multi-language — with per-country configuration for trade schemes, pricing and compliance rules.",
+     "bullets": [],
+     "lines": [
+      "Does it support multi-country operations?",
+      "Yes. Multi-entity, multi-currency, multi-tax and multi-language — with per-country configuration for trade schemes, pricing and compliance rules."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Does Trackeys handle both modern trade and traditional trade?",
+    "Can we manage trade schemes and promo mechanics?",
+    "How is secondary sales tracked?",
+    "Does it support multi-country operations?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Put every bottle, box and shelf on one system.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Trackeys unifies pre-sales, van sales, merchandising and distribution for FMCG brands that need retail execution at scale."
+  ],
+  [
+   "h2",
+   "Built for FMCG field reality."
+  ],
+  [
+   "p",
+   "Modern trade, traditional trade, wholesale and direct — one platform covers all channels."
+  ],
+  [
+   "p",
+   "Beat plans, pitch cards and order capture tailored to FMCG SKU complexity."
+  ],
+  [
+   "li",
+   "Bundle & promo support"
+  ],
+  [
+   "li",
+   "Trade-scheme handling"
+  ],
+  [
+   "li",
+   "Returns & claims"
+  ],
+  [
+   "p",
+   "Load-out, on-truck stock, invoicing and payment collection — offline-first."
+  ],
+  [
+   "li",
+   "Primary & secondary sales"
+  ],
+  [
+   "li",
+   "Multi-currency invoicing"
+  ],
+  [
+   "li",
+   "Driver settlement"
+  ],
+  [
+   "p",
+   "Planogram compliance, share-of-shelf and OOS detection from a phone photo."
+  ],
+  [
+   "li",
+   "SKU-level detection"
+  ],
+  [
+   "li",
+   "Competitor capture"
+  ],
+  [
+   "li",
+   "Display ROI"
+  ],
+  [
+   "p",
+   "Distributor portal, automated replenishment and forecasting across the network."
+  ],
+  [
+   "li",
+   "Secondary sales tracking"
+  ],
+  [
+   "li",
+   "Distributor scorecards"
+  ],
+  [
+   "li",
+   "Trade spend"
+  ],
+  [
+   "p",
+   "Promotion effectiveness, trade spend ROI and channel performance by SKU."
+  ],
+  [
+   "li",
+   "Promo uplift analysis"
+  ],
+  [
+   "li",
+   "Trade spend tracking"
+  ],
+  [
+   "li",
+   "Channel P&L"
+  ],
+  [
+   "p",
+   "Live pulse of primary and secondary sales, coverage and execution by region."
+  ],
+  [
+   "li",
+   "Market coverage map"
+  ],
+  [
+   "li",
+   "Target vs. actual"
+  ],
+  [
+   "li",
+   "Anomaly alerts"
+  ],
+  [
+   "h2",
+   "Every channel, end-to-end."
+  ],
+  [
+   "p",
+   "From HQ target down to the last bottle on the last shelf."
+  ],
+  [
+   "p",
+   "Targets cascade to regions, teams, reps — plus beat plans and promo calendars."
+  ],
+  [
+   "p",
+   "Reps hit stores with pitches, promos and planograms on their phones."
+  ],
+  [
+   "p",
+   "Orders captured on-spot. Van sales invoice and collect in one flow."
+  ],
+  [
+   "p",
+   "Shelf scans score compliance, OOS and share-of-shelf in real time."
+  ],
+  [
+   "p",
+   "Distributors pull replenishment against AI forecast and promo lift."
+  ],
+  [
+   "p",
+   "Insights feed the next beat plan, promo and assortment decision."
+  ],
+  [
+   "h2",
+   "FMCG brands on Trackeys grow retail execution quarter over quarter."
+  ],
+  [
+   "h2",
+   "Connects to your FMCG stack."
+  ],
+  [
+   "p",
+   "Pre-built integrations for the tools FMCG companies already run."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Yes. Multi-entity, multi-currency, multi-tax and multi-language — with per-country configuration for trade schemes, pricing and compliance rules."
+  ],
+  [
+   "h2",
+   "Put every bottle, box and shelf on one system."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "Does Trackeys handle both modern trade and traditional trade?",
+   "a": "Yes. Modern trade (hypers, supers, convenience chains) gets full planogram compliance, contract SKU tracking and promotional execution. Traditional trade gets van sales, cash collection, credit management and beat-plan coverage — all from the same app with role-based configuration."
+  },
+  {
+   "q": "Can we manage trade schemes and promo mechanics?",
+   "a": "Yes. Complex trade schemes (buy X get Y, tiered discounts, display support, secondary placement) are configured at HQ, enforced at order capture and reconciled against secondary sales automatically."
+  },
+  {
+   "q": "How is secondary sales tracked?",
+   "a": "Distributors log secondary sales through the DMS portal or mobile app. Van sales direct to trade is captured at source. Both feed into one secondary-sales view with full SKU-level traceability."
+  },
+  {
+   "q": "Does it support multi-country operations?",
+   "a": "Yes. Multi-entity, multi-currency, multi-tax and multi-language — with per-country configuration for trade schemes, pricing and compliance rules."
+  }
+ ]
+}

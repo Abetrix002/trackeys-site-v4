@@ -1,0 +1,3644 @@
+{
+ "nav": {
+  "Product": [
+   "Sales Force Automation",
+   "Delivery & Routing",
+   "Merchandising AI",
+   "Distribution"
+  ],
+  "Solutions": [
+   "FMCG",
+   "Logistics & Supply Chain",
+   "Fleet Management",
+   "Distribution"
+  ],
+  "Resources": [
+   "All resources",
+   "Blog",
+   "Case studies"
+  ]
+ },
+ "footer": {
+  "desc": "AI-enhanced sales force tracking & automation. Every field activity, visible.",
+  "legal": "© 2026 Koraspond Technologies. Trackeys is a Koraspond product."
+ },
+ "home": {
+  "badge": "Field-ops AI · model v5",
+  "h1a": "Field ops",
+  "h1b": "that think",
+  "h1c": "ahead.",
+  "p": "Trackeys watches every van, visit and shelf, and uses AI to re-route, re-score and re-prioritize in real time. Your team acts on decisions, not data entry.",
+  "ctas": [
+   "Book a demo",
+   "How the model works"
+  ],
+  "copilot": {
+   "title": "Trackeys Copilot",
+   "status": "thinking · 23 signals/s",
+   "rows": [
+    [
+     "RE-OPTIMIZE",
+     "route DXB-N-03",
+     "−14 min · −8 km"
+    ],
+    [
+     "FLAG",
+     "stockout risk",
+     "LuLu Al Barsha · 2h"
+    ],
+    [
+     "SCORE",
+     "planogram audit",
+     "Carrefour MBZ · 87.5%"
+    ]
+   ],
+   "stats": [
+    [
+     "Decisions",
+     "1,284"
+    ],
+    [
+     "Accepted",
+     "94%"
+    ],
+    [
+     "Saved",
+     "$42k"
+    ]
+   ]
+  },
+  "live": {
+   "eyebrow": "Live",
+   "h2": "See the platform with your role's eyes.",
+   "sub": "Switch roles on the right to see how each persona experiences the same field reality.",
+   "map": [
+    "LIVE · 38 field units",
+    "lat 25.197 · lng 55.274"
+   ],
+   "kpis": [
+    [
+     "DIFOT",
+     "96.2%",
+     "▲ +2.1"
+    ],
+    [
+     "Active routes",
+     "14",
+     ""
+    ],
+    [
+     "Avg ETA drift",
+     "−3m",
+     ""
+    ],
+    [
+     "CFR",
+     "98.8%",
+     "▲ +0.4"
+    ]
+   ],
+   "roleLabel": "View as role",
+   "roles": {
+    "Operations": [
+     "Today's operations",
+     "Head of Field Ops · Dubai region",
+     "Vans deployed",
+     "14 / 16",
+     "Sales agents active",
+     "22",
+     "Merchandisers in field",
+     "9",
+     "Open exceptions",
+     "3",
+     "ORDERS · LAST 12H"
+    ],
+    "Dispatch": [
+     "Dispatch queue",
+     "Route DXB-N-03 · reopt. 2m ago",
+     "04:12",
+     "Carrefour MBZ",
+     "DELIVERED",
+     "05:40",
+     "LuLu Al Barsha",
+     "EN ROUTE",
+     "06:55",
+     "Spinneys Meadows",
+     "QUEUED",
+     "08:10",
+     "Al Maya JBR",
+     "QUEUED",
+     "09:40",
+     "Choithrams Jumeirah",
+     "RISK"
+    ],
+    "Driver": [
+     "Next stop · 5 min",
+     "Mohammed A. · Van VN-1128",
+     "STOP 3 of 11",
+     "LuLu Hypermarket · Al Barsha",
+     "42 cases · AED 8,420",
+     "Navigate",
+     "Call",
+     "UP NEXT",
+     "Spinneys Meadows · 06:55",
+     "Al Maya JBR · 08:10",
+     "Choithrams · 09:40"
+    ],
+    "Sales": [
+     "Pre-sales visits",
+     "Territory: Dubai North · 8 visits today",
+     "Géant Ibn Battuta",
+     "Pipeline · AED 12.4k",
+     "HIGH",
+     "Viva Supermarket",
+     "Pipeline · AED 4.1k",
+     "MED",
+     "Union Coop Al Quoz",
+     "Pipeline · AED 9.8k",
+     "HIGH",
+     "West Zone Mart",
+     "Pipeline · AED 2.0k",
+     "LOW"
+    ],
+    "Merchandiser": [
+     "Planogram compliance",
+     "Scan → AI audit · last: Carrefour MBZ",
+     "24 SKUs detected",
+     "3 misplaced",
+     "Compliance",
+     "87.5%"
+    ]
+   }
+  },
+  "trusted": {
+   "label": "Trusted by field operations teams across globe",
+   "logos": [
+    "halagaty",
+    "sheel",
+    "petrolube"
+   ]
+  },
+  "stats": [
+   [
+    "25%",
+    "lower operational cost",
+    "AI optimization across routes, inventory & visits"
+   ],
+   [
+    "95%",
+    "on-time delivery",
+    "Real-time DIFOT tracking at every stop"
+   ],
+   [
+    "20%",
+    "higher task completion",
+    "AI-assisted workflows for every role"
+   ],
+   [
+    "99.5%",
+    "inventory accuracy",
+    "Live sync across depots, vans and distributors"
+   ]
+  ],
+  "caps": {
+   "eyebrow": "Capabilities",
+   "h2": "Intelligence across every field motion.",
+   "items": [
+    {
+     "tag": "AI",
+     "title": "AI route optimization",
+     "desc": "Multi-factor routing considers traffic, delivery windows, vehicle constraints and customer value. Dynamic rerouting when conditions shift."
+    },
+    {
+     "tag": "LIVE",
+     "title": "Real-time GPS & geofencing",
+     "desc": "Battery-optimized location at configurable intervals. Custom geofences around stores, warehouses and delivery points with entry/exit triggers."
+    },
+    {
+     "tag": "",
+     "title": "Van sales & mobile ordering",
+     "desc": "On-the-spot order fulfillment, invoicing and payment collection from a phone. Full offline-first with conflict-free sync."
+    },
+    {
+     "tag": "VISION AI",
+     "title": "Planogram compliance AI",
+     "desc": "Snap a shelf. The vision model detects SKUs, flags misplaced products and scores compliance against the planogram, in seconds."
+    },
+    {
+     "tag": "",
+     "title": "Delivery & proof-of-delivery",
+     "desc": "Photo + signature capture, exception workflows for damaged goods and customer refusal. DIFOT tracking baked into every workflow."
+    },
+    {
+     "tag": "",
+     "title": "Role-based dashboards",
+     "desc": "HOD strategy, Ops daily, Dispatch live, Driver task, Agent targets, Merch scorecards. One platform, six lenses on the same truth."
+    }
+   ]
+  },
+  "roles": {
+   "eyebrow": "By role",
+   "h2": "Six roles. One source of truth.",
+   "items": [
+    {
+     "title": "HOD",
+     "desc": "Territory strategy, performance, targets"
+    },
+    {
+     "title": "Operations",
+     "desc": "Daily ops, scheduling, fleet allocation"
+    },
+    {
+     "title": "Dispatch",
+     "desc": "Live routing, driver assignment, ETAs"
+    },
+    {
+     "title": "Driver",
+     "desc": "Next stop, POD, payment, exceptions"
+    },
+    {
+     "title": "Sales Agent",
+     "desc": "Visits, pipeline, order creation"
+    },
+    {
+     "title": "Merchandiser",
+     "desc": "Planogram, displays, competitive audit"
+    }
+   ]
+  },
+  "industries": {
+   "eyebrow": "By industry",
+   "h2": "Fit for how your world runs.",
+   "items": [
+    {
+     "title": "FMCG",
+     "desc": "Field sales, van sales, merchandising and route-to-market across supermarkets, hypers and traditional trade.",
+     "chips": [
+      "+15% store coverage",
+      "+20% merch compliance",
+      "+15% sales/visit"
+     ],
+     "href": "/solutions/fmcg"
+    },
+    {
+     "title": "Logistics & Supply Chain",
+     "desc": "Shipment tracking, warehouse throughput, last-mile DIFOT and transportation cost control.",
+     "chips": [
+      "99.5% inventory accuracy",
+      "−20% delivery delays",
+      "−15% transport cost"
+     ],
+     "href": "/solutions/logistics"
+    },
+    {
+     "title": "Fleet Management",
+     "desc": "Vehicle tracking, driver performance, maintenance scheduling and fuel optimization across mixed fleets.",
+     "chips": [
+      "−15% fuel cost",
+      "+20% on-time",
+      "+25% vehicle utilization"
+     ],
+     "href": "/solutions/fleet"
+    },
+    {
+     "title": "Distribution",
+     "desc": "Distributor networks, order aggregation, automated replenishment and performance analytics.",
+     "chips": [
+      "99%+ fulfillment",
+      "Live stock visibility",
+      "Distributor scoring"
+     ],
+     "href": "/solutions/distribution"
+    }
+   ]
+  },
+  "cta": {
+   "h2": "Every field activity, visible. Every route, optimal.",
+   "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "ctas": [
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ },
+ "products": {
+  "sales-force-automation": {
+   "eyebrow": "SALES FORCE AUTOMATION",
+   "h1": "Every visit, every order, every opportunity, captured.",
+   "p": "Unified pre-sales, van sales and sales ops on one AI-assisted platform. Your field reps spend less time on paperwork and more time selling.",
+   "stats": [
+    [
+     "+15%",
+     "sales per visit"
+    ],
+    [
+     "+20%",
+     "store coverage"
+    ],
+    [
+     "−40%",
+     "order entry time"
+    ]
+   ],
+   "visual": [
+    "09:42 · Trackeys Agent",
+    "Today · 8 visits",
+    "Géant Ibn Battuta",
+    "AED 12.4k",
+    "Viva Supermarket",
+    "AED 4.1k",
+    "Union Coop",
+    "AED 9.8k",
+    "West Zone Mart",
+    "AED 2.0k",
+    "LIVE PIPELINE · NW REGION",
+    "Géant Mall",
+    "AED 124,800",
+    "Proposal · lead score 70",
+    "Carrefour City Centre",
+    "AED 89,200",
+    "Negotiation · lead score 75",
+    "LuLu Hypermarket",
+    "AED 56,400",
+    "Qualified · lead score 80",
+    "Copilot: add 2 visits in Al Barsha to hit weekly target"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Built for how field sales actually works.",
+    "sub": "From territory planning down to a single invoice, the SFA module covers pre-sales and van sales end-to-end.",
+    "items": [
+     {
+      "title": "Lead & opportunity tracking",
+      "desc": "Pipeline with AI-powered lead scoring and conversion forecasting.",
+      "bullets": [
+       "360° customer profiling",
+       "Pipeline-value rollups",
+       "Time-to-qualify metrics"
+      ]
+     },
+     {
+      "title": "Van sales & mobile invoicing",
+      "desc": "On-the-spot orders, invoicing and payment, fully offline-first.",
+      "bullets": [
+       "Mobile payment processing",
+       "Live inventory on van",
+       "Immediate order confirmation"
+      ]
+     },
+     {
+      "title": "Territory & visit planning",
+      "desc": "AI plans the optimal visit schedule balancing value, duration and relationship goals.",
+      "bullets": [
+       "Customer value weighting",
+       "Beat-plan optimization",
+       "Dynamic re-scheduling"
+      ]
+     },
+     {
+      "title": "Real-time performance",
+      "desc": "HOD dashboards on targets, conversion, coverage and activity, with drill-down to every rep.",
+      "bullets": [
+       "Daily / weekly / monthly trends",
+       "Target vs. actual",
+       "Coverage heatmaps"
+      ]
+     },
+     {
+      "title": "Offline-first mobile app",
+      "desc": "Reps work with zero signal. All data syncs cleanly when connectivity returns.",
+      "bullets": [
+       "Prioritized data caching",
+       "Conflict-free merge",
+       "Background sync"
+      ]
+     },
+     {
+      "title": "AI sales copilot",
+      "desc": "Next-best-action nudges: upsell suggestions, risk-of-churn alerts, route tweaks.",
+      "bullets": [
+       "Customer-specific prompts",
+       "Upsell & cross-sell hints",
+       "Pricing guidance"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "From territory plan to closed order, in one flow.",
+    "sub": "Six steps that replace the spreadsheets, clipboards and phone calls your reps use today.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Plan the day",
+      "desc": "AI builds tomorrow's visit list from target accounts, pipeline stage and territory geography."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Navigate",
+      "desc": "Turn-by-turn directions with voice guidance get reps to every stop on the beat plan."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Visit & pitch",
+      "desc": "360° customer card opens on arrival: last order, pricing, open offers, promos."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Order on-spot",
+      "desc": "Van-sales mode takes order, prints invoice, accepts payment, updates stock, all offline."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Update status",
+      "desc": "Visit outcome, next action and photos captured. HOD sees it live on the dashboard."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Close the loop",
+      "desc": "Copilot flags risk and opportunity for follow-up. Tomorrow's plan adapts automatically."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Field sales teams running on Trackeys see measurable gains within one quarter.",
+    "items": [
+     {
+      "v": "+15%",
+      "k": "sales per visit",
+      "d": "From smarter pitch guidance & offers"
+     },
+     {
+      "v": "+20%",
+      "k": "visit compliance",
+      "d": "Reps hit their beat plans consistently"
+     },
+     {
+      "v": "−40%",
+      "k": "admin time",
+      "d": "Mobile-first workflows eliminate paper"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Plugs into the systems your business already runs on.",
+    "sub": "Standardized APIs and pre-built connectors for ERP, finance and CRM.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "SAP S/4HANA",
+      "desc": "Orders · Customers · Products"
+     },
+     {
+      "mono": "MI",
+      "name": "Microsoft D365",
+      "desc": "Finance · Customer data"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle NetSuite",
+      "desc": "Sales orders · AR"
+     },
+     {
+      "mono": "SA",
+      "name": "Salesforce",
+      "desc": "Lead & opp sync"
+     },
+     {
+      "mono": "OD",
+      "name": "Odoo",
+      "desc": "Inventory · Invoicing"
+     },
+     {
+      "mono": "TA",
+      "name": "Tally",
+      "desc": "SME finance"
+     },
+     {
+      "mono": "ST",
+      "name": "Stripe",
+      "desc": "Mobile payments"
+     },
+     {
+      "mono": "TW",
+      "name": "Twilio",
+      "desc": "SMS · Voice alerts"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "Can reps use Trackeys with no internet signal?",
+      "a": "Yes. The mobile app is offline-first: visits, orders, invoices and payments all work without connectivity. Data syncs automatically when signal returns, with conflict-free merge for any edits made on the server while the device was offline."
+     },
+     {
+      "q": "How does the AI copilot make suggestions?",
+      "a": "The copilot runs on aggregated visit history, order patterns and customer attributes. It suggests next-best-actions (upsell, cross-sell, re-engagement) and flags churn risk, always with a short explanation so the rep understands the reasoning."
+     },
+     {
+      "q": "Does it support multiple currencies, taxes and languages?",
+      "a": "Yes. Multi-currency pricing, multi-tax jurisdictions (VAT, GST), and localized UI for English, Arabic, French and other regional languages are built in."
+     },
+     {
+      "q": "How are pricing and discount rules enforced?",
+      "a": "Pricing rules, approval limits and discount tiers are configured per role and per customer segment. Reps can only quote within their authority; anything above routes to an approval workflow with a full audit trail."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Put your sales force on one system that actually helps them sell.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  },
+  "delivery-routing": {
+   "eyebrow": "DELIVERY & ROUTING",
+   "h1": "AI-optimized routes. Live-tracked vehicles. Proof at every door.",
+   "p": "From depot to doorstep, Trackeys plans, dispatches, tracks and proves every delivery. Lower cost per drop, higher DIFOT, happier customers.",
+   "stats": [
+    [
+     "95%",
+     "DIFOT target"
+    ],
+    [
+     "−15%",
+     "fuel cost"
+    ],
+    [
+     "5s",
+     "location latency"
+    ]
+   ],
+   "visual": [
+    "Depot",
+    "07:00",
+    "Carrefour",
+    "07:42",
+    "LuLu",
+    "08:18",
+    "Spinneys",
+    "09:05",
+    "Al Maya",
+    "09:50",
+    "Choithrams",
+    "10:35",
+    "ROUTE DXB-N-03",
+    "11 stops · 48 km",
+    "AI SAVED",
+    "14 min · 8 km"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Every capability your dispatch team wishes they had.",
+    "sub": "Route optimization, live tracking, proof-of-delivery and exception management, out of the box.",
+    "items": [
+     {
+      "title": "Multi-factor route optimization",
+      "desc": "Routes consider distance, time, traffic, delivery windows, vehicle constraints and customer value, all at once.",
+      "bullets": [
+       "Time-window compliance",
+       "Vehicle weight & volume",
+       "Load-sequence optimization"
+      ]
+     },
+     {
+      "title": "Real-time GPS tracking",
+      "desc": "Battery-optimized location at configurable intervals with accuracy radius reporting.",
+      "bullets": [
+       "30s default polling",
+       "Intelligent duty-cycle",
+       "Geofence triggers"
+      ]
+     },
+     {
+      "title": "Dynamic re-routing",
+      "desc": "Traffic jam? Late stop? Cancelled order? The engine re-plans remaining stops in seconds.",
+      "bullets": [
+       "Real-time traffic ingest",
+       "Event-driven replan",
+       "Driver notification push"
+      ]
+     },
+     {
+      "title": "Proof of delivery",
+      "desc": "Photo, signature, barcode scan and timestamp captured at every drop. No disputes, no chargebacks.",
+      "bullets": [
+       "Photo + signature",
+       "Barcode/QR scan",
+       "OCR for labels"
+      ]
+     },
+     {
+      "title": "Exception workflows",
+      "desc": "Customer not home? Damaged goods? Failed payment? Every scenario has a clear, trackable workflow.",
+      "bullets": [
+       "Damaged product flow",
+       "Customer refusal",
+       "Failed payment escalation"
+      ]
+     },
+     {
+      "title": "DIFOT & fleet analytics",
+      "desc": "Delivery-in-full-on-time, cost per drop, vehicle utilization, driver scorecards, all live.",
+      "bullets": [
+       "DIFOT by route / driver",
+       "Cost per delivery",
+       "Fuel efficiency"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "From order to proof: a single clean flow.",
+    "sub": "How a delivery moves through Trackeys from the moment it lands in dispatch.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Order arrives",
+      "desc": "Orders land from ERP, SFA or distributors into the dispatch queue."
+     },
+     {
+      "n": "STEP 02",
+      "title": "AI plans routes",
+      "desc": "Routes optimize across all constraints, and assign to drivers based on skill, hours and vehicle fit."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Dispatch sends",
+      "desc": "Drivers get manifests on their phones with turn-by-turn directions and POD checklists."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Live track",
+      "desc": "Dispatch watches every vehicle on the map with 5s latency. ETA drift surfaces automatically."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Deliver + prove",
+      "desc": "Driver captures photo, signature and scan. Status flips live. Customer is notified."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Close + analyze",
+      "desc": "DIFOT, cost and exceptions roll up into ops dashboards the next morning."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Delivery teams unlock real savings once routes stop being a spreadsheet.",
+    "items": [
+     {
+      "v": "95%",
+      "k": "on-time delivery",
+      "d": "DIFOT tracked at every stop"
+     },
+     {
+      "v": "−20%",
+      "k": "delivery delays",
+      "d": "Dynamic re-routing in real time"
+     },
+     {
+      "v": "+25%",
+      "k": "vehicle utilization",
+      "d": "Tighter routes, smarter loads"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Talks to your ERP, TMS and telematics.",
+    "sub": "REST APIs, webhooks and native integrations for modern logistics stacks.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "SAP TM",
+      "desc": "Shipments · Freight orders"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle TMS",
+      "desc": "Loads · Routing"
+     },
+     {
+      "mono": "SA",
+      "name": "Samsara",
+      "desc": "Telematics · Diag."
+     },
+     {
+      "mono": "GE",
+      "name": "Geotab",
+      "desc": "Vehicle + driver data"
+     },
+     {
+      "mono": "HE",
+      "name": "HERE Maps",
+      "desc": "Routing · Traffic"
+     },
+     {
+      "mono": "GO",
+      "name": "Google Maps",
+      "desc": "Geocoding · Places"
+     },
+     {
+      "mono": "TW",
+      "name": "Twilio",
+      "desc": "Customer SMS"
+     },
+     {
+      "mono": "ST",
+      "name": "Stripe",
+      "desc": "COD payments"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "What routing algorithms does Trackeys use?",
+      "a": "A hybrid of metaheuristic solvers (genetic + simulated annealing) for large-scale batch optimization, and real-time constraint satisfaction for dynamic re-routing. The engine considers up to 20 factors simultaneously including delivery windows, vehicle constraints, driver shifts and traffic."
+     },
+     {
+      "q": "How accurate is live tracking?",
+      "a": "GPS updates stream every 30 seconds by default, configurable down to 10 seconds for high-priority operations. Accuracy is typically 10–50 meters depending on signal conditions. End-to-end latency from device to dispatch map is under 5 seconds."
+     },
+     {
+      "q": "Can drivers work offline?",
+      "a": "Yes. Manifests, navigation, POD capture and payment collection all function without signal. Everything syncs when connectivity returns: no lost drops, no re-entry."
+     },
+     {
+      "q": "Does it handle cold chain / temperature monitoring?",
+      "a": "Yes, via integration with IoT temperature sensors. Breach alerts fire in real time; full temperature logs attach to every delivery for compliance and dispute resolution."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Turn your delivery fleet into a system that runs itself.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  },
+  "merchandising-ai": {
+   "eyebrow": "RETAIL MERCHANDISING AI",
+   "h1": "Snap a shelf. Score your store. Fix it on the spot.",
+   "p": "Vision AI audits planograms in seconds. Merchandisers spend less time measuring and more time fixing what actually drives sales.",
+   "stats": [
+    [
+     "240ms",
+     "AI audit time"
+    ],
+    [
+     "+20%",
+     "planogram compliance"
+    ],
+    [
+     "99%+",
+     "SKU recognition"
+    ]
+   ],
+   "visual": [
+    "SHELF SCAN · LIVE",
+    "Carrefour MBZ · Aisle 4",
+    "Vision AI · 240 ms",
+    "OOS",
+    "OOS",
+    "OOS",
+    "OOS",
+    "COMPLIANCE",
+    "87.5%",
+    "MISPLACED",
+    "3 SKUs",
+    "OUT OF STOCK",
+    "4 facings"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Retail execution, finally measurable.",
+    "sub": "Planogram compliance, display effectiveness, competitive audits, captured by a phone camera and scored by AI.",
+    "items": [
+     {
+      "title": "Planogram compliance AI",
+      "desc": "Snap the shelf. The vision model identifies every SKU, flags misplaced products and scores compliance against the planned layout.",
+      "bullets": [
+       "Real-time SKU detection",
+       "Facing count vs. target",
+       "Compliance score per shelf"
+      ]
+     },
+     {
+      "title": "Stock level monitoring",
+      "desc": "Out-of-stock and low-stock detection straight from the shelf photo, no manual count.",
+      "bullets": [
+       "OOS alerts to ops",
+       "Share-of-shelf tracking",
+       "Restock request flow"
+      ]
+     },
+     {
+      "title": "Display effectiveness",
+      "desc": "Link in-store displays to sell-through data. Know which displays actually move product.",
+      "bullets": [
+       "Display ROI scoring",
+       "Category performance",
+       "A/B testing support"
+      ]
+     },
+     {
+      "title": "Competitive analysis",
+      "desc": "Capture competitor pricing, facings and promotions. Get a field-wide view of the competitive landscape.",
+      "bullets": [
+       "Competitor price capture",
+       "New product alerts",
+       "Share-of-shelf trends"
+      ]
+     },
+     {
+      "title": "Task & audit management",
+      "desc": "Task lists per store, per visit. Structured audits with before/after photos auto-compared.",
+      "bullets": [
+       "Store task checklists",
+       "Before/after comparison",
+       "SLA tracking"
+      ]
+     },
+     {
+      "title": "Brand scorecards",
+      "desc": "Category managers get live scorecards on compliance, OOS and competitive position by brand and region.",
+      "bullets": [
+       "By brand / category",
+       "By region / retailer",
+       "Trend & anomaly alerts"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "How a shelf becomes a decision.",
+    "sub": "From a merchandiser's phone camera to a category manager's dashboard, in minutes.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Check-in",
+      "desc": "Merchandiser arrives, geofence confirms, task list appears for this specific store."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Capture",
+      "desc": "Shelf photo taken through the app; guided framing ensures consistent images."
+     },
+     {
+      "n": "STEP 03",
+      "title": "AI analyzes",
+      "desc": "Vision model detects SKUs, facings, pricing and placement in ~240 ms."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Score & alert",
+      "desc": "Compliance score calculated. Misplaced, OOS and share-of-shelf alerts fire immediately."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Fix & re-audit",
+      "desc": "Merchandiser corrects, re-shoots. Before/after comparison auto-logged."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Roll up",
+      "desc": "Everything rolls into brand and category dashboards. Field actions become retail strategy."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Retail execution teams using Trackeys see measurable lift on every scorecard.",
+    "items": [
+     {
+      "v": "+20%",
+      "k": "planogram compliance",
+      "d": "From photo-based AI scoring"
+     },
+     {
+      "v": "+15%",
+      "k": "store coverage",
+      "d": "Smarter routes + shorter audits"
+     },
+     {
+      "v": "−50%",
+      "k": "audit time per store",
+      "d": "AI replaces manual counts"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Feeds the tools category teams already live in.",
+    "sub": "Native connectors for retail analytics, data lakes and BI.",
+    "items": [
+     {
+      "mono": "NI",
+      "name": "Nielsen",
+      "desc": "Retail audit sync"
+     },
+     {
+      "mono": "IR",
+      "name": "IRI Circana",
+      "desc": "POS & panel data"
+     },
+     {
+      "mono": "SN",
+      "name": "Snowflake",
+      "desc": "Data lake export"
+     },
+     {
+      "mono": "DA",
+      "name": "Databricks",
+      "desc": "ML features"
+     },
+     {
+      "mono": "PO",
+      "name": "Power BI",
+      "desc": "Scorecards"
+     },
+     {
+      "mono": "TA",
+      "name": "Tableau",
+      "desc": "Dashboards"
+     },
+     {
+      "mono": "LO",
+      "name": "Looker",
+      "desc": "BI feeds"
+     },
+     {
+      "mono": "AW",
+      "name": "AWS S3",
+      "desc": "Image archive"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "How accurate is the vision AI?",
+      "a": "SKU recognition accuracy averages 99%+ for well-lit shelf photos of products in the trained catalog. New SKUs can be added via few-shot learning, typically 10–20 reference images per SKU get the model to production accuracy."
+     },
+     {
+      "q": "Does it work in low light or on messy shelves?",
+      "a": "Yes, the model is trained on a large dataset of real-world retail photos including poor lighting, partial occlusion and disordered shelves. For extreme conditions the app prompts the merchandiser to reshoot with guidance."
+     },
+     {
+      "q": "Can I define custom planograms?",
+      "a": "Absolutely. Planograms are uploaded per store + category, with flexibility for retailer-specific layouts. The AI scores against whichever planogram applies at that specific store on that specific visit."
+     },
+     {
+      "q": "What about competitor data collection?",
+      "a": "Merchandisers can capture competitor prices, facings and promos in the same flow. The data flows into competitive dashboards, useful for pricing teams and brand managers."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Turn every shelf into a data point. And every data point into a decision.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  },
+  "distribution": {
+   "eyebrow": "DISTRIBUTION MANAGEMENT",
+   "h1": "Your entire distribution network, on one live dashboard.",
+   "p": "Trackeys DMS unifies distributor orders, inventory, fulfillment and performance into one system. Plants, warehouses and distributors: one truth.",
+   "stats": [
+    [
+     "99.5%",
+     "inventory accuracy"
+    ],
+    [
+     "99%+",
+     "order fulfillment"
+    ],
+    [
+     "24/7",
+     "network visibility"
+    ]
+   ],
+   "visual": [
+    "NETWORK FLOW · 24H",
+    "Trackeys DMS",
+    "Plant A",
+    "Plant B",
+    "Dist. 1",
+    "Dist. 2",
+    "Dist. 3",
+    "Dist. 4",
+    "ORDERS TODAY",
+    "2,418",
+    "FULFILL RATE",
+    "99.2%",
+    "STOCK ACCURACY",
+    "99.6%"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Distribution that actually runs itself.",
+    "sub": "Order aggregation, automated replenishment, distributor performance and forecasting in one network-aware platform.",
+    "items": [
+     {
+      "title": "Distributor order management",
+      "desc": "Every distributor orders through one portal with real-time stock, pricing and credit visibility.",
+      "bullets": [
+       "Self-service distributor portal",
+       "Live stock by SKU",
+       "Credit & limit management"
+      ]
+     },
+     {
+      "title": "AI demand forecasting",
+      "desc": "Machine-learning forecasts per SKU per distributor per week. MAPE continuously monitored.",
+      "bullets": [
+       "Per-SKU-per-DC forecasts",
+       "MAPE/RMSE monitoring",
+       "Promotional lift modeling"
+      ]
+     },
+     {
+      "title": "Automated replenishment",
+      "desc": "Reorder triggers based on forecast, stock-on-hand, in-transit and safety stock, fully configurable.",
+      "bullets": [
+       "Dynamic safety stock",
+       "Lead-time aware",
+       "Push or pull mode"
+      ]
+     },
+     {
+      "title": "Distributor performance",
+      "desc": "Scorecards on fulfillment, payment, sell-out and market coverage. Objective performance conversations.",
+      "bullets": [
+       "Fulfillment rate",
+       "Payment timeliness",
+       "Secondary sales share"
+      ]
+     },
+     {
+      "title": "Inventory accuracy",
+      "desc": "99.5%+ inventory accuracy with barcode scanning, cycle counts and reconciliation workflows.",
+      "bullets": [
+       "Cycle count scheduling",
+       "Discrepancy workflows",
+       "Batch & expiry tracking"
+      ]
+     },
+     {
+      "title": "Network-wide visibility",
+      "desc": "Plants, warehouses, distributors and retail on one map with live stock, orders and in-transit.",
+      "bullets": [
+       "End-to-end map view",
+       "Drill to SKU / location",
+       "Anomaly alerts"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "From forecast to fulfilled.",
+    "sub": "How an order moves through Trackeys DMS when every node is connected.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Forecast",
+      "desc": "AI predicts next-period demand per SKU per distributor per week, with promotional lift modeled in."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Reorder",
+      "desc": "Automated triggers generate replenishment orders against the forecast and safety stock."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Allocate",
+      "desc": "Available stock allocates across distributors based on forecast, performance and priority."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Fulfill",
+      "desc": "Warehouses pick, pack and ship. Everything tracked at batch / lot level."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Deliver",
+      "desc": "Handoff to the Delivery module, the same system that ships to distributors or direct to trade."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Measure",
+      "desc": "Fulfillment rate, accuracy, lead time and distributor scorecards roll up automatically."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Distribution networks on Trackeys run tighter, faster and more accurate.",
+    "items": [
+     {
+      "v": "99.5%",
+      "k": "inventory accuracy",
+      "d": "Across every node in the network"
+     },
+     {
+      "v": "99%+",
+      "k": "order fulfillment",
+      "d": "Automated replenishment prevents stock-outs"
+     },
+     {
+      "v": "−30%",
+      "k": "manual order entry",
+      "d": "Distributor self-service portal"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Built to connect plants, warehouses and partners.",
+    "sub": "ERP-native integration plus standardized APIs for WMS, 3PL and distributor systems.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "SAP S/4HANA",
+      "desc": "Orders · Inventory · AR"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle Fusion",
+      "desc": "Supply chain cloud"
+     },
+     {
+      "mono": "MI",
+      "name": "Microsoft D365",
+      "desc": "F&O · SCM"
+     },
+     {
+      "mono": "MA",
+      "name": "Manhattan",
+      "desc": "WMS"
+     },
+     {
+      "mono": "BL",
+      "name": "Blue Yonder",
+      "desc": "Forecasting feed"
+     },
+     {
+      "mono": "KI",
+      "name": "Kinaxis",
+      "desc": "Supply planning"
+     },
+     {
+      "mono": "ED",
+      "name": "EDI X12",
+      "desc": "Distributor EDI"
+     },
+     {
+      "mono": "SN",
+      "name": "Snowflake",
+      "desc": "Data platform"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "How does Trackeys handle multi-tier distribution?",
+      "a": "Fully. Plant → regional DC → sub-distributor → retail is modeled as a first-class network. Each tier has its own visibility, pricing, credit and reporting, with roll-up all the way back to the brand owner."
+     },
+     {
+      "q": "What forecasting models are used?",
+      "a": "An ensemble: classical time-series (SARIMA, Prophet), gradient boosting (LightGBM) on rich feature sets, and neural approaches for long-horizon and promotional lift. The system picks the best model per SKU per distributor based on cross-validation."
+     },
+     {
+      "q": "Can distributors use their own mobile apps?",
+      "a": "Yes. Distributors use the white-labeled Trackeys distributor app or web portal. Orders, stock checks, payments and performance reports are all self-service."
+     },
+     {
+      "q": "Does it handle expiry, batch and lot tracking?",
+      "a": "Yes, full FEFO/FIFO logic at warehouse and distributor level. Expiry alerts fire ahead of time so product can be rotated, discounted or returned before write-off."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Run your network like it's one warehouse. Because it should be.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  }
+ },
+ "solutions": {
+  "fmcg": {
+   "eyebrow": "FOR FMCG",
+   "h1": "Every shelf, every store, every rep: one operating system.",
+   "p": "Trackeys unifies pre-sales, van sales, merchandising and distribution for FMCG brands that need retail execution at scale.",
+   "stats": [
+    [
+     "+15%",
+     "store coverage"
+    ],
+    [
+     "+20%",
+     "merch compliance"
+    ],
+    [
+     "+15%",
+     "sales per visit"
+    ]
+   ],
+   "visual": [
+    "09:42 · Trackeys Agent",
+    "Today · 8 visits",
+    "Géant Ibn Battuta",
+    "AED 12.4k",
+    "Viva Supermarket",
+    "AED 4.1k",
+    "Union Coop",
+    "AED 9.8k",
+    "West Zone Mart",
+    "AED 2.0k",
+    "LIVE PIPELINE · NW REGION",
+    "Géant Mall",
+    "AED 124,800",
+    "Proposal · lead score 70",
+    "Carrefour City Centre",
+    "AED 89,200",
+    "Negotiation · lead score 75",
+    "LuLu Hypermarket",
+    "AED 56,400",
+    "Qualified · lead score 80",
+    "Copilot: add 2 visits in Al Barsha to hit weekly target"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Built for FMCG field reality.",
+    "sub": "Modern trade, traditional trade, wholesale and direct: one platform covers all channels.",
+    "items": [
+     {
+      "title": "Pre-sales & field reps",
+      "desc": "Beat plans, pitch cards and order capture tailored to FMCG SKU complexity.",
+      "bullets": [
+       "Bundle & promo support",
+       "Trade-scheme handling",
+       "Returns & claims"
+      ]
+     },
+     {
+      "title": "Van sales",
+      "desc": "Load-out, on-truck stock, invoicing and payment collection, offline-first.",
+      "bullets": [
+       "Primary & secondary sales",
+       "Multi-currency invoicing",
+       "Driver settlement"
+      ]
+     },
+     {
+      "title": "Vision AI merchandising",
+      "desc": "Planogram compliance, share-of-shelf and OOS detection from a phone photo.",
+      "bullets": [
+       "SKU-level detection",
+       "Competitor capture",
+       "Display ROI"
+      ]
+     },
+     {
+      "title": "Distribution & DMS",
+      "desc": "Distributor portal, automated replenishment and forecasting across the network.",
+      "bullets": [
+       "Secondary sales tracking",
+       "Distributor scorecards",
+       "Trade spend"
+      ]
+     },
+     {
+      "title": "Trade marketing insights",
+      "desc": "Promotion effectiveness, trade spend ROI and channel performance by SKU.",
+      "bullets": [
+       "Promo uplift analysis",
+       "Trade spend tracking",
+       "Channel P&L"
+      ]
+     },
+     {
+      "title": "Executive dashboards",
+      "desc": "Live pulse of primary and secondary sales, coverage and execution by region.",
+      "bullets": [
+       "Market coverage map",
+       "Target vs. actual",
+       "Anomaly alerts"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "Every channel, end-to-end.",
+    "sub": "From HQ target down to the last bottle on the last shelf.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Plan",
+      "desc": "Targets cascade to regions, teams, reps, plus beat plans and promo calendars."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Execute",
+      "desc": "Reps hit stores with pitches, promos and planograms on their phones."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Sell",
+      "desc": "Orders captured on-spot. Van sales invoice and collect in one flow."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Merchandise",
+      "desc": "Shelf scans score compliance, OOS and share-of-shelf in real time."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Distribute",
+      "desc": "Distributors pull replenishment against AI forecast and promo lift."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Learn",
+      "desc": "Insights feed the next beat plan, promo and assortment decision."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "FMCG brands on Trackeys grow retail execution quarter over quarter.",
+    "items": [
+     {
+      "v": "+15%",
+      "k": "store coverage",
+      "d": "Smarter routes + shorter visits"
+     },
+     {
+      "v": "+20%",
+      "k": "merchandising compliance",
+      "d": "AI-scored planograms"
+     },
+     {
+      "v": "+15%",
+      "k": "sales per visit",
+      "d": "Pitch guidance + promo awareness"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Connects to your FMCG stack.",
+    "sub": "Pre-built integrations for the tools FMCG companies already run.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "SAP S/4HANA",
+      "desc": "Orders · Master data"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle NetSuite",
+      "desc": "Finance · Inventory"
+     },
+     {
+      "mono": "NI",
+      "name": "Nielsen",
+      "desc": "Retail audit"
+     },
+     {
+      "mono": "IR",
+      "name": "IRI Circana",
+      "desc": "POS data"
+     },
+     {
+      "mono": "PO",
+      "name": "Power BI",
+      "desc": "Analytics"
+     },
+     {
+      "mono": "SN",
+      "name": "Snowflake",
+      "desc": "Data platform"
+     },
+     {
+      "mono": "ST",
+      "name": "Stripe",
+      "desc": "Payments"
+     },
+     {
+      "mono": "TW",
+      "name": "Twilio",
+      "desc": "Customer SMS"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "Does Trackeys handle both modern trade and traditional trade?",
+      "a": "Yes. Modern trade (hypers, supers, convenience chains) gets full planogram compliance, contract SKU tracking and promotional execution. Traditional trade gets van sales, cash collection, credit management and beat-plan coverage, all from the same app with role-based configuration."
+     },
+     {
+      "q": "Can we manage trade schemes and promo mechanics?",
+      "a": "Yes. Complex trade schemes (buy X get Y, tiered discounts, display support, secondary placement) are configured at HQ, enforced at order capture and reconciled against secondary sales automatically."
+     },
+     {
+      "q": "How is secondary sales tracked?",
+      "a": "Distributors log secondary sales through the DMS portal or mobile app. Van sales direct to trade is captured at source. Both feed into one secondary-sales view with full SKU-level traceability."
+     },
+     {
+      "q": "Does it support multi-country operations?",
+      "a": "Yes. Multi-entity, multi-currency, multi-tax and multi-language, with per-country configuration for trade schemes, pricing and compliance rules."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Put every bottle, box and shelf on one system.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  },
+  "logistics": {
+   "eyebrow": "FOR LOGISTICS & SUPPLY CHAIN",
+   "h1": "Shipments, warehouses and fleets, on one live map.",
+   "p": "Trackeys gives logistics operators real-time visibility, AI routing and exception management across first, middle and last mile.",
+   "stats": [
+    [
+     "99.5%",
+     "inventory accuracy"
+    ],
+    [
+     "−20%",
+     "delivery delays"
+    ],
+    [
+     "−15%",
+     "transport cost"
+    ]
+   ],
+   "visual": [
+    "Depot",
+    "07:00",
+    "Carrefour",
+    "07:42",
+    "LuLu",
+    "08:18",
+    "Spinneys",
+    "09:05",
+    "Al Maya",
+    "09:50",
+    "Choithrams",
+    "10:35",
+    "ROUTE DXB-N-03",
+    "11 stops · 48 km",
+    "AI SAVED",
+    "14 min · 8 km"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Visibility and control from dock to doorstep.",
+    "sub": "Shipment tracking, warehouse ops, last-mile delivery and exception handling: one stack.",
+    "items": [
+     {
+      "title": "Shipment tracking",
+      "desc": "Real-time location and status for every shipment, with 5-second latency.",
+      "bullets": [
+       "Origin to destination visibility",
+       "Milestone events",
+       "ETA prediction"
+      ]
+     },
+     {
+      "title": "AI route optimization",
+      "desc": "Multi-stop, multi-constraint routing across mixed fleets and zones.",
+      "bullets": [
+       "Time-window compliance",
+       "Vehicle + driver fit",
+       "Dynamic re-routing"
+      ]
+     },
+     {
+      "title": "Warehouse throughput",
+      "desc": "Putaway, picking, packing and dispatch, with barcode, batch and expiry support.",
+      "bullets": [
+       "Zone-based picking",
+       "Cycle counts",
+       "Cross-dock flow"
+      ]
+     },
+     {
+      "title": "Exception management",
+      "desc": "Delays, damages, refusals and returns: every scenario has a clean workflow.",
+      "bullets": [
+       "Damaged goods flow",
+       "Refusal documentation",
+       "Return-to-origin"
+      ]
+     },
+     {
+      "title": "Cost analytics",
+      "desc": "Cost per drop, per kilometer, per lane, with driver-scorecard detail.",
+      "bullets": [
+       "Fuel efficiency",
+       "Lane profitability",
+       "Carrier scorecards"
+      ]
+     },
+     {
+      "title": "IoT & telematics",
+      "desc": "Plug in Samsara, Geotab or your own telematics for vehicle health and driver behavior.",
+      "bullets": [
+       "Engine health",
+       "Harsh events",
+       "Temperature monitoring"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "From order to delivered, tracked at every step.",
+    "sub": "One flow across warehouse, fleet and last mile.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Receive",
+      "desc": "Orders land from ERP or shipper APIs into the dispatch queue."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Plan",
+      "desc": "AI consolidates into optimal loads and routes across your fleet."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Dispatch",
+      "desc": "Drivers get manifests with POD checklists and navigation."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Track",
+      "desc": "Every vehicle visible in real time. ETA drift surfaces automatically."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Deliver",
+      "desc": "POD captured with photo, signature and scan. Customer notified."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Measure",
+      "desc": "DIFOT, cost and exceptions roll up to ops and finance dashboards."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Logistics operators unlock real savings once every shipment is visible.",
+    "items": [
+     {
+      "v": "99.5%",
+      "k": "inventory accuracy",
+      "d": "End-to-end at batch level"
+     },
+     {
+      "v": "−20%",
+      "k": "delivery delays",
+      "d": "Dynamic re-routing and ETAs"
+     },
+     {
+      "v": "+20%",
+      "k": "warehouse throughput",
+      "d": "Smarter picking and dispatch"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Fits your WMS, TMS and telematics.",
+    "sub": "Native connectors and standardized APIs for enterprise logistics stacks.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "SAP TM",
+      "desc": "Transport management"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle TMS",
+      "desc": "Loads · Routing"
+     },
+     {
+      "mono": "MA",
+      "name": "Manhattan",
+      "desc": "WMS"
+     },
+     {
+      "mono": "BL",
+      "name": "Blue Yonder",
+      "desc": "Forecasting"
+     },
+     {
+      "mono": "SA",
+      "name": "Samsara",
+      "desc": "Telematics"
+     },
+     {
+      "mono": "GE",
+      "name": "Geotab",
+      "desc": "Fleet data"
+     },
+     {
+      "mono": "HE",
+      "name": "HERE Maps",
+      "desc": "Routing · Traffic"
+     },
+     {
+      "mono": "ED",
+      "name": "EDI X12",
+      "desc": "Carrier EDI"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "Can we connect our existing telematics?",
+      "a": "Yes, native connectors for Samsara, Geotab, Motive and others. For proprietary telematics, a standardized API ingests vehicle, driver and diagnostic data into the Trackeys live view."
+     },
+     {
+      "q": "Does it handle cold chain and temperature-sensitive shipments?",
+      "a": "Yes. IoT temperature and humidity sensors stream continuously. Breach alerts fire in real time and full logs attach to every shipment for compliance, claims and dispute handling."
+     },
+     {
+      "q": "How does the AI handle dynamic re-routing?",
+      "a": "When traffic, cancellations or priority changes occur, the engine re-evaluates remaining stops in seconds against time-window, vehicle and driver constraints, and pushes the updated manifest to the driver automatically."
+     },
+     {
+      "q": "Can our customers track their own shipments?",
+      "a": "Yes. White-labeled tracking pages and real-time SMS/email updates give end customers self-service visibility without exposing internal operations."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Turn your supply chain into one live, intelligent network.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  },
+  "distribution": {
+   "eyebrow": "FOR DISTRIBUTION",
+   "h1": "Primary, secondary and last-mile distribution, unified.",
+   "p": "Trackeys Distribution connects plants, regional DCs, distributors and retail into one live, AI-forecasted network.",
+   "stats": [
+    [
+     "99.5%",
+     "inventory accuracy"
+    ],
+    [
+     "99%+",
+     "order fulfillment"
+    ],
+    [
+     "24/7",
+     "network visibility"
+    ]
+   ],
+   "visual": [
+    "NETWORK FLOW · 24H",
+    "Trackeys DMS",
+    "Plant A",
+    "Plant B",
+    "Dist. 1",
+    "Dist. 2",
+    "Dist. 3",
+    "Dist. 4",
+    "ORDERS TODAY",
+    "2,418",
+    "FULFILL RATE",
+    "99.2%",
+    "STOCK ACCURACY",
+    "99.6%"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Distribution that actually runs itself.",
+    "sub": "Order aggregation, automated replenishment, distributor performance and forecasting in one network-aware platform.",
+    "items": [
+     {
+      "title": "Distributor order management",
+      "desc": "Every distributor orders through one portal with real-time stock, pricing and credit visibility.",
+      "bullets": [
+       "Self-service distributor portal",
+       "Live stock by SKU",
+       "Credit & limit management"
+      ]
+     },
+     {
+      "title": "AI demand forecasting",
+      "desc": "Machine-learning forecasts per SKU per distributor per week. MAPE continuously monitored.",
+      "bullets": [
+       "Per-SKU-per-DC forecasts",
+       "MAPE/RMSE monitoring",
+       "Promotional lift modeling"
+      ]
+     },
+     {
+      "title": "Automated replenishment",
+      "desc": "Reorder triggers based on forecast, stock-on-hand, in-transit and safety stock, fully configurable.",
+      "bullets": [
+       "Dynamic safety stock",
+       "Lead-time aware",
+       "Push or pull mode"
+      ]
+     },
+     {
+      "title": "Distributor performance",
+      "desc": "Scorecards on fulfillment, payment, sell-out and market coverage. Objective performance conversations.",
+      "bullets": [
+       "Fulfillment rate",
+       "Payment timeliness",
+       "Secondary sales share"
+      ]
+     },
+     {
+      "title": "Inventory accuracy",
+      "desc": "99.5%+ inventory accuracy with barcode scanning, cycle counts and reconciliation workflows.",
+      "bullets": [
+       "Cycle count scheduling",
+       "Discrepancy workflows",
+       "Batch & expiry tracking"
+      ]
+     },
+     {
+      "title": "Network-wide visibility",
+      "desc": "Plants, warehouses, distributors and retail on one map with live stock, orders and in-transit.",
+      "bullets": [
+       "End-to-end map view",
+       "Drill to SKU / location",
+       "Anomaly alerts"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "From forecast to fulfilled.",
+    "sub": "How an order moves through Trackeys DMS when every node is connected.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Forecast",
+      "desc": "AI predicts next-period demand per SKU per distributor per week, with promotional lift modeled in."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Reorder",
+      "desc": "Automated triggers generate replenishment orders against the forecast and safety stock."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Allocate",
+      "desc": "Available stock allocates across distributors based on forecast, performance and priority."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Fulfill",
+      "desc": "Warehouses pick, pack and ship. Everything tracked at batch / lot level."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Deliver",
+      "desc": "Handoff to the Delivery module, the same system that ships to distributors or direct to trade."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Measure",
+      "desc": "Fulfillment rate, accuracy, lead time and distributor scorecards roll up automatically."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Distribution networks on Trackeys run tighter, faster and more accurate.",
+    "items": [
+     {
+      "v": "99.5%",
+      "k": "inventory accuracy",
+      "d": "Across every node in the network"
+     },
+     {
+      "v": "99%+",
+      "k": "order fulfillment",
+      "d": "Automated replenishment prevents stock-outs"
+     },
+     {
+      "v": "−30%",
+      "k": "manual order entry",
+      "d": "Distributor self-service portal"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Built to connect plants, warehouses and partners.",
+    "sub": "ERP-native integration plus standardized APIs for WMS, 3PL and distributor systems.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "SAP S/4HANA",
+      "desc": "Orders · Inventory · AR"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle Fusion",
+      "desc": "Supply chain cloud"
+     },
+     {
+      "mono": "MI",
+      "name": "Microsoft D365",
+      "desc": "F&O · SCM"
+     },
+     {
+      "mono": "MA",
+      "name": "Manhattan",
+      "desc": "WMS"
+     },
+     {
+      "mono": "BL",
+      "name": "Blue Yonder",
+      "desc": "Forecasting feed"
+     },
+     {
+      "mono": "KI",
+      "name": "Kinaxis",
+      "desc": "Supply planning"
+     },
+     {
+      "mono": "ED",
+      "name": "EDI X12",
+      "desc": "Distributor EDI"
+     },
+     {
+      "mono": "SN",
+      "name": "Snowflake",
+      "desc": "Data platform"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "How does Trackeys handle multi-tier distribution?",
+      "a": "Fully. Plant → regional DC → sub-distributor → retail is modeled as a first-class network. Each tier has its own visibility, pricing, credit and reporting, with roll-up all the way back to the brand owner."
+     },
+     {
+      "q": "What forecasting models are used?",
+      "a": "An ensemble: classical time-series (SARIMA, Prophet), gradient boosting (LightGBM) on rich feature sets, and neural approaches for long-horizon and promotional lift. The system picks the best model per SKU per distributor based on cross-validation."
+     },
+     {
+      "q": "Can distributors use their own mobile apps?",
+      "a": "Yes. Distributors use the white-labeled Trackeys distributor app or web portal. Orders, stock checks, payments and performance reports are all self-service."
+     },
+     {
+      "q": "Does it handle expiry, batch and lot tracking?",
+      "a": "Yes, full FEFO/FIFO logic at warehouse and distributor level. Expiry alerts fire ahead of time so product can be rotated, discounted or returned before write-off."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Run your network like it's one warehouse. Because it should be.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  },
+  "fleet": {
+   "eyebrow": "FOR FLEET MANAGEMENT",
+   "h1": "Your fleet: where it is, what it's doing, what it costs.",
+   "p": "Trackeys gives fleet managers real-time location, driver behavior, maintenance and utilization for mixed fleets of any size.",
+   "stats": [
+    [
+     "−15%",
+     "fuel cost"
+    ],
+    [
+     "+20%",
+     "on-time deliveries"
+    ],
+    [
+     "+25%",
+     "vehicle utilization"
+    ]
+   ],
+   "visual": [
+    "Depot",
+    "07:00",
+    "Carrefour",
+    "07:42",
+    "LuLu",
+    "08:18",
+    "Spinneys",
+    "09:05",
+    "Al Maya",
+    "09:50",
+    "Choithrams",
+    "10:35",
+    "ROUTE DXB-N-03",
+    "11 stops · 48 km",
+    "AI SAVED",
+    "14 min · 8 km"
+   ],
+   "caps": {
+    "eyebrow": "CAPABILITIES",
+    "h2": "Everything a modern fleet manager needs.",
+    "sub": "Tracking, driver safety, maintenance and cost, in one operational view.",
+    "items": [
+     {
+      "title": "Live vehicle tracking",
+      "desc": "Every vehicle on the map with 5-second latency and accuracy radius reporting.",
+      "bullets": [
+       "Battery-optimized polling",
+       "Geofence triggers",
+       "Historical replay"
+      ]
+     },
+     {
+      "title": "Driver behavior & safety",
+      "desc": "Speeding, harsh braking, cornering and idling, scored per driver with coaching workflows.",
+      "bullets": [
+       "Safety scorecards",
+       "Harsh event alerts",
+       "Coaching playlists"
+      ]
+     },
+     {
+      "title": "Maintenance scheduling",
+      "desc": "Odometer, engine-hour and event-based triggers. Preventive schedules and workshop coordination.",
+      "bullets": [
+       "PM scheduling",
+       "DVIR (vehicle inspection)",
+       "Workshop integration"
+      ]
+     },
+     {
+      "title": "Fuel & cost tracking",
+      "desc": "Fuel card integration, theft detection and cost-per-kilometer by vehicle and driver.",
+      "bullets": [
+       "Fuel card reconciliation",
+       "Theft anomalies",
+       "CPK & TCO"
+      ]
+     },
+     {
+      "title": "Route & utilization",
+      "desc": "Optimize vehicle allocation across jobs. Measure utilization and identify idle assets.",
+      "bullets": [
+       "Utilization scorecards",
+       "Idle asset alerts",
+       "Job-vehicle fit"
+      ]
+     },
+     {
+      "title": "Telematics-ready",
+      "desc": "Plug in existing hardware or use Trackeys-certified devices. All data in one view.",
+      "bullets": [
+       "Samsara · Geotab · Motive",
+       "BYO telematics",
+       "Trackeys devices"
+      ]
+     }
+    ]
+   },
+   "how": {
+    "eyebrow": "HOW IT WORKS",
+    "h2": "From key turn to scheduled service.",
+    "sub": "How a vehicle-day runs through Trackeys.",
+    "steps": [
+     {
+      "n": "STEP 01",
+      "title": "Assign",
+      "desc": "Vehicle and driver allocated to job based on fit, hours and availability."
+     },
+     {
+      "n": "STEP 02",
+      "title": "Inspect",
+      "desc": "Pre-trip DVIR captures vehicle condition with photos and sign-off."
+     },
+     {
+      "n": "STEP 03",
+      "title": "Track",
+      "desc": "Location, speed, and safety events stream live to ops."
+     },
+     {
+      "n": "STEP 04",
+      "title": "Deliver",
+      "desc": "Jobs completed with POD. Mileage and fuel captured automatically."
+     },
+     {
+      "n": "STEP 05",
+      "title": "Close",
+      "desc": "Post-trip DVIR, driver settlement and vehicle parking logged."
+     },
+     {
+      "n": "STEP 06",
+      "title": "Maintain",
+      "desc": "Upcoming PM and alerts surface; workshop slots auto-scheduled."
+     }
+    ]
+   },
+   "outcomes": {
+    "eyebrow": "PROVEN OUTCOMES",
+    "h2": "Fleet managers running Trackeys cut cost and lift utilization together.",
+    "items": [
+     {
+      "v": "−15%",
+      "k": "fuel cost",
+      "d": "Route + behavior coaching combined"
+     },
+     {
+      "v": "+20%",
+      "k": "on-time deliveries",
+      "d": "Live re-routing and visibility"
+     },
+     {
+      "v": "+25%",
+      "k": "vehicle utilization",
+      "d": "Smarter allocation"
+     }
+    ]
+   },
+   "stack": {
+    "eyebrow": "WORKS WITH YOUR STACK",
+    "h2": "Works with your fleet hardware and systems.",
+    "sub": "Native telematics, fuel card and ERP integrations.",
+    "items": [
+     {
+      "mono": "SA",
+      "name": "Samsara",
+      "desc": "Telematics + video"
+     },
+     {
+      "mono": "GE",
+      "name": "Geotab",
+      "desc": "GO devices"
+     },
+     {
+      "mono": "MO",
+      "name": "Motive",
+      "desc": "Fleet + ELD"
+     },
+     {
+      "mono": "FL",
+      "name": "Fleetio",
+      "desc": "Maintenance"
+     },
+     {
+      "mono": "WE",
+      "name": "WEX",
+      "desc": "Fuel cards"
+     },
+     {
+      "mono": "SH",
+      "name": "Shell Card",
+      "desc": "Fuel data"
+     },
+     {
+      "mono": "SA",
+      "name": "SAP PM",
+      "desc": "Plant maintenance"
+     },
+     {
+      "mono": "OR",
+      "name": "Oracle EAM",
+      "desc": "Asset mgmt"
+     }
+    ]
+   },
+   "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Questions, answered.",
+    "items": [
+     {
+      "q": "Does Trackeys work with our existing GPS hardware?",
+      "a": "Yes. Certified connectors for Samsara, Geotab, Motive and most major telematics providers. For proprietary or niche devices, a standardized ingest API handles the rest."
+     },
+     {
+      "q": "How is driver behavior scored?",
+      "a": "A composite score weighs speeding (vs. posted limits), harsh braking, acceleration, cornering, idling and seatbelt compliance. Weights are configurable per fleet profile and the engine learns from your historical data."
+     },
+     {
+      "q": "Can drivers see their own scorecards?",
+      "a": "Yes. Drivers get a mobile scorecard with their own trends, coaching tips and peer comparisons. Gamification is optional, with leaderboards that reward safety and efficiency."
+     },
+     {
+      "q": "Does it handle mixed fleets (trucks, vans, cars, bikes)?",
+      "a": "Yes. Vehicle profiles model weight, volume, fuel type, emissions and job fit. The routing and allocation engine respects constraints for every vehicle class."
+     }
+    ]
+   },
+   "cta": {
+    "h2": "Give your fleet a brain. And give your manager their evenings back.",
+    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+   }
+  }
+ },
+ "pricing": {
+  "eyebrow": "Pricing",
+  "h1": "Pick the tier. Mix the modules. Grow from there.",
+  "p": "Per-user pricing with modules bundled into three tiers. Add Fleet, Premium Support or custom integrations à la carte. Annual billing only.",
+  "curLabel": "Show prices in",
+  "currencies": [
+   "USD",
+   "AED",
+   "EUR"
+  ],
+  "rates": {
+   "USD": 1,
+   "AED": 3.67,
+   "EUR": 0.92
+  },
+  "tiers": [
+   {
+    "popular": "",
+    "name": "Starter",
+    "desc": "For small teams getting field ops onto one system.",
+    "price": 29,
+    "priceLabel": null,
+    "per": "per user / month",
+    "billed": "Billed annually · min. 5 users",
+    "cta": "Start 14-day trial",
+    "incLabel": "What's included",
+    "li": [
+     "Sales Force Automation (core)",
+     "Offline-first mobile app",
+     "Up to 5,000 visits / month",
+     "Real-time GPS tracking",
+     "Dispatch & POD workflows",
+     "Email support"
+    ]
+   },
+   {
+    "popular": "Most popular",
+    "name": "Growth",
+    "desc": "For scaling distributors, FMCG brands and logistics ops.",
+    "price": 79,
+    "priceLabel": null,
+    "per": "per user / month",
+    "billed": "Billed annually · min. 15 users",
+    "cta": "Start 14-day trial",
+    "incLabel": "Everything in Starter, plus",
+    "li": [
+     "AI route optimization (multi-factor)",
+     "Van sales & mobile invoicing",
+     "Merchandising AI (10k shelf scans/mo)",
+     "Distribution Management (DMS)",
+     "Role-based dashboards (HOD, Ops, Driver)",
+     "Up to 50,000 visits / month",
+     "Priority support · 4-hour SLA",
+     "API access + 3 integrations"
+    ]
+   },
+   {
+    "popular": "",
+    "name": "Enterprise",
+    "desc": "For multi-country operations with custom workflows.",
+    "price": null,
+    "priceLabel": "Custom pricing",
+    "per": "per user / month",
+    "billed": "Annual contract · volume pricing",
+    "cta": "Contact sales",
+    "incLabel": "Everything in Growth, plus",
+    "li": [
+     "Unlimited visits + shelf scans",
+     "Multi-entity, multi-currency, multi-tax",
+     "Dedicated success manager",
+     "Custom integrations (SAP, Oracle, D365)",
+     "On-prem or private cloud option",
+     "Advanced security (SSO, SCIM, audit logs)",
+     "99.95% uptime SLA",
+     "Custom AI model training"
+    ]
+   }
+  ],
+  "addons": {
+   "eyebrow": "Add-ons",
+   "h2": "Extend any tier with à la carte modules.",
+   "sub": "Pay for what you need, scale as you grow.",
+   "items": [
+    {
+     "name": "Fleet Management",
+     "desc": "Live tracking, driver safety scoring, maintenance and fuel analytics.",
+     "usd": 19,
+     "unit": "per vehicle / month"
+    },
+    {
+     "name": "Advanced Vision AI",
+     "desc": "Beyond 10k/mo: high-volume planogram compliance and OOS detection.",
+     "usd": 0.08,
+     "unit": "per shelf scan"
+    },
+    {
+     "name": "Premium Support 24/7",
+     "desc": "Round-the-clock phone + chat. 1-hour response, dedicated on-call.",
+     "usd": 1500,
+     "unit": "per month"
+    },
+    {
+     "name": "Custom Integrations",
+     "desc": "Hand-built connector for proprietary ERPs, custom EDI or legacy systems.",
+     "usd": 5000,
+     "unit": "one-time, per integration"
+    }
+   ]
+  },
+  "compare": {
+   "eyebrow": "Compare",
+   "h2": "Full feature comparison.",
+   "sub": "Every capability, line by line, across the three tiers.",
+   "cols": [
+    "Feature",
+    "Starter",
+    "Growth",
+    "Enterprise"
+   ],
+   "groups": [
+    [
+     "Sales Force Automation",
+     [
+      [
+       "Visits / month",
+       "5,000",
+       "50,000",
+       "Unlimited"
+      ],
+      [
+       "Pre-sales & van sales",
+       1,
+       1,
+       1
+      ],
+      [
+       "Offline-first mobile app",
+       1,
+       1,
+       1
+      ],
+      [
+       "AI sales copilot",
+       0,
+       1,
+       1
+      ],
+      [
+       "Territory planning AI",
+       0,
+       1,
+       1
+      ]
+     ]
+    ],
+    [
+     "Delivery & Routing",
+     [
+      [
+       "Real-time GPS tracking",
+       1,
+       1,
+       1
+      ],
+      [
+       "Proof-of-delivery workflows",
+       1,
+       1,
+       1
+      ],
+      [
+       "AI multi-factor routing",
+       "Basic",
+       "Full",
+       "Full + custom"
+      ],
+      [
+       "Dynamic re-routing",
+       0,
+       1,
+       1
+      ],
+      [
+       "Customer tracking page",
+       0,
+       1,
+       1
+      ]
+     ]
+    ],
+    [
+     "Merchandising AI",
+     [
+      [
+       "Shelf scans / month",
+       0,
+       "10,000",
+       "Unlimited"
+      ],
+      [
+       "Planogram compliance",
+       0,
+       1,
+       1
+      ],
+      [
+       "Share-of-shelf analytics",
+       0,
+       1,
+       1
+      ],
+      [
+       "Custom model training",
+       0,
+       0,
+       1
+      ]
+     ]
+    ],
+    [
+     "Distribution & DMS",
+     [
+      [
+       "Distributor portal",
+       0,
+       1,
+       1
+      ],
+      [
+       "AI demand forecasting",
+       0,
+       1,
+       1
+      ],
+      [
+       "Secondary sales tracking",
+       0,
+       1,
+       1
+      ],
+      [
+       "Trade spend management",
+       0,
+       0,
+       1
+      ]
+     ]
+    ],
+    [
+     "Platform & Support",
+     [
+      [
+       "Users",
+       "5–25",
+       "15–500",
+       "Unlimited"
+      ],
+      [
+       "Role-based dashboards",
+       "3 roles",
+       "All roles",
+       "Custom roles"
+      ],
+      [
+       "API access",
+       0,
+       1,
+       1
+      ],
+      [
+       "Integrations included",
+       0,
+       "3",
+       "Unlimited"
+      ],
+      [
+       "SSO / SCIM",
+       0,
+       0,
+       1
+      ],
+      [
+       "Audit logs",
+       0,
+       "Standard",
+       "Advanced"
+      ],
+      [
+       "Uptime SLA",
+       "99.5%",
+       "99.9%",
+       "99.95%"
+      ],
+      [
+       "Support",
+       "Email",
+       "Priority · 4h SLA",
+       "Dedicated CSM"
+      ],
+      [
+       "Onboarding",
+       "Self-serve",
+       "Guided",
+       "White-glove"
+      ]
+     ]
+    ]
+   ]
+  },
+  "roi": {
+   "eyebrow": "ROI Calculator",
+   "h2": "See the numbers for your team.",
+   "sub": "Based on outcomes customers see on the Growth tier: +15% sales per visit, +20% coverage, −40% admin time.",
+   "inputs": [
+    [
+     "Field reps",
+     "people",
+     5,
+     500,
+     1,
+     25
+    ],
+    [
+     "Visits per rep / day",
+     "visits",
+     4,
+     30,
+     1,
+     12
+    ],
+    [
+     "Avg revenue per visit",
+     "USD",
+     10,
+     500,
+     5,
+     40
+    ]
+   ],
+   "outputs": [
+    "Estimated annual ROI",
+    "Monthly benefit",
+    "Growth-tier cost",
+    "Payback period",
+    "Multiple on spend"
+   ],
+   "note": "Estimates based on customer-reported outcomes. Actual results depend on adoption, team size and industry."
+  },
+  "impl": {
+   "eyebrow": "Implementation",
+   "h2": "You're live in 6 weeks, on average.",
+   "sub": "Growth customers onboard with a specialist. Enterprise gets a dedicated success manager and custom change-management program.",
+   "steps": [
+    {
+     "n": "01",
+     "when": "Week 1",
+     "title": "Discovery & kickoff",
+     "desc": "Meet your success team, map your workflows, plan integrations and migration. You walk out with a staged rollout plan."
+    },
+    {
+     "n": "02",
+     "when": "Weeks 2–5",
+     "title": "Build & train",
+     "desc": "Data imported, integrations wired, users provisioned, dashboards configured. Train-the-trainer sessions for field leads."
+    },
+    {
+     "n": "03",
+     "when": "Weeks 6+",
+     "title": "Launch & optimize",
+     "desc": "Pilot region goes live, then full rollout. Weekly office hours, monthly optimization reviews, quarterly business reviews."
+    }
+   ]
+  },
+  "faq": {
+   "eyebrow": "FAQ",
+   "h2": "Pricing, modules, contracts, clearly.",
+   "items": [
+    {
+     "q": "How does per-module pricing work?",
+     "a": "Each tier bundles a set of modules (SFA, Delivery & Routing, Merchandising AI, DMS). If you only need SFA + Delivery, pick Starter. If you need all four, pick Growth. Enterprise unlocks everything plus custom modules and workflows. You can also add Fleet Management as a separate add-on on any tier."
+    },
+    {
+     "q": "What counts as a \"visit\" or a \"shelf scan\"?",
+     "a": "A visit is a single rep check-in at a store or customer location. A shelf scan is one photo processed by the vision AI (a single aisle typically takes 2–4 scans). Both limits are monthly and reset on your billing anniversary."
+    },
+    {
+     "q": "Can we change tiers or add modules mid-contract?",
+     "a": "Yes. You can upgrade at any time and we'll prorate the difference. Downgrades apply at renewal. Adding an add-on (Fleet, Premium Support, etc.) is instant with pro-rated billing to your anniversary."
+    },
+    {
+     "q": "Do you offer a free trial?",
+     "a": "Yes, 14 days on Starter or Growth, no credit card required. You get full access to the modules in that tier and we'll help you import sample data so you can evaluate with your own customers and stores."
+    },
+    {
+     "q": "What's included in onboarding?",
+     "a": "Starter is self-serve with guided setup videos. Growth includes a 2-week guided onboarding with a specialist (data migration, user training, integration setup). Enterprise gets a white-glove program: 6–12 weeks with a dedicated success manager, custom workflow design and change-management support."
+    },
+    {
+     "q": "Is there a discount for nonprofits or education?",
+     "a": "Yes, 40% off Growth for registered nonprofits and 25% off for accredited education institutions. Contact us with documentation to apply."
+    },
+    {
+     "q": "How is data security handled?",
+     "a": "SOC 2 Type II certified. AES-256 at rest, TLS 1.3 in transit. Enterprise plans include SSO, SCIM provisioning, advanced audit logs, data residency options (US, EU, UAE) and optional on-prem deployment."
+    },
+    {
+     "q": "What happens if we exceed visit or scan limits?",
+     "a": "You're never blocked. Overages are billed at $0.05 per extra visit and $0.08 per extra shelf scan. We alert you when you hit 80% of your limit so you can upgrade or manage usage proactively."
+    }
+   ]
+  },
+  "cta": {
+   "h2": "Run the pilot. See the numbers. Then scale.",
+   "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  }
+ },
+ "demo": {
+  "eyebrow": "Book a demo",
+  "h1": "See Trackeys on your data. In 30 minutes.",
+  "p": "Live walkthrough tailored to your industry. Bring a sample of your stores, SKUs or routes; we'll load it and show you what Trackeys surfaces.",
+  "promises": [
+   [
+    "30 minutes, tailored to you",
+    "We set up a demo on your industry and workflows, not a canned script."
+   ],
+   [
+    "See your data, not lorem ipsum",
+    "Bring a CSV of stores, SKUs or reps. We'll show live insights within minutes."
+   ],
+   [
+    "Meet a specialist, not a BDR",
+    "You talk to someone who's rolled out Trackeys, not a qualifier."
+   ],
+   [
+    "Leave with a pilot plan",
+    "A concrete next-step proposal in your inbox within 24 hours."
+   ]
+  ],
+  "step": "Step 1 of 2",
+  "formH": "Tell us about your team.",
+  "fields": [
+   [
+    "name",
+    "Full name *",
+    "Jane Smith"
+   ],
+   [
+    "email",
+    "Work email *",
+    "jane@company.com"
+   ],
+   [
+    "company",
+    "Company *",
+    "Acme FMCG"
+   ],
+   [
+    "phone",
+    "Phone",
+    "+971 50 000 0000"
+   ],
+   [
+    "country",
+    "Country"
+   ],
+   [
+    "industry",
+    "Industry"
+   ],
+   [
+    "size",
+    "Team size"
+   ],
+   [
+    "tools",
+    "Current tools (optional)",
+    "e.g. SAP, Salesforce, Excel, custom app"
+   ],
+   [
+    "hope",
+    "What are you hoping to see?",
+    "Pain points, goals, must-haves..."
+   ]
+  ],
+  "countries": [
+   "Afghanistan",
+   "Albania",
+   "Algeria",
+   "Andorra",
+   "Angola",
+   "Argentina",
+   "Armenia",
+   "Australia",
+   "Austria",
+   "Azerbaijan",
+   "Bahamas",
+   "Bahrain",
+   "Bangladesh",
+   "Barbados",
+   "Belarus",
+   "Belgium",
+   "Belize",
+   "Benin",
+   "Bhutan",
+   "Bolivia",
+   "Bosnia and Herzegovina",
+   "Botswana",
+   "Brazil",
+   "Brunei",
+   "Bulgaria",
+   "Burkina Faso",
+   "Burundi",
+   "Cambodia",
+   "Cameroon",
+   "Canada",
+   "Cape Verde",
+   "Central African Republic",
+   "Chad",
+   "Chile",
+   "China",
+   "Colombia",
+   "Comoros",
+   "Congo (Brazzaville)",
+   "Congo (Kinshasa)",
+   "Costa Rica",
+   "Croatia",
+   "Cuba",
+   "Cyprus",
+   "Czech Republic",
+   "Denmark",
+   "Djibouti",
+   "Dominica",
+   "Dominican Republic",
+   "Ecuador",
+   "Egypt",
+   "El Salvador",
+   "Equatorial Guinea",
+   "Eritrea",
+   "Estonia",
+   "Eswatini",
+   "Ethiopia",
+   "Fiji",
+   "Finland",
+   "France",
+   "Gabon",
+   "Gambia",
+   "Georgia",
+   "Germany",
+   "Ghana",
+   "Greece",
+   "Grenada",
+   "Guatemala",
+   "Guinea",
+   "Guinea-Bissau",
+   "Guyana",
+   "Haiti",
+   "Honduras",
+   "Hungary",
+   "Iceland",
+   "India",
+   "Indonesia",
+   "Iran",
+   "Iraq",
+   "Ireland",
+   "Israel",
+   "Italy",
+   "Jamaica",
+   "Japan",
+   "Jordan",
+   "Kazakhstan",
+   "Kenya",
+   "Kiribati",
+   "Kuwait",
+   "Kyrgyzstan",
+   "Laos",
+   "Latvia",
+   "Lebanon",
+   "Lesotho",
+   "Liberia",
+   "Libya",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Madagascar",
+   "Malawi",
+   "Malaysia",
+   "Maldives",
+   "Mali",
+   "Malta",
+   "Marshall Islands",
+   "Mauritania",
+   "Mauritius",
+   "Mexico",
+   "Micronesia",
+   "Moldova",
+   "Monaco",
+   "Mongolia",
+   "Montenegro",
+   "Morocco",
+   "Mozambique",
+   "Myanmar",
+   "Namibia",
+   "Nauru",
+   "Nepal",
+   "Netherlands",
+   "New Zealand",
+   "Nicaragua",
+   "Niger",
+   "Nigeria",
+   "North Korea",
+   "North Macedonia",
+   "Norway",
+   "Oman",
+   "Pakistan",
+   "Palau",
+   "Palestine",
+   "Panama",
+   "Papua New Guinea",
+   "Paraguay",
+   "Peru",
+   "Philippines",
+   "Poland",
+   "Portugal",
+   "Qatar",
+   "Romania",
+   "Russia",
+   "Rwanda",
+   "Saint Kitts and Nevis",
+   "Saint Lucia",
+   "Saint Vincent and the Grenadines",
+   "Samoa",
+   "San Marino",
+   "Sao Tome and Principe",
+   "Saudi Arabia",
+   "Senegal",
+   "Serbia",
+   "Seychelles",
+   "Sierra Leone",
+   "Singapore",
+   "Slovakia",
+   "Slovenia",
+   "Solomon Islands",
+   "Somalia",
+   "South Africa",
+   "South Korea",
+   "South Sudan",
+   "Spain",
+   "Sri Lanka",
+   "Sudan",
+   "Suriname",
+   "Sweden",
+   "Switzerland",
+   "Syria",
+   "Taiwan",
+   "Tajikistan",
+   "Tanzania",
+   "Thailand",
+   "Timor-Leste",
+   "Togo",
+   "Tonga",
+   "Trinidad and Tobago",
+   "Tunisia",
+   "Turkey",
+   "Turkmenistan",
+   "Tuvalu",
+   "Uganda",
+   "Ukraine",
+   "United Arab Emirates",
+   "United Kingdom",
+   "United States",
+   "Uruguay",
+   "Uzbekistan",
+   "Vanuatu",
+   "Vatican City",
+   "Venezuela",
+   "Vietnam",
+   "Yemen",
+   "Zambia",
+   "Zimbabwe"
+  ],
+  "industries": [
+   "FMCG / CPG",
+   "Logistics & Supply Chain",
+   "Distribution",
+   "Pharma",
+   "Retail",
+   "Other"
+  ],
+  "sizes": [
+   "1–25",
+   "26–100",
+   "101–500",
+   "501–2,000",
+   "2,000+"
+  ],
+  "cont": "Continue to calendar →",
+  "choose": "Select...",
+  "stats": [
+   [
+    "+15%",
+    "sales per visit"
+   ],
+   [
+    "−20%",
+    "delivery delays"
+   ],
+   [
+    "+20%",
+    "merch compliance"
+   ],
+   [
+    "30 min",
+    "avg demo length"
+   ]
+  ],
+  "trusted": {
+   "label": "Trusted by teams running field operations at scale",
+   "names": [
+    "Gulf Beverages",
+    "Patil Foods",
+    "Savannah Logistics",
+    "Al-Riyadh Bevco",
+    "Cairo Pharma",
+    "Nusantara Dairy"
+   ]
+  },
+  "faq": {
+   "eyebrow": "FAQ",
+   "h2": "What to expect from the demo.",
+   "items": [
+    [
+     "How long is the demo?",
+     "30 minutes for the standard demo. We reserve an optional 15-minute buffer for Q&A."
+    ],
+    [
+     "Who should join from our side?",
+     "Ideally 2–3 people: the operational owner (sales/ops/distribution), a tech stakeholder, and a decision-maker. We adapt content to the attendees."
+    ],
+    [
+     "Can we see it on our own data?",
+     "Yes. Send a sample (CSV, Excel, or a read-only export) 24 hours ahead and we'll load it into a sandbox before the call."
+    ],
+    [
+     "Is there a commitment?",
+     "None. No credit card, no NDA required for the demo. If you want to pilot, we sign a lightweight mutual NDA and a pilot-scope doc."
+    ]
+   ]
+  }
+ },
+ "resources": {
+  "eyebrow": "Resources",
+  "h1": "Field ops, distribution and AI, without the consultant-speak.",
+  "p": "Articles, case studies and playbooks from the people building Trackeys, and the teams running it.",
+  "featured": "Featured",
+  "startHere": "Start here.",
+  "recent": "Recent articles",
+  "viewAll": "View all →",
+  "stories": "Customer stories",
+  "allStories": "All stories →",
+  "cta": {
+   "h2": "See Trackeys on your data. 30 minutes, tailored to your team."
+  }
+ },
+ "blog": {
+  "eyebrow": "Blog",
+  "h1": "Ideas from the field.",
+  "p": "Articles on distribution, AI in FMCG, merchandising and how our customers actually use Trackeys.",
+  "filters": [
+   "All",
+   "Distribution",
+   "AI in FMCG",
+   "Merchandising",
+   "Customer stories"
+  ],
+  "cards": [
+   {
+    "href": "secondary-sales-visibility",
+    "cat": "Distribution",
+    "title": "Why secondary sales visibility is the FMCG blind spot costing you 20% of revenue.",
+    "excerpt": "Primary sales leave your warehouse, and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks.",
+    "meta": "Imran Shaikh · Apr 14, 2026 · 8 min read"
+   },
+   {
+    "href": "vision-ai-planogram",
+    "cat": "AI in FMCG",
+    "title": "Vision AI for planograms: from nice-to-have to non-negotiable in 24 months.",
+    "excerpt": "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why, and what makes a good vision model for retail execution.",
+    "meta": "Fatima Al-Hashimi · Apr 08, 2026 · 6 min read"
+   },
+   {
+    "href": "merch-compliance-gap",
+    "cat": "Merchandising",
+    "title": "The 30% gap between planned merchandising and what's actually on shelves.",
+    "excerpt": "Why store-level execution so often betrays brand-level strategy, and how to close the gap with measurement that doesn't rely on self-reporting.",
+    "meta": "Karthik Venkatesh · Mar 28, 2026 · 7 min read"
+   },
+   {
+    "href": "ai-demand-forecasting",
+    "cat": "AI in FMCG",
+    "title": "Stop forecasting demand with Excel. A practical guide to AI replenishment for distribution.",
+    "excerpt": "Classical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches, without hand-tuning 200 parameters.",
+    "meta": "Priya Ramesh · Mar 19, 2026 · 9 min read"
+   },
+   {
+    "href": "customer-story-gulf-beverages",
+    "cat": "Customer stories",
+    "title": "Gulf Beverages cut stockouts by 42% in 90 days.",
+    "excerpt": "Regional beverage distributor went from weekly stockout reports to live replenishment signals in under a quarter. The story, and the numbers.",
+    "meta": "Trackeys team · Mar 12, 2026 · 5 min read"
+   },
+   {
+    "href": "van-sales-offline-first",
+    "cat": "Distribution",
+    "title": "Offline-first is not a feature. It's a philosophy.",
+    "excerpt": "Half your van-sales routes run through bad cellular zones. Building for that reality changes everything, from sync protocols to conflict resolution.",
+    "meta": "Imran Shaikh · Feb 27, 2026 · 6 min read"
+   },
+   {
+    "href": "customer-story-pan-india",
+    "cat": "Customer stories",
+    "title": "Pan-India FMCG brand onboards 1,400 distributors in 8 weeks.",
+    "excerpt": "The playbook that turned a two-year rollout estimate into a one-quarter reality, and what we learned about distributor change management.",
+    "meta": "Trackeys team · Feb 14, 2026 · 4 min read"
+   },
+   {
+    "href": "retail-execution-metrics",
+    "cat": "Merchandising",
+    "title": "The 5 retail execution metrics that actually correlate with revenue.",
+    "excerpt": "Compliance, availability, visibility, freshness, price. Here's the order of importance, how to measure each without self-reporting, and the benchmarks worth hitting.",
+    "meta": "Karthik Venkatesh · Feb 03, 2026 · 7 min read"
+   },
+   {
+    "href": "customer-story-east-africa",
+    "cat": "Customer stories",
+    "title": "East-African FMCG cuts delivery cost-per-drop by 18%.",
+    "excerpt": "How a regional distributor used multi-factor AI routing to handle 60% more orders with the same fleet, and turned last-mile from cost center to growth lever.",
+    "meta": "Trackeys team · Jan 22, 2026 · 5 min read"
+   }
+  ],
+  "cta": {
+   "h2": "Ideas are great. Execution is better. Book a demo."
+  }
+ },
+ "posts": {
+  "secondary-sales-visibility": {
+   "back": "← All articles",
+   "cat": "Distribution",
+   "title": "Why secondary sales visibility is the FMCG blind spot costing you 20% of revenue.",
+   "sub": "Primary sales leave your warehouse, and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks.",
+   "initials": "IS",
+   "author": "Imran Shaikh",
+   "role": "Head of Distribution, Trackeys",
+   "date": "Apr 14, 2026 · 8 min read",
+   "body": [
+    [
+     "p",
+     "For most FMCG brands, the moment a truck leaves the warehouse is the moment visibility dies. Primary sales are clean, tracked and auditable. Secondary sales (what the distributor actually sells to retail) is a monthly data dump at best, a guess at worst."
+    ],
+    [
+     "h2",
+     "The visibility cliff"
+    ],
+    [
+     "p",
+     "We recently audited the distribution data of six mid-market FMCG brands across South Asia and the Gulf. On average, they could answer \"what did we ship?\" within 2 hours, but \"what did our distributors sell?\" took 3 weeks. Three weeks of blind spots is three weeks of stock rotting, three weeks of promotions going unreconciled, three weeks of competitors moving faster."
+    ],
+    [
+     "h2",
+     "The 20% you're leaving on the table"
+    ],
+    [
+     "p",
+     "When you don't see secondary sales in real time, four things go wrong: (1) trade spend gets misallocated against the wrong SKUs, (2) replenishment lags demand and you OOS in fast-moving stores, (3) slow movers hide inside aggregate distributor reports, (4) channel P&L becomes a story instead of a number. Together these account for roughly 15–25% of addressable revenue in most of the brands we've analyzed."
+    ],
+    [
+     "blockquote",
+     "The moment we got secondary-sales visibility down to a day, our promo ROI calculation stopped being theoretical. It became something we acted on, weekly."
+    ],
+    [
+     "h2",
+     "What closing the gap looks like"
+    ],
+    [
+     "p",
+     "Distributors log secondary sales through a portal or mobile app. Van sales direct to trade is captured at source. Both feed one secondary-sales view with SKU-level traceability. Forecast engines then recalibrate against the new signal, which lifts fill rate, cuts obsolescence, and makes trade spend a knob you can actually turn."
+    ],
+    [
+     "p",
+     "It isn't a tech problem anymore. It's a process problem. Most of the distributors we work with had never been asked for daily data. Once asked, and given a tool that made it 30 seconds of work, they provided it happily."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "vision-ai-planogram": {
+   "back": "← All articles",
+   "cat": "AI in FMCG",
+   "title": "Vision AI for planograms: from nice-to-have to non-negotiable in 24 months.",
+   "sub": "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why, and what makes a good vision model for retail execution.",
+   "initials": "FA",
+   "author": "Fatima Al-Hashimi",
+   "role": "VP Product, Trackeys",
+   "date": "Apr 08, 2026 · 6 min read",
+   "body": [
+    [
+     "p",
+     "Three years ago, \"AI merchandising\" on an RFP meant a shelf-image-capture feature a human auditor would later review. Today, the bar is a real-time detection model that scores planogram compliance, share-of-shelf and out-of-stock on the rep's phone in under 3 seconds."
+    ],
+    [
+     "h2",
+     "What changed"
+    ],
+    [
+     "p",
+     "Two things: model quality got dramatically better for long-tail SKU detection, and phones got fast enough to run inference on-device. The result is that a rep walking into a 200-SKU aisle can get instant, objective compliance scoring: no more human audit queues, no more week-long feedback loops."
+    ],
+    [
+     "h2",
+     "What makes a good model"
+    ],
+    [
+     "p",
+     "SKU-level recall above 94%. Sub-second inference on mid-tier Android devices. Handles edge cases (shelf occlusion, odd lighting, skewed angles) without collapsing confidence. And trained on your actual SKU catalog, not a generic CPG dataset."
+    ],
+    [
+     "blockquote",
+     "Compliance went from a monthly audit we argued about to a daily number the ops team actually managed."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "merch-compliance-gap": {
+   "back": "← All articles",
+   "cat": "Merchandising",
+   "title": "The 30% gap between planned merchandising and what's actually on shelves.",
+   "sub": "Why store-level execution so often betrays brand-level strategy, and how to close the gap with measurement that doesn't rely on self-reporting.",
+   "initials": "KV",
+   "author": "Karthik Venkatesh",
+   "role": "Director of Retail Execution",
+   "date": "Mar 28, 2026 · 7 min read",
+   "body": [
+    [
+     "p",
+     "Almost every FMCG brand we benchmark has the same problem: what the trade marketing team plans and what the rep actually executes in-store diverge by an average of 30%. Sometimes more."
+    ],
+    [
+     "h2",
+     "Why it happens"
+    ],
+    [
+     "p",
+     "Planograms land in a rep's inbox as a PDF. The rep does their best. The auditor, weeks later, scores compliance from memory. Nobody is lying; the feedback loop is just too slow and fuzzy for anyone to act on."
+    ],
+    [
+     "h2",
+     "What closes it"
+    ],
+    [
+     "p",
+     "Photo-based compliance scoring with the planogram visible on-screen. Real-time feedback to the rep. Aggregate dashboards that highlight the exact 3 stores out of 400 where compliance is slipping. That's enough to flip merchandising from a lagging audit to a leading signal."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "ai-demand-forecasting": {
+   "back": "← All articles",
+   "cat": "AI in FMCG",
+   "title": "Stop forecasting demand with Excel. A practical guide to AI replenishment for distribution.",
+   "sub": "Classical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches, without hand-tuning 200 parameters.",
+   "initials": "PR",
+   "author": "Priya Ramesh",
+   "role": "Head of AI, Trackeys",
+   "date": "Mar 19, 2026 · 9 min read",
+   "body": [
+    [
+     "p",
+     "Demand forecasting in FMCG distribution is still mostly a spreadsheet exercise. That's not because the spreadsheets are wrong; it's because the people running them are genuinely good at what they do. The problem is ceiling: at a certain SKU × store × week granularity, no human can hold enough context to be accurate."
+    ],
+    [
+     "h2",
+     "Where AI actually wins"
+    ],
+    [
+     "p",
+     "Three places: handling promo uplift as a continuous signal instead of a flag, recognizing seasonality at long tail (not just the top 20 SKUs), and cold-starting new products off taxonomy instead of history. Plus the obvious one: just doing all of it across millions of SKU-store combos."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "customer-story-gulf-beverages": {
+   "back": "← All articles",
+   "cat": "Customer stories",
+   "title": "Gulf Beverages cut stockouts by 42% in 90 days.",
+   "sub": "Regional beverage distributor went from weekly stockout reports to live replenishment signals in under a quarter. The story, and the numbers.",
+   "initials": "Tt",
+   "author": "Trackeys team",
+   "role": "",
+   "date": "Mar 12, 2026 · 5 min read",
+   "body": [
+    [
+     "p",
+     "Gulf Beverages distributes 180 SKUs across 4,200 retail points in the UAE and Oman. Before Trackeys, stockouts averaged 11%, high enough to be a board-level topic. Ninety days after going live on Distribution + SFA, that number was 6.4%."
+    ],
+    [
+     "h2",
+     "What moved the needle"
+    ],
+    [
+     "p",
+     "Three things, in order of impact: demand forecasting that recognized promotion lift per-SKU instead of per-category; van sales that logged secondary sales at point of sale; and an HOD dashboard that surfaced the worst-performing 2% of stores every morning for targeted intervention."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "van-sales-offline-first": {
+   "back": "← All articles",
+   "cat": "Distribution",
+   "title": "Offline-first is not a feature. It's a philosophy.",
+   "sub": "Half your van-sales routes run through bad cellular zones. Building for that reality changes everything, from sync protocols to conflict resolution.",
+   "initials": "IS",
+   "author": "Imran Shaikh",
+   "role": "Head of Distribution, Trackeys",
+   "date": "Feb 27, 2026 · 6 min read",
+   "body": [
+    [
+     "p",
+     "Most sales apps treat offline as a fallback mode. In FMCG van sales, offline is the default, at least half of the day. Designing an app that is great offline and excellent when connected is a fundamentally different engineering problem."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "customer-story-pan-india": {
+   "back": "← All articles",
+   "cat": "Customer stories",
+   "title": "Pan-India FMCG brand onboards 1,400 distributors in 8 weeks.",
+   "sub": "The playbook that turned a two-year rollout estimate into a one-quarter reality, and what we learned about distributor change management.",
+   "initials": "Tt",
+   "author": "Trackeys team",
+   "role": "",
+   "date": "Feb 14, 2026 · 4 min read",
+   "body": [
+    [
+     "p",
+     "When the VP of distribution signed the contract, his internal estimate was 18–24 months to fully onboard. Eight weeks after kickoff, 1,400 distributors were live. Here's what it took, and what we'd do differently."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "retail-execution-metrics": {
+   "back": "← All articles",
+   "cat": "Merchandising",
+   "title": "The 5 retail execution metrics that actually correlate with revenue.",
+   "sub": "Compliance, availability, visibility, freshness, price. Here's the order of importance, how to measure each without self-reporting, and the benchmarks worth hitting.",
+   "initials": "KV",
+   "author": "Karthik Venkatesh",
+   "role": "Director of Retail Execution",
+   "date": "Feb 03, 2026 · 7 min read",
+   "body": [
+    [
+     "p",
+     "There are about 40 \"retail execution\" metrics floating around industry white papers. Most are vanity. Five actually correlate, strongly, with revenue in the stores where you measure them."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  },
+  "customer-story-east-africa": {
+   "back": "← All articles",
+   "cat": "Customer stories",
+   "title": "East-African FMCG cuts delivery cost-per-drop by 18%.",
+   "sub": "How a regional distributor used multi-factor AI routing to handle 60% more orders with the same fleet, and turned last-mile from cost center to growth lever.",
+   "initials": "Tt",
+   "author": "Trackeys team",
+   "role": "",
+   "date": "Jan 22, 2026 · 5 min read",
+   "body": [
+    [
+     "p",
+     "Before Trackeys, the planning team built routes in a spreadsheet every morning at 5am. After Trackeys, the system builds them at 2am, the planners review at 6am, and the fleet rolls at 7am with 18% lower cost per drop."
+    ]
+   ],
+   "keep": "Keep reading",
+   "cta": {
+    "h2": "Turn the ideas into outcomes. Book a 30-minute demo."
+   }
+  }
+ },
+ "cases": {
+  "eyebrow": "Case studies",
+  "h1": "Real teams. Real numbers. Real outcomes.",
+  "p": "What our customers did with Trackeys, and the measurable results that followed.",
+  "cards": [
+   {
+    "slug": "gulf-beverages",
+    "title": "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+    "desc": "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+    "meta": "Beverages · UAE"
+   },
+   {
+    "slug": "pan-india-fmcg",
+    "title": "Onboarded 1,400 distributors in 8 weeks, 3× faster than planned.",
+    "desc": "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+    "meta": "Packaged foods · India"
+   },
+   {
+    "slug": "east-africa-logistics",
+    "title": "Cut delivery cost-per-drop by 18%, handled 60% more orders with the same fleet.",
+    "desc": "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+    "meta": "Logistics · Kenya"
+   },
+   {
+    "slug": "gcc-beverage-brand",
+    "title": "Planogram compliance from 61% to 89% in one quarter.",
+    "desc": "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.",
+    "meta": "Beverages · Saudi Arabia"
+   },
+   {
+    "slug": "pharma-distributor",
+    "title": "99.7% batch-traceability accuracy across cold-chain distribution.",
+    "desc": "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs.",
+    "meta": "Pharma · Egypt"
+   },
+   {
+    "slug": "southeast-asia-dairy",
+    "title": "+28% sales per rep after 6 weeks on SFA + AI copilot.",
+    "desc": "Indonesian dairy brand deployed AI-assisted pre-sales with route optimization and upsell suggestions. Reps sold more, drove less.",
+    "meta": "Dairy · Indonesia"
+   }
+  ],
+  "cta": {
+   "h2": "Your story is next. Let's build it."
+  }
+ },
+ "caseDetail": {
+  "gulf-beverages": {
+   "back": "← All case studies",
+   "meta": "Beverages · UAE",
+   "title": "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+   "p": "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+   "company": "GULF BEVERAGES",
+   "stats": [
+    [
+     "−42%",
+     "stockouts"
+    ],
+    [
+     "+18%",
+     "secondary sales"
+    ],
+    [
+     "90 days",
+     "time to value"
+    ]
+   ],
+   "blocks": [
+    [
+     "Challenge",
+     "Stockouts were 11% across a 4,200-outlet network. Distributor data arrived weekly at best. Replenishment decisions were made on 2-week-old data, and promo impact was always estimated in hindsight."
+    ],
+    [
+     "Solution",
+     "Rolled out Trackeys Distribution + SFA with offline van-sales capture. Distributor portal replaced the weekly Excel with daily secondary-sales logging. AI forecast layered promo lift as a continuous signal per SKU."
+    ],
+    [
+     "Outcome",
+     "Within 90 days, stockouts dropped to 6.4%. Secondary sales rose 18%, attributed to better availability in fast-moving outlets. Promo-ROI analysis became weekly, not post-quarter."
+    ]
+   ],
+   "quote": "Trackeys turned distribution from a black box into a real-time steering wheel. We don't guess anymore; we know.",
+   "by": "Hassan Al-Mansoori, VP Distribution",
+   "more": "More customer stories",
+   "cta": {
+    "h2": "Your story is next. Book a demo."
+   }
+  },
+  "pan-india-fmcg": {
+   "back": "← All case studies",
+   "meta": "Packaged foods · India",
+   "title": "Onboarded 1,400 distributors in 8 weeks, 3× faster than planned.",
+   "p": "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.",
+   "company": "PATIL FOODS",
+   "stats": [
+    [
+     "1,400",
+     "distributors live in 8 weeks"
+    ],
+    [
+     "6→1",
+     "tools consolidated"
+    ],
+    [
+     "+22%",
+     "coverage"
+    ]
+   ],
+   "blocks": [
+    [
+     "Challenge",
+     "Sales ops ran on 6 disconnected systems per region. Distributor onboarding was a 90-day project. Leadership estimated a 2-year rollout for any unified platform."
+    ],
+    [
+     "Solution",
+     "Phased rollout: 50 pilot distributors in week 2, then 3 regions per fortnight. Standard 30-minute onboarding flow for each distributor. Train-the-trainer model with regional leads."
+    ],
+    [
+     "Outcome",
+     "1,400 distributors live in 8 weeks. Coverage up 22% from improved beat-plan execution. 6 legacy tools sunset within the first quarter."
+    ]
+   ],
+   "quote": "The rollout velocity was the real surprise. We planned for 18 months. We finished in 8 weeks.",
+   "by": "Ravi Patil, National Sales Director",
+   "more": "More customer stories",
+   "cta": {
+    "h2": "Your story is next. Book a demo."
+   }
+  },
+  "east-africa-logistics": {
+   "back": "← All case studies",
+   "meta": "Logistics · Kenya",
+   "title": "Cut delivery cost-per-drop by 18%, handled 60% more orders with the same fleet.",
+   "p": "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+   "company": "SAVANNAH LOGISTICS",
+   "stats": [
+    [
+     "−18%",
+     "cost per drop"
+    ],
+    [
+     "+60%",
+     "orders handled"
+    ],
+    [
+     "+25%",
+     "fleet utilization"
+    ]
+   ],
+   "blocks": [
+    [
+     "Challenge",
+     "Planners built routes manually every morning at 5am. Fleet utilization capped around 68%. As volume grew, planners couldn't keep up, and overtime costs started eating margins."
+    ],
+    [
+     "Solution",
+     "Deployed Trackeys Delivery & Routing with multi-factor AI optimization: time-windows, vehicle constraints, driver hours, and live traffic. Planners shifted from building routes to reviewing exceptions."
+    ],
+    [
+     "Outcome",
+     "Cost per drop fell 18%. Fleet utilization climbed to 85%. Same team now handles 60% more orders."
+    ]
+   ],
+   "quote": "Our planners stopped being route-builders and became decision-makers. That's the real win.",
+   "by": "Mary Kimani, Head of Operations",
+   "more": "More customer stories",
+   "cta": {
+    "h2": "Your story is next. Book a demo."
+   }
+  },
+  "gcc-beverage-brand": {
+   "back": "← All case studies",
+   "meta": "Beverages · Saudi Arabia",
+   "title": "Planogram compliance from 61% to 89% in one quarter.",
+   "p": "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.",
+   "company": "AL-RIYADH BEVCO",
+   "stats": [
+    [
+     "61%→89%",
+     "planogram compliance"
+    ],
+    [
+     "+14%",
+     "share of shelf"
+    ],
+    [
+     "−70%",
+     "audit cost"
+    ]
+   ],
+   "blocks": [
+    [
+     "Challenge",
+     "Monthly human audits reported compliance around 75%, but trusted internal checks suggested reality was closer to 60%. The feedback loop was too slow for anyone to act on."
+    ],
+    [
+     "Solution",
+     "Merchandising AI replaced manual audits with photo-based, real-time compliance scoring. Reps got instant feedback. HOD dashboards surfaced the bottom 5% of stores every morning."
+    ],
+    [
+     "Outcome",
+     "Verified compliance climbed from 61% to 89% in 90 days. Share of shelf gained 14%. Audit costs dropped 70%."
+    ]
+   ],
+   "quote": "We went from arguing about compliance numbers to acting on them, daily.",
+   "by": "Khalid Al-Shehri, Trade Marketing Director",
+   "more": "More customer stories",
+   "cta": {
+    "h2": "Your story is next. Book a demo."
+   }
+  },
+  "pharma-distributor": {
+   "back": "← All case studies",
+   "meta": "Pharma · Egypt",
+   "title": "99.7% batch-traceability accuracy across cold-chain distribution.",
+   "p": "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs.",
+   "company": "CAIRO PHARMA",
+   "stats": [
+    [
+     "99.7%",
+     "batch traceability"
+    ],
+    [
+     "−65%",
+     "expiry wastage"
+    ],
+    [
+     "100%",
+     "cold-chain compliance"
+    ]
+   ],
+   "blocks": [
+    [
+     "Challenge",
+     "Regulatory reporting required batch-level traceability to the end retail point. Existing system tracked only to distributor level, forcing 3 analysts to reconcile manually each month."
+    ],
+    [
+     "Solution",
+     "Batch and expiry tracking at SKU level across the whole chain. IoT temperature sensors integrated with shipment records. Automated regulatory reporting."
+    ],
+    [
+     "Outcome",
+     "99.7% traceability accuracy, audit-ready in minutes, not days. Expiry wastage fell 65% from better FIFO enforcement."
+    ]
+   ],
+   "quote": "Regulatory audits went from a 2-week sprint to a 1-hour report generation.",
+   "by": "Dr. Nadia Fouad, Head of Compliance",
+   "more": "More customer stories",
+   "cta": {
+    "h2": "Your story is next. Book a demo."
+   }
+  },
+  "southeast-asia-dairy": {
+   "back": "← All case studies",
+   "meta": "Dairy · Indonesia",
+   "title": "+28% sales per rep after 6 weeks on SFA + AI copilot.",
+   "p": "Indonesian dairy brand deployed AI-assisted pre-sales with route optimization and upsell suggestions. Reps sold more, drove less.",
+   "company": "NUSANTARA DAIRY",
+   "stats": [
+    [
+     "+28%",
+     "sales per rep"
+    ],
+    [
+     "+34%",
+     "upsell attach rate"
+    ],
+    [
+     "−22%",
+     "drive time"
+    ]
+   ],
+   "blocks": [
+    [
+     "Challenge",
+     "Sales per rep was plateauing. Reps followed fixed beat plans and missed upsell opportunities, especially on high-margin premium SKUs."
+    ],
+    [
+     "Solution",
+     "AI sales copilot surfaced upsell cues per customer based on order history and SKU affinity. Route optimization cut drive time and added 2 visits per day."
+    ],
+    [
+     "Outcome",
+     "Sales per rep rose 28%. Upsell attach rate climbed 34%. Drive time dropped 22%, enabling the extra visits."
+    ]
+   ],
+   "quote": "The copilot doesn't replace the rep's judgment; it sharpens it. Every visit gets two seconds of AI context.",
+   "by": "Dimas Wijaya, National Sales Manager",
+   "more": "More customer stories",
+   "cta": {
+    "h2": "Your story is next. Book a demo."
+   }
+  }
+ },
+ "privacy": {
+  "title": "Privacy Policy",
+  "version": "Version 2026-06",
+  "body": [
+   [
+    "p",
+    "This policy explains how Trackeys collects, uses, stores and protects personal data, and the rights you have under the Saudi Personal Data Protection Law (PDPL). By submitting a form on this site you consent to the processing described below."
+   ],
+   [
+    "h2",
+    "1. Data we collect"
+   ],
+   [
+    "p",
+    "When you contact us or fill in a form (e.g. Book a Demo, surveys, registrations) we collect the details you provide (such as your name, email, phone number, company, and any message) along with limited technical metadata (IP address, browser user-agent, referring page) used for security and abuse prevention."
+   ],
+   [
+    "h2",
+    "2. Why we use it (purpose & lawful basis)"
+   ],
+   [
+    "p",
+    "We process this data to respond to your request, schedule and deliver demos, provide support, and operate and secure our services. Our lawful basis is your consent and our legitimate interest in running the business. You can withdraw consent at any time (see Your rights)."
+   ],
+   [
+    "h2",
+    "3. Retention"
+   ],
+   [
+    "p",
+    "We keep personal data only as long as needed for the purpose it was collected. Demo and contact submissions are retained for up to 12 months after the request is closed, after which they are deleted or anonymized automatically."
+   ],
+   [
+    "h2",
+    "4. Sharing"
+   ],
+   [
+    "p",
+    "We do not sell your personal data. We share it only with service providers that help us operate (e.g. hosting, email delivery) under appropriate safeguards, or where required by law."
+   ],
+   [
+    "h2",
+    "5. Your rights"
+   ],
+   [
+    "p",
+    "Under the PDPL you may request access to, correction of, or erasure of your personal data, and you may withdraw consent. To exercise any of these rights, contact us at the address below and we will respond within the period required by law."
+   ],
+   [
+    "h2",
+    "6. Contact"
+   ],
+   [
+    "p",
+    "For any privacy request or question, email privacy@trackeys.com."
+   ],
+   [
+    "p",
+    "AI-enhanced sales force tracking & automation. Every field activity, visible."
+   ]
+  ]
+ },
+ "signin": {
+  "h1": "Sign In",
+  "p": "Enter your email and password to sign in!",
+  "email": "Email",
+  "emailPh": "Enter your email address",
+  "passPh": "Enter your password",
+  "btn": "Sign In",
+  "side": "Trackeys is an end-to-end platform designed to streamline and optimize delivery management operations for businesses."
+ },
+ "common": {
+  "ctaP": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+  "demo": "Book a demo",
+  "watch": "Watch 2-min overview",
+  "datasheet": "Download datasheet",
+  "signin": "Sign in"
+ }
+}

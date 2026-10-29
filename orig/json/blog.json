@@ -1,0 +1,95 @@
+{
+ "title": "",
+ "hero": {
+  "eyebrow": "BLOG",
+  "h1": "Ideas from the field.",
+  "p": "Articles on distribution, AI in FMCG, merchandising and how our customers actually use Trackeys.",
+  "ctas": [],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "",
+   "h2": "Ideas are great. Execution is better. Book a demo.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Articles on distribution, AI in FMCG, merchandising and how our customers actually use Trackeys."
+  ],
+  [
+   "p",
+   "Primary sales leave your warehouse — and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks."
+  ],
+  [
+   "p",
+   "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why — and what makes a good vision model for retail execution."
+  ],
+  [
+   "p",
+   "Why store-level execution so often betrays brand-level strategy — and how to close the gap with measurement that doesn't rely on self-reporting."
+  ],
+  [
+   "p",
+   "Classical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches — without hand-tuning 200 parameters."
+  ],
+  [
+   "p",
+   "Regional beverage distributor went from weekly stockout reports to live replenishment signals in under a quarter. The story — and the numbers."
+  ],
+  [
+   "p",
+   "Half your van-sales routes run through bad cellular zones. Building for that reality changes everything — from sync protocols to conflict resolution."
+  ],
+  [
+   "p",
+   "The playbook that turned a two-year rollout estimate into a one-quarter reality — and what we learned about distributor change management."
+  ],
+  [
+   "p",
+   "Compliance, availability, visibility, freshness, price. Here's the order of importance, how to measure each without self-reporting, and the benchmarks worth hitting."
+  ],
+  [
+   "p",
+   "How a regional distributor used multi-factor AI routing to handle 60% more orders with the same fleet — and turned last-mile from cost center to growth lever."
+  ],
+  [
+   "h2",
+   "Ideas are great. Execution is better. Book a demo."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

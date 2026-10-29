@@ -1,0 +1,655 @@
+{
+ "title": "Delivery & Routing — Trackeys",
+ "hero": {
+  "eyebrow": "DELIVERY & ROUTING",
+  "h1": "AI-optimized routes. Live-tracked vehicles. Proof at every door.",
+  "p": "From depot to doorstep — Trackeys plans, dispatches, tracks and proves every delivery. Lower cost per drop, higher DIFOT, happier customers.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "95%",
+    "DIFOT target"
+   ],
+   [
+    "−15%",
+    "fuel cost"
+   ],
+   [
+    "5s",
+    "location latency"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "Depot",
+     "07:00",
+     "Carrefour",
+     "07:42",
+     "LuLu",
+     "08:18",
+     "Spinneys",
+     "09:05",
+     "Al Maya",
+     "09:50",
+     "Choithrams",
+     "10:35",
+     "ROUTE DXB-N-03",
+     "11 stops · 48 km",
+     "AI SAVED",
+     "14 min · 8 km"
+    ],
+    "svg": [
+     "Depot",
+     "07:00",
+     "Carrefour",
+     "07:42",
+     "LuLu",
+     "08:18",
+     "Spinneys",
+     "09:05",
+     "Al Maya",
+     "09:50",
+     "Choithrams",
+     "10:35"
+    ]
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Every capability your dispatch team wishes they had.",
+   "sub": "Route optimization, live tracking, proof-of-delivery and exception management — out of the box.",
+   "items": [
+    {
+     "title": "Multi-factor route optimization",
+     "desc": "Routes consider distance, time, traffic, delivery windows, vehicle constraints and customer value — all at once.",
+     "bullets": [
+      "Time-window compliance",
+      "Vehicle weight & volume",
+      "Load-sequence optimization"
+     ],
+     "lines": [
+      "Multi-factor route optimization",
+      "Routes consider distance, time, traffic, delivery windows, vehicle constraints and customer value — all at once.",
+      "Time-window compliance",
+      "Vehicle weight & volume",
+      "Load-sequence optimization"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Real-time GPS tracking",
+     "desc": "Battery-optimized location at configurable intervals with accuracy radius reporting.",
+     "bullets": [
+      "30s default polling",
+      "Intelligent duty-cycle",
+      "Geofence triggers"
+     ],
+     "lines": [
+      "Real-time GPS tracking",
+      "Battery-optimized location at configurable intervals with accuracy radius reporting.",
+      "30s default polling",
+      "Intelligent duty-cycle",
+      "Geofence triggers"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Dynamic re-routing",
+     "desc": "Traffic jam? Late stop? Cancelled order? The engine re-plans remaining stops in seconds.",
+     "bullets": [
+      "Real-time traffic ingest",
+      "Event-driven replan",
+      "Driver notification push"
+     ],
+     "lines": [
+      "Dynamic re-routing",
+      "Traffic jam? Late stop? Cancelled order? The engine re-plans remaining stops in seconds.",
+      "Real-time traffic ingest",
+      "Event-driven replan",
+      "Driver notification push"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Proof of delivery",
+     "desc": "Photo, signature, barcode scan and timestamp captured at every drop. No disputes, no chargebacks.",
+     "bullets": [
+      "Photo + signature",
+      "Barcode/QR scan",
+      "OCR for labels"
+     ],
+     "lines": [
+      "Proof of delivery",
+      "Photo, signature, barcode scan and timestamp captured at every drop. No disputes, no chargebacks.",
+      "Photo + signature",
+      "Barcode/QR scan",
+      "OCR for labels"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Exception workflows",
+     "desc": "Customer not home? Damaged goods? Failed payment? Every scenario has a clear, trackable workflow.",
+     "bullets": [
+      "Damaged product flow",
+      "Customer refusal",
+      "Failed payment escalation"
+     ],
+     "lines": [
+      "Exception workflows",
+      "Customer not home? Damaged goods? Failed payment? Every scenario has a clear, trackable workflow.",
+      "Damaged product flow",
+      "Customer refusal",
+      "Failed payment escalation"
+     ],
+     "href": ""
+    },
+    {
+     "title": "DIFOT & fleet analytics",
+     "desc": "Delivery-in-full-on-time, cost per drop, vehicle utilization, driver scorecards — all live.",
+     "bullets": [
+      "DIFOT by route / driver",
+      "Cost per delivery",
+      "Fuel efficiency"
+     ],
+     "lines": [
+      "DIFOT & fleet analytics",
+      "Delivery-in-full-on-time, cost per drop, vehicle utilization, driver scorecards — all live.",
+      "DIFOT by route / driver",
+      "Cost per delivery",
+      "Fuel efficiency"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "From order to proof — a single clean flow.",
+   "sub": "How a delivery moves through Trackeys from the moment it lands in dispatch.",
+   "items": [
+    {
+     "title": "Order arrives",
+     "desc": "Orders land from ERP, SFA or distributors into the dispatch queue.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Order arrives",
+      "Orders land from ERP, SFA or distributors into the dispatch queue."
+     ],
+     "href": ""
+    },
+    {
+     "title": "AI plans routes",
+     "desc": "Routes optimize across all constraints — and assign to drivers based on skill, hours and vehicle fit.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "AI plans routes",
+      "Routes optimize across all constraints — and assign to drivers based on skill, hours and vehicle fit."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Dispatch sends",
+     "desc": "Drivers get manifests on their phones with turn-by-turn directions and POD checklists.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "Dispatch sends",
+      "Drivers get manifests on their phones with turn-by-turn directions and POD checklists."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Live track",
+     "desc": "Dispatch watches every vehicle on the map with 5s latency. ETA drift surfaces automatically.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Live track",
+      "Dispatch watches every vehicle on the map with 5s latency. ETA drift surfaces automatically."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Deliver + prove",
+     "desc": "Driver captures photo, signature and scan. Status flips live. Customer is notified.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Deliver + prove",
+      "Driver captures photo, signature and scan. Status flips live. Customer is notified."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Close + analyze",
+     "desc": "DIFOT, cost and exceptions roll up into ops dashboards the next morning.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Close + analyze",
+      "DIFOT, cost and exceptions roll up into ops dashboards the next morning."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "Delivery teams unlock real savings once routes stop being a spreadsheet.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "95%",
+      "on-time delivery",
+      "DIFOT tracked at every stop"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "−20%",
+      "delivery delays",
+      "Dynamic re-routing in real time"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+25%",
+      "vehicle utilization",
+      "Tighter routes, smarter loads"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Talks to your ERP, TMS and telematics.",
+   "sub": "REST APIs, webhooks and native integrations for modern logistics stacks.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "SAP TM",
+      "Shipments · Freight orders"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OR",
+      "Oracle TMS",
+      "Loads · Routing"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "Samsara",
+      "Telematics · Diag."
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "GE",
+      "Geotab",
+      "Vehicle + driver data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "HE",
+      "HERE Maps",
+      "Routing · Traffic"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "GO",
+      "Google Maps",
+      "Geocoding · Places"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "TW",
+      "Twilio",
+      "Customer SMS"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "ST",
+      "Stripe",
+      "COD payments"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "What routing algorithms does Trackeys use?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How accurate is live tracking?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can drivers work offline?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Yes, via integration with IoT temperature sensors. Breach alerts fire in real time; full temperature logs attach to every delivery for compliance and dispute resolution.",
+     "bullets": [],
+     "lines": [
+      "Does it handle cold chain / temperature monitoring?",
+      "Yes, via integration with IoT temperature sensors. Breach alerts fire in real time; full temperature logs attach to every delivery for compliance and dispute resolution."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "What routing algorithms does Trackeys use?",
+    "How accurate is live tracking?",
+    "Can drivers work offline?",
+    "Does it handle cold chain / temperature monitoring?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Turn your delivery fleet into a system that runs itself.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "From depot to doorstep — Trackeys plans, dispatches, tracks and proves every delivery. Lower cost per drop, higher DIFOT, happier customers."
+  ],
+  [
+   "h2",
+   "Every capability your dispatch team wishes they had."
+  ],
+  [
+   "p",
+   "Route optimization, live tracking, proof-of-delivery and exception management — out of the box."
+  ],
+  [
+   "p",
+   "Routes consider distance, time, traffic, delivery windows, vehicle constraints and customer value — all at once."
+  ],
+  [
+   "li",
+   "Time-window compliance"
+  ],
+  [
+   "li",
+   "Vehicle weight & volume"
+  ],
+  [
+   "li",
+   "Load-sequence optimization"
+  ],
+  [
+   "p",
+   "Battery-optimized location at configurable intervals with accuracy radius reporting."
+  ],
+  [
+   "li",
+   "30s default polling"
+  ],
+  [
+   "li",
+   "Intelligent duty-cycle"
+  ],
+  [
+   "li",
+   "Geofence triggers"
+  ],
+  [
+   "p",
+   "Traffic jam? Late stop? Cancelled order? The engine re-plans remaining stops in seconds."
+  ],
+  [
+   "li",
+   "Real-time traffic ingest"
+  ],
+  [
+   "li",
+   "Event-driven replan"
+  ],
+  [
+   "li",
+   "Driver notification push"
+  ],
+  [
+   "p",
+   "Photo, signature, barcode scan and timestamp captured at every drop. No disputes, no chargebacks."
+  ],
+  [
+   "li",
+   "Photo + signature"
+  ],
+  [
+   "li",
+   "Barcode/QR scan"
+  ],
+  [
+   "li",
+   "OCR for labels"
+  ],
+  [
+   "p",
+   "Customer not home? Damaged goods? Failed payment? Every scenario has a clear, trackable workflow."
+  ],
+  [
+   "li",
+   "Damaged product flow"
+  ],
+  [
+   "li",
+   "Customer refusal"
+  ],
+  [
+   "li",
+   "Failed payment escalation"
+  ],
+  [
+   "p",
+   "Delivery-in-full-on-time, cost per drop, vehicle utilization, driver scorecards — all live."
+  ],
+  [
+   "li",
+   "DIFOT by route / driver"
+  ],
+  [
+   "li",
+   "Cost per delivery"
+  ],
+  [
+   "li",
+   "Fuel efficiency"
+  ],
+  [
+   "h2",
+   "From order to proof — a single clean flow."
+  ],
+  [
+   "p",
+   "How a delivery moves through Trackeys from the moment it lands in dispatch."
+  ],
+  [
+   "p",
+   "Orders land from ERP, SFA or distributors into the dispatch queue."
+  ],
+  [
+   "p",
+   "Routes optimize across all constraints — and assign to drivers based on skill, hours and vehicle fit."
+  ],
+  [
+   "p",
+   "Drivers get manifests on their phones with turn-by-turn directions and POD checklists."
+  ],
+  [
+   "p",
+   "Dispatch watches every vehicle on the map with 5s latency. ETA drift surfaces automatically."
+  ],
+  [
+   "p",
+   "Driver captures photo, signature and scan. Status flips live. Customer is notified."
+  ],
+  [
+   "p",
+   "DIFOT, cost and exceptions roll up into ops dashboards the next morning."
+  ],
+  [
+   "h2",
+   "Delivery teams unlock real savings once routes stop being a spreadsheet."
+  ],
+  [
+   "h2",
+   "Talks to your ERP, TMS and telematics."
+  ],
+  [
+   "p",
+   "REST APIs, webhooks and native integrations for modern logistics stacks."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Yes, via integration with IoT temperature sensors. Breach alerts fire in real time; full temperature logs attach to every delivery for compliance and dispute resolution."
+  ],
+  [
+   "h2",
+   "Turn your delivery fleet into a system that runs itself."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "What routing algorithms does Trackeys use?",
+   "a": "A hybrid of metaheuristic solvers (genetic + simulated annealing) for large-scale batch optimization, and real-time constraint satisfaction for dynamic re-routing. The engine considers up to 20 factors simultaneously including delivery windows, vehicle constraints, driver shifts and traffic."
+  },
+  {
+   "q": "How accurate is live tracking?",
+   "a": "GPS updates stream every 30 seconds by default, configurable down to 10 seconds for high-priority operations. Accuracy is typically 10–50 meters depending on signal conditions. End-to-end latency from device to dispatch map is under 5 seconds."
+  },
+  {
+   "q": "Can drivers work offline?",
+   "a": "Yes. Manifests, navigation, POD capture and payment collection all function without signal. Everything syncs when connectivity returns — no lost drops, no re-entry."
+  },
+  {
+   "q": "Does it handle cold chain / temperature monitoring?",
+   "a": "Yes, via integration with IoT temperature sensors. Breach alerts fire in real time; full temperature logs attach to every delivery for compliance and dispute resolution."
+  }
+ ]
+}

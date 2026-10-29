@@ -1,0 +1,135 @@
+{
+ "title": "99.7% batch-traceability accuracy across cold-chain distribution. — Trackeys",
+ "hero": {
+  "eyebrow": "PHARMA · EGYPT",
+  "h1": "99.7% batch-traceability accuracy across cold-chain distribution.",
+  "p": "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs.",
+  "ctas": [],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "",
+   "h2": "More customer stories",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "CUSTOMER STORIES"
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Cut stockouts by 42% in 90 days with AI-driven replenishment."
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Beverages · UAE"
+     ],
+     "href": "/case-studies/gulf-beverages"
+    }
+   ],
+   "btns": [
+    "CUSTOMER STORIES\nCut stockouts by 42% in 90 days with AI-driven replenishment.\n\nRegional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.\n\nBeverages · UAE",
+    "CUSTOMER STORIES\nOnboarded 1,400 distributors in 8 weeks — 3× faster than planned.\n\nNational packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.\n\nPackaged foods · India",
+    "1\n2\n3\n4\n5\nCUSTOMER STORIES\nCut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.\n\nRegional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.\n\nLogistics · Kenya"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Your story is next. Book a demo.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs."
+  ],
+  [
+   "p",
+   "Regulatory reporting required batch-level traceability to the end retail point. Existing system tracked only to distributor level, forcing 3 analysts to reconcile manually each month."
+  ],
+  [
+   "p",
+   "Batch and expiry tracking at SKU level across the whole chain. IoT temperature sensors integrated with shipment records. Automated regulatory reporting."
+  ],
+  [
+   "p",
+   "99.7% traceability accuracy — audit-ready in minutes, not days. Expiry wastage fell 65% from better FIFO enforcement."
+  ],
+  [
+   "h2",
+   "More customer stories"
+  ],
+  [
+   "p",
+   "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+  ],
+  [
+   "p",
+   "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+  ],
+  [
+   "p",
+   "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+  ],
+  [
+   "h2",
+   "Your story is next. Book a demo."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

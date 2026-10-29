@@ -1,0 +1,224 @@
+{
+ "title": "Resources — Trackeys",
+ "hero": {
+  "eyebrow": "RESOURCES",
+  "h1": "Field ops, distribution and AI — without the consultant-speak.",
+  "p": "Articles, case studies and playbooks from the people building Trackeys — and the teams running it.",
+  "ctas": [],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "FEATURED",
+   "h2": "Start here.",
+   "sub": "",
+   "items": [],
+   "btns": []
+  },
+  {
+   "eyebrow": "DISTRIBUTION",
+   "h2": "Why secondary sales visibility is the FMCG blind spot costing you 20% of revenue.",
+   "sub": "Primary sales leave your warehouse — and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks.",
+   "items": [],
+   "btns": []
+  },
+  {
+   "eyebrow": "",
+   "h2": "Recent articles",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Fatima Al-Hashimi"
+     ],
+     "href": "/blog/vision-ai-planogram"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "·"
+     ],
+     "href": "/blog/vision-ai-planogram"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Apr 08, 2026"
+     ],
+     "href": "/blog/vision-ai-planogram"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "·"
+     ],
+     "href": "/blog/vision-ai-planogram"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "6 min read"
+     ],
+     "href": "/blog/vision-ai-planogram"
+    }
+   ],
+   "btns": [
+    "View all →",
+    "AI IN FMCG\nVision AI for planograms: from nice-to-have to non-negotiable in 24 months.\n\nTwo years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why — and what makes a good vision model for retail execution.\n\nFatima Al-Hashimi\n·\nApr 08, 2026\n·\n6 min read",
+    "MERCHANDISING\nThe 30% gap between planned merchandising and what's actually on shelves.\n\nWhy store-level execution so often betrays brand-level strategy — and how to close the gap with measurement that doesn't rely on self-reporting.\n\nKarthik Venkatesh\n·\nMar 28, 2026\n·\n7 min read",
+    "Today\nAI IN FMCG\nStop forecasting demand with Excel. A practical guide to AI replenishment for distribution.\n\nClassical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches — without hand-tuning 200 parameters.\n\nPriya Ramesh\n·\nMar 19, 2026\n·\n9 min read"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Customer stories",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "CUSTOMER STORIES"
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Cut stockouts by 42% in 90 days with AI-driven replenishment."
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Beverages · UAE"
+     ],
+     "href": "/case-studies/gulf-beverages"
+    }
+   ],
+   "btns": [
+    "All stories →",
+    "CUSTOMER STORIES\nCut stockouts by 42% in 90 days with AI-driven replenishment.\n\nRegional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.\n\nBeverages · UAE",
+    "CUSTOMER STORIES\nOnboarded 1,400 distributors in 8 weeks — 3× faster than planned.\n\nNational packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.\n\nPackaged foods · India",
+    "1\n2\n3\n4\n5\nCUSTOMER STORIES\nCut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.\n\nRegional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.\n\nLogistics · Kenya"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "See Trackeys on your data. 30 minutes, tailored to your team.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Articles, case studies and playbooks from the people building Trackeys — and the teams running it."
+  ],
+  [
+   "h2",
+   "Start here."
+  ],
+  [
+   "h2",
+   "Why secondary sales visibility is the FMCG blind spot costing you 20% of revenue."
+  ],
+  [
+   "p",
+   "Primary sales leave your warehouse — and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks."
+  ],
+  [
+   "h2",
+   "Recent articles"
+  ],
+  [
+   "p",
+   "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why — and what makes a good vision model for retail execution."
+  ],
+  [
+   "p",
+   "Why store-level execution so often betrays brand-level strategy — and how to close the gap with measurement that doesn't rely on self-reporting."
+  ],
+  [
+   "p",
+   "Classical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches — without hand-tuning 200 parameters."
+  ],
+  [
+   "h2",
+   "Customer stories"
+  ],
+  [
+   "p",
+   "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+  ],
+  [
+   "p",
+   "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+  ],
+  [
+   "p",
+   "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+  ],
+  [
+   "h2",
+   "See Trackeys on your data. 30 minutes, tailored to your team."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

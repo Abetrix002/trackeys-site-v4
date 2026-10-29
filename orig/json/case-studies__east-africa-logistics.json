@@ -1,0 +1,135 @@
+{
+ "title": "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet. — Trackeys",
+ "hero": {
+  "eyebrow": "LOGISTICS · KENYA",
+  "h1": "Cut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.",
+  "p": "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.",
+  "ctas": [],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "",
+   "h2": "More customer stories",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "CUSTOMER STORIES"
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Cut stockouts by 42% in 90 days with AI-driven replenishment."
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+     ],
+     "href": "/case-studies/gulf-beverages"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Beverages · UAE"
+     ],
+     "href": "/case-studies/gulf-beverages"
+    }
+   ],
+   "btns": [
+    "CUSTOMER STORIES\nCut stockouts by 42% in 90 days with AI-driven replenishment.\n\nRegional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.\n\nBeverages · UAE",
+    "CUSTOMER STORIES\nOnboarded 1,400 distributors in 8 weeks — 3× faster than planned.\n\nNational packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.\n\nPackaged foods · India",
+    "CUSTOMER STORIES\nPlanogram compliance from 61% to 89% in one quarter.\n\nMajor GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.\n\nBeverages · Saudi Arabia"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Your story is next. Book a demo.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+  ],
+  [
+   "p",
+   "Planners built routes manually every morning at 5am. Fleet utilization capped around 68%. As volume grew, planners couldn't keep up, and overtime costs started eating margins."
+  ],
+  [
+   "p",
+   "Deployed Trackeys Delivery & Routing with multi-factor AI optimization: time-windows, vehicle constraints, driver hours, and live traffic. Planners shifted from building routes to reviewing exceptions."
+  ],
+  [
+   "p",
+   "Cost per drop fell 18%. Fleet utilization climbed to 85%. Same team now handles 60% more orders."
+  ],
+  [
+   "h2",
+   "More customer stories"
+  ],
+  [
+   "p",
+   "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+  ],
+  [
+   "p",
+   "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+  ],
+  [
+   "p",
+   "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+  ],
+  [
+   "h2",
+   "Your story is next. Book a demo."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

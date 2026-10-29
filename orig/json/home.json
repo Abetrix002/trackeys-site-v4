@@ -1,0 +1,388 @@
+{
+ "title": "",
+ "hero": {
+  "eyebrow": "Field-ops AI · model v5",
+  "h1": "Field ops\nthat think\nahead.",
+  "p": "Trackeys watches every van, visit and shelf — and uses AI to re-route, re-score and re-prioritize in real time. Your team acts on decisions, not data entry.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "How the model works"
+  ],
+  "stats": [],
+  "visual": [
+   "Trackeys",
+   "Product",
+   "Solutions",
+   "Resources",
+   "Sign in",
+   "Book a demo"
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "LIVE",
+   "h2": "See the platform with your role's eyes.",
+   "sub": "Switch roles on the right to see how each persona experiences the same field reality.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Operations"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Dispatch"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Driver"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Sales"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Merchandiser"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Operations",
+    "Dispatch",
+    "Driver",
+    "Sales",
+    "Merchandiser"
+   ]
+  },
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Intelligence across every field motion.",
+   "sub": "",
+   "items": [
+    {
+     "title": "AI route optimization",
+     "desc": "Multi-factor routing considers traffic, delivery windows, vehicle constraints and customer value. Dynamic rerouting when conditions shift.",
+     "bullets": [],
+     "lines": [
+      "AI",
+      "AI route optimization",
+      "Multi-factor routing considers traffic, delivery windows, vehicle constraints and customer value. Dynamic rerouting when conditions shift."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Real-time GPS & geofencing",
+     "desc": "Battery-optimized location at configurable intervals. Custom geofences around stores, warehouses and delivery points with entry/exit triggers.",
+     "bullets": [],
+     "lines": [
+      "LIVE",
+      "Real-time GPS & geofencing",
+      "Battery-optimized location at configurable intervals. Custom geofences around stores, warehouses and delivery points with entry/exit triggers."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Van sales & mobile ordering",
+     "desc": "On-the-spot order fulfillment, invoicing and payment collection from a phone. Full offline-first with conflict-free sync.",
+     "bullets": [],
+     "lines": [
+      "Van sales & mobile ordering",
+      "On-the-spot order fulfillment, invoicing and payment collection from a phone. Full offline-first with conflict-free sync."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Planogram compliance AI",
+     "desc": "Snap a shelf. The vision model detects SKUs, flags misplaced products and scores compliance against the planogram — in seconds.",
+     "bullets": [],
+     "lines": [
+      "VISION AI",
+      "Planogram compliance AI",
+      "Snap a shelf. The vision model detects SKUs, flags misplaced products and scores compliance against the planogram — in seconds."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Delivery & proof-of-delivery",
+     "desc": "Photo + signature capture, exception workflows for damaged goods and customer refusal. DIFOT tracking baked into every workflow.",
+     "bullets": [],
+     "lines": [
+      "Delivery & proof-of-delivery",
+      "Photo + signature capture, exception workflows for damaged goods and customer refusal. DIFOT tracking baked into every workflow."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Role-based dashboards",
+     "desc": "HOD strategy, Ops daily, Dispatch live, Driver task, Agent targets, Merch scorecards. One platform, six lenses on the same truth.",
+     "bullets": [],
+     "lines": [
+      "Role-based dashboards",
+      "HOD strategy, Ops daily, Dispatch live, Driver task, Agent targets, Merch scorecards. One platform, six lenses on the same truth."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "BY ROLE",
+   "h2": "Six roles. One source of truth.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "HOD",
+      "Territory strategy, performance, targets"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Operations",
+      "Daily ops, scheduling, fleet allocation"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Dispatch",
+      "Live routing, driver assignment, ETAs"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Driver",
+      "Next stop, POD, payment, exceptions"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Sales Agent",
+      "Visits, pipeline, order creation"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Merchandiser",
+      "Planogram, displays, competitive audit"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "BY INDUSTRY",
+   "h2": "Fit for how your world runs.",
+   "sub": "",
+   "items": [
+    {
+     "title": "FMCG",
+     "desc": "Field sales, van sales, merchandising and route-to-market across supermarkets, hypers and traditional trade.",
+     "bullets": [],
+     "lines": [
+      "FMCG",
+      "Field sales, van sales, merchandising and route-to-market across supermarkets, hypers and traditional trade.",
+      "+15% store coverage",
+      "+20% merch compliance",
+      "+15% sales/visit"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Logistics & Supply Chain",
+     "desc": "Shipment tracking, warehouse throughput, last-mile DIFOT and transportation cost control.",
+     "bullets": [],
+     "lines": [
+      "Logistics & Supply Chain",
+      "Shipment tracking, warehouse throughput, last-mile DIFOT and transportation cost control.",
+      "99.5% inventory accuracy",
+      "−20% delivery delays",
+      "−15% transport cost"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Fleet Management",
+     "desc": "Vehicle tracking, driver performance, maintenance scheduling and fuel optimization across mixed fleets.",
+     "bullets": [],
+     "lines": [
+      "Fleet Management",
+      "Vehicle tracking, driver performance, maintenance scheduling and fuel optimization across mixed fleets.",
+      "−15% fuel cost",
+      "+20% on-time",
+      "+25% vehicle utilization"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Distribution",
+     "desc": "Distributor networks, order aggregation, automated replenishment and performance analytics.",
+     "bullets": [],
+     "lines": [
+      "Distribution",
+      "Distributor networks, order aggregation, automated replenishment and performance analytics.",
+      "99%+ fulfillment",
+      "Live stock visibility",
+      "Distributor scoring"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "",
+   "h2": "Every field activity, visible. Every route, optimal.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Trackeys watches every van, visit and shelf — and uses AI to re-route, re-score and re-prioritize in real time. Your team acts on decisions, not data entry."
+  ],
+  [
+   "h2",
+   "See the platform with your role's eyes."
+  ],
+  [
+   "p",
+   "Switch roles on the right to see how each persona experiences the same field reality."
+  ],
+  [
+   "h2",
+   "Intelligence across every field motion."
+  ],
+  [
+   "p",
+   "Multi-factor routing considers traffic, delivery windows, vehicle constraints and customer value. Dynamic rerouting when conditions shift."
+  ],
+  [
+   "p",
+   "Battery-optimized location at configurable intervals. Custom geofences around stores, warehouses and delivery points with entry/exit triggers."
+  ],
+  [
+   "p",
+   "On-the-spot order fulfillment, invoicing and payment collection from a phone. Full offline-first with conflict-free sync."
+  ],
+  [
+   "p",
+   "Snap a shelf. The vision model detects SKUs, flags misplaced products and scores compliance against the planogram — in seconds."
+  ],
+  [
+   "p",
+   "Photo + signature capture, exception workflows for damaged goods and customer refusal. DIFOT tracking baked into every workflow."
+  ],
+  [
+   "p",
+   "HOD strategy, Ops daily, Dispatch live, Driver task, Agent targets, Merch scorecards. One platform, six lenses on the same truth."
+  ],
+  [
+   "h2",
+   "Six roles. One source of truth."
+  ],
+  [
+   "h2",
+   "Fit for how your world runs."
+  ],
+  [
+   "p",
+   "Field sales, van sales, merchandising and route-to-market across supermarkets, hypers and traditional trade."
+  ],
+  [
+   "p",
+   "Shipment tracking, warehouse throughput, last-mile DIFOT and transportation cost control."
+  ],
+  [
+   "p",
+   "Vehicle tracking, driver performance, maintenance scheduling and fuel optimization across mixed fleets."
+  ],
+  [
+   "p",
+   "Distributor networks, order aggregation, automated replenishment and performance analytics."
+  ],
+  [
+   "h2",
+   "Every field activity, visible. Every route, optimal."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

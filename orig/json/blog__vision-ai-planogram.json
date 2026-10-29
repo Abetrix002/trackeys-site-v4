@@ -1,0 +1,179 @@
+{
+ "title": "Vision AI for planograms: from nice-to-have to non-negotiable in 24 months. — Trackeys",
+ "hero": {
+  "eyebrow": "← All articles",
+  "h1": "Vision AI for planograms: from nice-to-have to non-negotiable in 24 months.",
+  "p": "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why — and what makes a good vision model for retail execution.",
+  "ctas": [
+   "← All articles"
+  ],
+  "stats": [
+   [
+    "Fatima Al-Hashimi"
+   ],
+   [
+    "VP Product, Trackeys"
+   ]
+  ],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "",
+   "h2": "What changed",
+   "sub": "Three years ago, \"AI merchandising\" on an RFP meant a shelf-image-capture feature a human auditor would later review. Today, the bar is a real-time detection model that scores planogram compliance, share-of-shelf and out-of-stock on the rep's phone in under 3 seconds.\nTwo things: model quality got dramatically better for long-tail SKU detection, and phones got fast enough to run inference on-device. The result is that a rep walking into a 200-SKU aisle can get instant, objective compliance scoring — no more human audit queues, no more week-long feedback loops.\nSKU-level recall above 94%. Sub-second inference on mid-tier Android devices. Handles edge cases — shelf occlusion, odd lighting, skewed angles — without collapsing confidence. And trained on your actual SKU catalog, not a generic CPG dataset.",
+   "items": [],
+   "btns": []
+  },
+  {
+   "eyebrow": "What changed",
+   "h2": "What makes a good model",
+   "sub": "Three years ago, \"AI merchandising\" on an RFP meant a shelf-image-capture feature a human auditor would later review. Today, the bar is a real-time detection model that scores planogram compliance, share-of-shelf and out-of-stock on the rep's phone in under 3 seconds.\nTwo things: model quality got dramatically better for long-tail SKU detection, and phones got fast enough to run inference on-device. The result is that a rep walking into a 200-SKU aisle can get instant, objective compliance scoring — no more human audit queues, no more week-long feedback loops.\nSKU-level recall above 94%. Sub-second inference on mid-tier Android devices. Handles edge cases — shelf occlusion, odd lighting, skewed angles — without collapsing confidence. And trained on your actual SKU catalog, not a generic CPG dataset.",
+   "items": [],
+   "btns": []
+  },
+  {
+   "eyebrow": "",
+   "h2": "Keep reading",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Imran Shaikh"
+     ],
+     "href": "/blog/secondary-sales-visibility"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "·"
+     ],
+     "href": "/blog/secondary-sales-visibility"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Apr 14, 2026"
+     ],
+     "href": "/blog/secondary-sales-visibility"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "·"
+     ],
+     "href": "/blog/secondary-sales-visibility"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "8 min read"
+     ],
+     "href": "/blog/secondary-sales-visibility"
+    }
+   ],
+   "btns": [
+    "DISTRIBUTION\nWhy secondary sales visibility is the FMCG blind spot costing you 20% of revenue.\n\nPrimary sales leave your warehouse — and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks.\n\nImran Shaikh\n·\nApr 14, 2026\n·\n8 min read",
+    "MERCHANDISING\nThe 30% gap between planned merchandising and what's actually on shelves.\n\nWhy store-level execution so often betrays brand-level strategy — and how to close the gap with measurement that doesn't rely on self-reporting.\n\nKarthik Venkatesh\n·\nMar 28, 2026\n·\n7 min read",
+    "Today\nAI IN FMCG\nStop forecasting demand with Excel. A practical guide to AI replenishment for distribution.\n\nClassical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches — without hand-tuning 200 parameters.\n\nPriya Ramesh\n·\nMar 19, 2026\n·\n9 min read"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Turn the ideas into outcomes. Book a 30-minute demo.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Two years ago, AI shelf audits were a premium upsell. Today, they're table stakes. Here's why — and what makes a good vision model for retail execution."
+  ],
+  [
+   "p",
+   "Three years ago, \"AI merchandising\" on an RFP meant a shelf-image-capture feature a human auditor would later review. Today, the bar is a real-time detection model that scores planogram compliance, share-of-shelf and out-of-stock on the rep's phone in under 3 seconds."
+  ],
+  [
+   "h2",
+   "What changed"
+  ],
+  [
+   "p",
+   "Two things: model quality got dramatically better for long-tail SKU detection, and phones got fast enough to run inference on-device. The result is that a rep walking into a 200-SKU aisle can get instant, objective compliance scoring — no more human audit queues, no more week-long feedback loops."
+  ],
+  [
+   "h2",
+   "What makes a good model"
+  ],
+  [
+   "p",
+   "SKU-level recall above 94%. Sub-second inference on mid-tier Android devices. Handles edge cases — shelf occlusion, odd lighting, skewed angles — without collapsing confidence. And trained on your actual SKU catalog, not a generic CPG dataset."
+  ],
+  [
+   "blockquote",
+   "Compliance went from a monthly audit we argued about to a daily number the ops team actually managed."
+  ],
+  [
+   "h2",
+   "Keep reading"
+  ],
+  [
+   "p",
+   "Primary sales leave your warehouse — and visibility drops off a cliff. Here's how modern distributors are closing the gap from plant to shelf, and what it unlocks."
+  ],
+  [
+   "p",
+   "Why store-level execution so often betrays brand-level strategy — and how to close the gap with measurement that doesn't rely on self-reporting."
+  ],
+  [
+   "p",
+   "Classical forecasts assume tomorrow looks like yesterday. AI models handle promotions, seasonality and new-product launches — without hand-tuning 200 parameters."
+  ],
+  [
+   "h2",
+   "Turn the ideas into outcomes. Book a 30-minute demo."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

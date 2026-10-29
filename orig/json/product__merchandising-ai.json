@@ -1,0 +1,639 @@
+{
+ "title": "Retail Merchandising AI — Trackeys",
+ "hero": {
+  "eyebrow": "RETAIL MERCHANDISING AI",
+  "h1": "Snap a shelf. Score your store. Fix it on the spot.",
+  "p": "Vision AI audits planograms in seconds. Merchandisers spend less time measuring and more time fixing what actually drives sales.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "240ms",
+    "AI audit time"
+   ],
+   [
+    "+20%",
+    "planogram compliance"
+   ],
+   [
+    "99%+",
+    "SKU recognition"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "SHELF SCAN · LIVE",
+     "Carrefour MBZ · Aisle 4",
+     "Vision AI · 240 ms",
+     "OOS",
+     "OOS",
+     "OOS",
+     "OOS",
+     "COMPLIANCE",
+     "87.5%",
+     "MISPLACED",
+     "3 SKUs",
+     "OUT OF STOCK",
+     "4 facings"
+    ],
+    "svg": []
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Retail execution, finally measurable.",
+   "sub": "Planogram compliance, display effectiveness, competitive audits — captured by a phone camera and scored by AI.",
+   "items": [
+    {
+     "title": "Planogram compliance AI",
+     "desc": "Snap the shelf. The vision model identifies every SKU, flags misplaced products and scores compliance against the planned layout.",
+     "bullets": [
+      "Real-time SKU detection",
+      "Facing count vs. target",
+      "Compliance score per shelf"
+     ],
+     "lines": [
+      "Planogram compliance AI",
+      "Snap the shelf. The vision model identifies every SKU, flags misplaced products and scores compliance against the planned layout.",
+      "Real-time SKU detection",
+      "Facing count vs. target",
+      "Compliance score per shelf"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Stock level monitoring",
+     "desc": "Out-of-stock and low-stock detection straight from the shelf photo — no manual count.",
+     "bullets": [
+      "OOS alerts to ops",
+      "Share-of-shelf tracking",
+      "Restock request flow"
+     ],
+     "lines": [
+      "Stock level monitoring",
+      "Out-of-stock and low-stock detection straight from the shelf photo — no manual count.",
+      "OOS alerts to ops",
+      "Share-of-shelf tracking",
+      "Restock request flow"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Display effectiveness",
+     "desc": "Link in-store displays to sell-through data. Know which displays actually move product.",
+     "bullets": [
+      "Display ROI scoring",
+      "Category performance",
+      "A/B testing support"
+     ],
+     "lines": [
+      "Display effectiveness",
+      "Link in-store displays to sell-through data. Know which displays actually move product.",
+      "Display ROI scoring",
+      "Category performance",
+      "A/B testing support"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Competitive analysis",
+     "desc": "Capture competitor pricing, facings and promotions. Get a field-wide view of the competitive landscape.",
+     "bullets": [
+      "Competitor price capture",
+      "New product alerts",
+      "Share-of-shelf trends"
+     ],
+     "lines": [
+      "Competitive analysis",
+      "Capture competitor pricing, facings and promotions. Get a field-wide view of the competitive landscape.",
+      "Competitor price capture",
+      "New product alerts",
+      "Share-of-shelf trends"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Task & audit management",
+     "desc": "Task lists per store, per visit. Structured audits with before/after photos auto-compared.",
+     "bullets": [
+      "Store task checklists",
+      "Before/after comparison",
+      "SLA tracking"
+     ],
+     "lines": [
+      "Task & audit management",
+      "Task lists per store, per visit. Structured audits with before/after photos auto-compared.",
+      "Store task checklists",
+      "Before/after comparison",
+      "SLA tracking"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Brand scorecards",
+     "desc": "Category managers get live scorecards on compliance, OOS and competitive position by brand and region.",
+     "bullets": [
+      "By brand / category",
+      "By region / retailer",
+      "Trend & anomaly alerts"
+     ],
+     "lines": [
+      "Brand scorecards",
+      "Category managers get live scorecards on compliance, OOS and competitive position by brand and region.",
+      "By brand / category",
+      "By region / retailer",
+      "Trend & anomaly alerts"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "How a shelf becomes a decision.",
+   "sub": "From a merchandiser's phone camera to a category manager's dashboard — in minutes.",
+   "items": [
+    {
+     "title": "Check-in",
+     "desc": "Merchandiser arrives, geofence confirms, task list appears for this specific store.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Check-in",
+      "Merchandiser arrives, geofence confirms, task list appears for this specific store."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Capture",
+     "desc": "Shelf photo taken through the app — guided framing ensures consistent images.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "Capture",
+      "Shelf photo taken through the app — guided framing ensures consistent images."
+     ],
+     "href": ""
+    },
+    {
+     "title": "AI analyzes",
+     "desc": "Vision model detects SKUs, facings, pricing and placement in ~240 ms.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "AI analyzes",
+      "Vision model detects SKUs, facings, pricing and placement in ~240 ms."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Score & alert",
+     "desc": "Compliance score calculated. Misplaced, OOS and share-of-shelf alerts fire immediately.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Score & alert",
+      "Compliance score calculated. Misplaced, OOS and share-of-shelf alerts fire immediately."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Fix & re-audit",
+     "desc": "Merchandiser corrects, re-shoots. Before/after comparison auto-logged.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Fix & re-audit",
+      "Merchandiser corrects, re-shoots. Before/after comparison auto-logged."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Roll up",
+     "desc": "Everything rolls into brand and category dashboards. Field actions become retail strategy.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Roll up",
+      "Everything rolls into brand and category dashboards. Field actions become retail strategy."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "Retail execution teams using Trackeys see measurable lift on every scorecard.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+20%",
+      "planogram compliance",
+      "From photo-based AI scoring"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+15%",
+      "store coverage",
+      "Smarter routes + shorter audits"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "−50%",
+      "audit time per store",
+      "AI replaces manual counts"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Feeds the tools category teams already live in.",
+   "sub": "Native connectors for retail analytics, data lakes and BI.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "NI",
+      "Nielsen",
+      "Retail audit sync"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "IR",
+      "IRI Circana",
+      "POS & panel data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SN",
+      "Snowflake",
+      "Data lake export"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "DA",
+      "Databricks",
+      "ML features"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "PO",
+      "Power BI",
+      "Scorecards"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "TA",
+      "Tableau",
+      "Dashboards"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "LO",
+      "Looker",
+      "BI feeds"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "AW",
+      "AWS S3",
+      "Image archive"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How accurate is the vision AI?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Does it work in low light or on messy shelves?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can I define custom planograms?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Merchandisers can capture competitor prices, facings and promos in the same flow. The data flows into competitive dashboards — useful for pricing teams and brand managers.",
+     "bullets": [],
+     "lines": [
+      "What about competitor data collection?",
+      "Merchandisers can capture competitor prices, facings and promos in the same flow. The data flows into competitive dashboards — useful for pricing teams and brand managers."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "How accurate is the vision AI?",
+    "Does it work in low light or on messy shelves?",
+    "Can I define custom planograms?",
+    "What about competitor data collection?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Turn every shelf into a data point. And every data point into a decision.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Vision AI audits planograms in seconds. Merchandisers spend less time measuring and more time fixing what actually drives sales."
+  ],
+  [
+   "h2",
+   "Retail execution, finally measurable."
+  ],
+  [
+   "p",
+   "Planogram compliance, display effectiveness, competitive audits — captured by a phone camera and scored by AI."
+  ],
+  [
+   "p",
+   "Snap the shelf. The vision model identifies every SKU, flags misplaced products and scores compliance against the planned layout."
+  ],
+  [
+   "li",
+   "Real-time SKU detection"
+  ],
+  [
+   "li",
+   "Facing count vs. target"
+  ],
+  [
+   "li",
+   "Compliance score per shelf"
+  ],
+  [
+   "p",
+   "Out-of-stock and low-stock detection straight from the shelf photo — no manual count."
+  ],
+  [
+   "li",
+   "OOS alerts to ops"
+  ],
+  [
+   "li",
+   "Share-of-shelf tracking"
+  ],
+  [
+   "li",
+   "Restock request flow"
+  ],
+  [
+   "p",
+   "Link in-store displays to sell-through data. Know which displays actually move product."
+  ],
+  [
+   "li",
+   "Display ROI scoring"
+  ],
+  [
+   "li",
+   "Category performance"
+  ],
+  [
+   "li",
+   "A/B testing support"
+  ],
+  [
+   "p",
+   "Capture competitor pricing, facings and promotions. Get a field-wide view of the competitive landscape."
+  ],
+  [
+   "li",
+   "Competitor price capture"
+  ],
+  [
+   "li",
+   "New product alerts"
+  ],
+  [
+   "li",
+   "Share-of-shelf trends"
+  ],
+  [
+   "p",
+   "Task lists per store, per visit. Structured audits with before/after photos auto-compared."
+  ],
+  [
+   "li",
+   "Store task checklists"
+  ],
+  [
+   "li",
+   "Before/after comparison"
+  ],
+  [
+   "li",
+   "SLA tracking"
+  ],
+  [
+   "p",
+   "Category managers get live scorecards on compliance, OOS and competitive position by brand and region."
+  ],
+  [
+   "li",
+   "By brand / category"
+  ],
+  [
+   "li",
+   "By region / retailer"
+  ],
+  [
+   "li",
+   "Trend & anomaly alerts"
+  ],
+  [
+   "h2",
+   "How a shelf becomes a decision."
+  ],
+  [
+   "p",
+   "From a merchandiser's phone camera to a category manager's dashboard — in minutes."
+  ],
+  [
+   "p",
+   "Merchandiser arrives, geofence confirms, task list appears for this specific store."
+  ],
+  [
+   "p",
+   "Shelf photo taken through the app — guided framing ensures consistent images."
+  ],
+  [
+   "p",
+   "Vision model detects SKUs, facings, pricing and placement in ~240 ms."
+  ],
+  [
+   "p",
+   "Compliance score calculated. Misplaced, OOS and share-of-shelf alerts fire immediately."
+  ],
+  [
+   "p",
+   "Merchandiser corrects, re-shoots. Before/after comparison auto-logged."
+  ],
+  [
+   "p",
+   "Everything rolls into brand and category dashboards. Field actions become retail strategy."
+  ],
+  [
+   "h2",
+   "Retail execution teams using Trackeys see measurable lift on every scorecard."
+  ],
+  [
+   "h2",
+   "Feeds the tools category teams already live in."
+  ],
+  [
+   "p",
+   "Native connectors for retail analytics, data lakes and BI."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Merchandisers can capture competitor prices, facings and promos in the same flow. The data flows into competitive dashboards — useful for pricing teams and brand managers."
+  ],
+  [
+   "h2",
+   "Turn every shelf into a data point. And every data point into a decision."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "How accurate is the vision AI?",
+   "a": "SKU recognition accuracy averages 99%+ for well-lit shelf photos of products in the trained catalog. New SKUs can be added via few-shot learning — typically 10–20 reference images per SKU get the model to production accuracy."
+  },
+  {
+   "q": "Does it work in low light or on messy shelves?",
+   "a": "Yes — the model is trained on a large dataset of real-world retail photos including poor lighting, partial occlusion and disordered shelves. For extreme conditions the app prompts the merchandiser to reshoot with guidance."
+  },
+  {
+   "q": "Can I define custom planograms?",
+   "a": "Absolutely. Planograms are uploaded per store + category — with flexibility for retailer-specific layouts. The AI scores against whichever planogram applies at that specific store on that specific visit."
+  },
+  {
+   "q": "What about competitor data collection?",
+   "a": "Merchandisers can capture competitor prices, facings and promos in the same flow. The data flows into competitive dashboards — useful for pricing teams and brand managers."
+  }
+ ]
+}

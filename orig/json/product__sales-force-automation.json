@@ -1,0 +1,647 @@
+{
+ "title": "Sales Force Automation — Trackeys",
+ "hero": {
+  "eyebrow": "SALES FORCE AUTOMATION",
+  "h1": "Every visit, every order, every opportunity — captured.",
+  "p": "Unified pre-sales, van sales and sales ops on one AI-assisted platform. Your field reps spend less time on paperwork and more time selling.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "+15%",
+    "sales per visit"
+   ],
+   [
+    "+20%",
+    "store coverage"
+   ],
+   [
+    "−40%",
+    "order entry time"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "09:42 · Trackeys Agent",
+     "Today · 8 visits",
+     "Géant Ibn Battuta",
+     "AED 12.4k",
+     "Viva Supermarket",
+     "AED 4.1k",
+     "Union Coop",
+     "AED 9.8k",
+     "West Zone Mart",
+     "AED 2.0k",
+     "LIVE PIPELINE · NW REGION",
+     "Géant Mall",
+     "AED 124,800",
+     "Proposal · lead score 70",
+     "Carrefour City Centre",
+     "AED 89,200",
+     "Negotiation · lead score 75",
+     "LuLu Hypermarket",
+     "AED 56,400",
+     "Qualified · lead score 80",
+     "Copilot: add 2 visits in Al Barsha to hit weekly target"
+    ],
+    "svg": []
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Built for how field sales actually works.",
+   "sub": "From territory planning down to a single invoice — the SFA module covers pre-sales and van sales end-to-end.",
+   "items": [
+    {
+     "title": "Lead & opportunity tracking",
+     "desc": "Pipeline with AI-powered lead scoring and conversion forecasting.",
+     "bullets": [
+      "360° customer profiling",
+      "Pipeline-value rollups",
+      "Time-to-qualify metrics"
+     ],
+     "lines": [
+      "Lead & opportunity tracking",
+      "Pipeline with AI-powered lead scoring and conversion forecasting.",
+      "360° customer profiling",
+      "Pipeline-value rollups",
+      "Time-to-qualify metrics"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Van sales & mobile invoicing",
+     "desc": "On-the-spot orders, invoicing and payment — fully offline-first.",
+     "bullets": [
+      "Mobile payment processing",
+      "Live inventory on van",
+      "Immediate order confirmation"
+     ],
+     "lines": [
+      "Van sales & mobile invoicing",
+      "On-the-spot orders, invoicing and payment — fully offline-first.",
+      "Mobile payment processing",
+      "Live inventory on van",
+      "Immediate order confirmation"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Territory & visit planning",
+     "desc": "AI plans the optimal visit schedule balancing value, duration and relationship goals.",
+     "bullets": [
+      "Customer value weighting",
+      "Beat-plan optimization",
+      "Dynamic re-scheduling"
+     ],
+     "lines": [
+      "Territory & visit planning",
+      "AI plans the optimal visit schedule balancing value, duration and relationship goals.",
+      "Customer value weighting",
+      "Beat-plan optimization",
+      "Dynamic re-scheduling"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Real-time performance",
+     "desc": "HOD dashboards on targets, conversion, coverage and activity — with drill-down to every rep.",
+     "bullets": [
+      "Daily / weekly / monthly trends",
+      "Target vs. actual",
+      "Coverage heatmaps"
+     ],
+     "lines": [
+      "Real-time performance",
+      "HOD dashboards on targets, conversion, coverage and activity — with drill-down to every rep.",
+      "Daily / weekly / monthly trends",
+      "Target vs. actual",
+      "Coverage heatmaps"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Offline-first mobile app",
+     "desc": "Reps work with zero signal. All data syncs cleanly when connectivity returns.",
+     "bullets": [
+      "Prioritized data caching",
+      "Conflict-free merge",
+      "Background sync"
+     ],
+     "lines": [
+      "Offline-first mobile app",
+      "Reps work with zero signal. All data syncs cleanly when connectivity returns.",
+      "Prioritized data caching",
+      "Conflict-free merge",
+      "Background sync"
+     ],
+     "href": ""
+    },
+    {
+     "title": "AI sales copilot",
+     "desc": "Next-best-action nudges: upsell suggestions, risk-of-churn alerts, route tweaks.",
+     "bullets": [
+      "Customer-specific prompts",
+      "Upsell & cross-sell hints",
+      "Pricing guidance"
+     ],
+     "lines": [
+      "AI sales copilot",
+      "Next-best-action nudges: upsell suggestions, risk-of-churn alerts, route tweaks.",
+      "Customer-specific prompts",
+      "Upsell & cross-sell hints",
+      "Pricing guidance"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "From territory plan to closed order — in one flow.",
+   "sub": "Six steps that replace the spreadsheets, clipboards and phone calls your reps use today.",
+   "items": [
+    {
+     "title": "Plan the day",
+     "desc": "AI builds tomorrow's visit list from target accounts, pipeline stage and territory geography.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Plan the day",
+      "AI builds tomorrow's visit list from target accounts, pipeline stage and territory geography."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Navigate",
+     "desc": "Turn-by-turn directions with voice guidance get reps to every stop on the beat plan.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "Navigate",
+      "Turn-by-turn directions with voice guidance get reps to every stop on the beat plan."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Visit & pitch",
+     "desc": "360° customer card opens on arrival — last order, pricing, open offers, promos.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "Visit & pitch",
+      "360° customer card opens on arrival — last order, pricing, open offers, promos."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Order on-spot",
+     "desc": "Van-sales mode takes order, prints invoice, accepts payment, updates stock — all offline.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Order on-spot",
+      "Van-sales mode takes order, prints invoice, accepts payment, updates stock — all offline."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Update status",
+     "desc": "Visit outcome, next action and photos captured. HOD sees it live on the dashboard.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Update status",
+      "Visit outcome, next action and photos captured. HOD sees it live on the dashboard."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Close the loop",
+     "desc": "Copilot flags risk and opportunity for follow-up. Tomorrow's plan adapts automatically.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Close the loop",
+      "Copilot flags risk and opportunity for follow-up. Tomorrow's plan adapts automatically."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "Field sales teams running on Trackeys see measurable gains within one quarter.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+15%",
+      "sales per visit",
+      "From smarter pitch guidance & offers"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+20%",
+      "visit compliance",
+      "Reps hit their beat plans consistently"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "−40%",
+      "admin time",
+      "Mobile-first workflows eliminate paper"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Plugs into the systems your business already runs on.",
+   "sub": "Standardized APIs and pre-built connectors for ERP, finance and CRM.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "SAP S/4HANA",
+      "Orders · Customers · Products"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "MI",
+      "Microsoft D365",
+      "Finance · Customer data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OR",
+      "Oracle NetSuite",
+      "Sales orders · AR"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "Salesforce",
+      "Lead & opp sync"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OD",
+      "Odoo",
+      "Inventory · Invoicing"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "TA",
+      "Tally",
+      "SME finance"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "ST",
+      "Stripe",
+      "Mobile payments"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "TW",
+      "Twilio",
+      "SMS · Voice alerts"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can reps use Trackeys with no internet signal?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How does the AI copilot make suggestions?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Does it support multiple currencies, taxes and languages?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Pricing rules, approval limits and discount tiers are configured per role and per customer segment. Reps can only quote within their authority; anything above routes to an approval workflow with a full audit trail.",
+     "bullets": [],
+     "lines": [
+      "How are pricing and discount rules enforced?",
+      "Pricing rules, approval limits and discount tiers are configured per role and per customer segment. Reps can only quote within their authority; anything above routes to an approval workflow with a full audit trail."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Can reps use Trackeys with no internet signal?",
+    "How does the AI copilot make suggestions?",
+    "Does it support multiple currencies, taxes and languages?",
+    "How are pricing and discount rules enforced?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Put your sales force on one system that actually helps them sell.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Unified pre-sales, van sales and sales ops on one AI-assisted platform. Your field reps spend less time on paperwork and more time selling."
+  ],
+  [
+   "h2",
+   "Built for how field sales actually works."
+  ],
+  [
+   "p",
+   "From territory planning down to a single invoice — the SFA module covers pre-sales and van sales end-to-end."
+  ],
+  [
+   "p",
+   "Pipeline with AI-powered lead scoring and conversion forecasting."
+  ],
+  [
+   "li",
+   "360° customer profiling"
+  ],
+  [
+   "li",
+   "Pipeline-value rollups"
+  ],
+  [
+   "li",
+   "Time-to-qualify metrics"
+  ],
+  [
+   "p",
+   "On-the-spot orders, invoicing and payment — fully offline-first."
+  ],
+  [
+   "li",
+   "Mobile payment processing"
+  ],
+  [
+   "li",
+   "Live inventory on van"
+  ],
+  [
+   "li",
+   "Immediate order confirmation"
+  ],
+  [
+   "p",
+   "AI plans the optimal visit schedule balancing value, duration and relationship goals."
+  ],
+  [
+   "li",
+   "Customer value weighting"
+  ],
+  [
+   "li",
+   "Beat-plan optimization"
+  ],
+  [
+   "li",
+   "Dynamic re-scheduling"
+  ],
+  [
+   "p",
+   "HOD dashboards on targets, conversion, coverage and activity — with drill-down to every rep."
+  ],
+  [
+   "li",
+   "Daily / weekly / monthly trends"
+  ],
+  [
+   "li",
+   "Target vs. actual"
+  ],
+  [
+   "li",
+   "Coverage heatmaps"
+  ],
+  [
+   "p",
+   "Reps work with zero signal. All data syncs cleanly when connectivity returns."
+  ],
+  [
+   "li",
+   "Prioritized data caching"
+  ],
+  [
+   "li",
+   "Conflict-free merge"
+  ],
+  [
+   "li",
+   "Background sync"
+  ],
+  [
+   "p",
+   "Next-best-action nudges: upsell suggestions, risk-of-churn alerts, route tweaks."
+  ],
+  [
+   "li",
+   "Customer-specific prompts"
+  ],
+  [
+   "li",
+   "Upsell & cross-sell hints"
+  ],
+  [
+   "li",
+   "Pricing guidance"
+  ],
+  [
+   "h2",
+   "From territory plan to closed order — in one flow."
+  ],
+  [
+   "p",
+   "Six steps that replace the spreadsheets, clipboards and phone calls your reps use today."
+  ],
+  [
+   "p",
+   "AI builds tomorrow's visit list from target accounts, pipeline stage and territory geography."
+  ],
+  [
+   "p",
+   "Turn-by-turn directions with voice guidance get reps to every stop on the beat plan."
+  ],
+  [
+   "p",
+   "360° customer card opens on arrival — last order, pricing, open offers, promos."
+  ],
+  [
+   "p",
+   "Van-sales mode takes order, prints invoice, accepts payment, updates stock — all offline."
+  ],
+  [
+   "p",
+   "Visit outcome, next action and photos captured. HOD sees it live on the dashboard."
+  ],
+  [
+   "p",
+   "Copilot flags risk and opportunity for follow-up. Tomorrow's plan adapts automatically."
+  ],
+  [
+   "h2",
+   "Field sales teams running on Trackeys see measurable gains within one quarter."
+  ],
+  [
+   "h2",
+   "Plugs into the systems your business already runs on."
+  ],
+  [
+   "p",
+   "Standardized APIs and pre-built connectors for ERP, finance and CRM."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Pricing rules, approval limits and discount tiers are configured per role and per customer segment. Reps can only quote within their authority; anything above routes to an approval workflow with a full audit trail."
+  ],
+  [
+   "h2",
+   "Put your sales force on one system that actually helps them sell."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "Can reps use Trackeys with no internet signal?",
+   "a": "Yes. The mobile app is offline-first: visits, orders, invoices and payments all work without connectivity. Data syncs automatically when signal returns, with conflict-free merge for any edits made on the server while the device was offline."
+  },
+  {
+   "q": "How does the AI copilot make suggestions?",
+   "a": "The copilot runs on aggregated visit history, order patterns and customer attributes. It suggests next-best-actions (upsell, cross-sell, re-engagement) and flags churn risk — always with a short explanation so the rep understands the reasoning."
+  },
+  {
+   "q": "Does it support multiple currencies, taxes and languages?",
+   "a": "Yes. Multi-currency pricing, multi-tax jurisdictions (VAT, GST), and localized UI for English, Arabic, French and other regional languages are built in."
+  },
+  {
+   "q": "How are pricing and discount rules enforced?",
+   "a": "Pricing rules, approval limits and discount tiers are configured per role and per customer segment. Reps can only quote within their authority; anything above routes to an approval workflow with a full audit trail."
+  }
+ ]
+}

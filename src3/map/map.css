@@ -1,0 +1,13 @@
+.osm{--m-land:#f3f4f2;--m-bld:#e6e6e3;--m-bld-s:#d9d9d5;--m-park:#cfead6;--m-water:#a9d3f2;--m-c:#d5d8dd;--m-r:#ffffff;--m-sc:#ffffff;--m-pr:#fff2c6;--m-pr-c:#efd68c;--m-mw:#ffdf8a;--m-mw-c:#e8b44c;--m-lb:#5f6673;--m-halo:#f3f4f2}
+.o-land{fill:var(--m-land)}
+.o-water{fill:var(--m-water)}
+.o-park{fill:var(--m-park)}
+.o-bld{fill:var(--m-bld);stroke:var(--m-bld-s);stroke-width:.5}
+.o-c,.o-r{fill:none;stroke-linecap:round;stroke-linejoin:round}
+.o-c{stroke:var(--m-c)}
+.o-r{stroke:var(--m-r)}
+.o-c.o-pr,.o-c.o-lk{stroke:var(--m-pr-c)} .o-r.o-pr,.o-r.o-lk{stroke:var(--m-pr)}
+.o-c.o-mw{stroke:var(--m-mw-c)} .o-r.o-mw{stroke:var(--m-mw)}
+.o-c.o-sv{stroke:var(--m-c);opacity:.7}
+.o-lb{font:500 10px/1 var(--font,sans-serif);fill:var(--m-lb);stroke:var(--m-halo);stroke-width:3px;paint-order:stroke;letter-spacing:.02em}
+.o-dl{font:600 11px/1 var(--font,sans-serif);fill:var(--m-lb);stroke:var(--m-halo);stroke-width:3px;paint-order:stroke;text-anchor:middle;text-transform:uppercase;letter-spacing:.06em}

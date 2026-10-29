@@ -1,0 +1,135 @@
+{
+ "title": "Cut stockouts by 42% in 90 days with AI-driven replenishment. — Trackeys",
+ "hero": {
+  "eyebrow": "BEVERAGES · UAE",
+  "h1": "Cut stockouts by 42% in 90 days with AI-driven replenishment.",
+  "p": "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway.",
+  "ctas": [],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "",
+   "h2": "More customer stories",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "CUSTOMER STORIES"
+     ],
+     "href": "/case-studies/pan-india-fmcg"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Onboarded 1,400 distributors in 8 weeks — 3× faster than planned."
+     ],
+     "href": "/case-studies/pan-india-fmcg"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+     ],
+     "href": "/case-studies/pan-india-fmcg"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Packaged foods · India"
+     ],
+     "href": "/case-studies/pan-india-fmcg"
+    }
+   ],
+   "btns": [
+    "CUSTOMER STORIES\nOnboarded 1,400 distributors in 8 weeks — 3× faster than planned.\n\nNational packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked.\n\nPackaged foods · India",
+    "1\n2\n3\n4\n5\nCUSTOMER STORIES\nCut delivery cost-per-drop by 18% — handled 60% more orders with the same fleet.\n\nRegional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization.\n\nLogistics · Kenya",
+    "CUSTOMER STORIES\nPlanogram compliance from 61% to 89% in one quarter.\n\nMajor GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits.\n\nBeverages · Saudi Arabia"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Your story is next. Book a demo.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+  ],
+  [
+   "p",
+   "Stockouts were 11% across a 4,200-outlet network. Distributor data arrived weekly at best. Replenishment decisions were made on 2-week-old data, and promo impact was always estimated in hindsight."
+  ],
+  [
+   "p",
+   "Rolled out Trackeys Distribution + SFA with offline van-sales capture. Distributor portal replaced the weekly Excel with daily secondary-sales logging. AI forecast layered promo lift as a continuous signal per SKU."
+  ],
+  [
+   "p",
+   "Within 90 days, stockouts dropped to 6.4%. Secondary sales rose 18%, attributed to better availability in fast-moving outlets. Promo-ROI analysis became weekly, not post-quarter."
+  ],
+  [
+   "h2",
+   "More customer stories"
+  ],
+  [
+   "p",
+   "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+  ],
+  [
+   "p",
+   "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+  ],
+  [
+   "p",
+   "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+  ],
+  [
+   "h2",
+   "Your story is next. Book a demo."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}

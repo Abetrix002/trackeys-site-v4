@@ -1,0 +1,655 @@
+{
+ "title": "For Logistics & Supply Chain — Trackeys",
+ "hero": {
+  "eyebrow": "FOR LOGISTICS & SUPPLY CHAIN",
+  "h1": "Shipments, warehouses and fleets — on one live map.",
+  "p": "Trackeys gives logistics operators real-time visibility, AI routing and exception management across first, middle and last mile.",
+  "ctas": [
+   "Book a demo",
+   "Book a demo",
+   "Download datasheet"
+  ],
+  "stats": [
+   [
+    "99.5%",
+    "inventory accuracy"
+   ],
+   [
+    "−20%",
+    "delivery delays"
+   ],
+   [
+    "−15%",
+    "transport cost"
+   ]
+  ],
+  "visual": [
+   {
+    "text": [
+     "Depot",
+     "07:00",
+     "Carrefour",
+     "07:42",
+     "LuLu",
+     "08:18",
+     "Spinneys",
+     "09:05",
+     "Al Maya",
+     "09:50",
+     "Choithrams",
+     "10:35",
+     "ROUTE DXB-N-03",
+     "11 stops · 48 km",
+     "AI SAVED",
+     "14 min · 8 km"
+    ],
+    "svg": [
+     "Depot",
+     "07:00",
+     "Carrefour",
+     "07:42",
+     "LuLu",
+     "08:18",
+     "Spinneys",
+     "09:05",
+     "Al Maya",
+     "09:50",
+     "Choithrams",
+     "10:35"
+    ]
+   }
+  ],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "CAPABILITIES",
+   "h2": "Visibility and control from dock to doorstep.",
+   "sub": "Shipment tracking, warehouse ops, last-mile delivery and exception handling — one stack.",
+   "items": [
+    {
+     "title": "Shipment tracking",
+     "desc": "Real-time location and status for every shipment, with 5-second latency.",
+     "bullets": [
+      "Origin to destination visibility",
+      "Milestone events",
+      "ETA prediction"
+     ],
+     "lines": [
+      "Shipment tracking",
+      "Real-time location and status for every shipment, with 5-second latency.",
+      "Origin to destination visibility",
+      "Milestone events",
+      "ETA prediction"
+     ],
+     "href": ""
+    },
+    {
+     "title": "AI route optimization",
+     "desc": "Multi-stop, multi-constraint routing across mixed fleets and zones.",
+     "bullets": [
+      "Time-window compliance",
+      "Vehicle + driver fit",
+      "Dynamic re-routing"
+     ],
+     "lines": [
+      "AI route optimization",
+      "Multi-stop, multi-constraint routing across mixed fleets and zones.",
+      "Time-window compliance",
+      "Vehicle + driver fit",
+      "Dynamic re-routing"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Warehouse throughput",
+     "desc": "Putaway, picking, packing and dispatch — with barcode, batch and expiry support.",
+     "bullets": [
+      "Zone-based picking",
+      "Cycle counts",
+      "Cross-dock flow"
+     ],
+     "lines": [
+      "Warehouse throughput",
+      "Putaway, picking, packing and dispatch — with barcode, batch and expiry support.",
+      "Zone-based picking",
+      "Cycle counts",
+      "Cross-dock flow"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Exception management",
+     "desc": "Delays, damages, refusals and returns — every scenario has a clean workflow.",
+     "bullets": [
+      "Damaged goods flow",
+      "Refusal documentation",
+      "Return-to-origin"
+     ],
+     "lines": [
+      "Exception management",
+      "Delays, damages, refusals and returns — every scenario has a clean workflow.",
+      "Damaged goods flow",
+      "Refusal documentation",
+      "Return-to-origin"
+     ],
+     "href": ""
+    },
+    {
+     "title": "Cost analytics",
+     "desc": "Cost per drop, per kilometer, per lane — with driver-scorecard detail.",
+     "bullets": [
+      "Fuel efficiency",
+      "Lane profitability",
+      "Carrier scorecards"
+     ],
+     "lines": [
+      "Cost analytics",
+      "Cost per drop, per kilometer, per lane — with driver-scorecard detail.",
+      "Fuel efficiency",
+      "Lane profitability",
+      "Carrier scorecards"
+     ],
+     "href": ""
+    },
+    {
+     "title": "IoT & telematics",
+     "desc": "Plug in Samsara, Geotab or your own telematics for vehicle health and driver behavior.",
+     "bullets": [
+      "Engine health",
+      "Harsh events",
+      "Temperature monitoring"
+     ],
+     "lines": [
+      "IoT & telematics",
+      "Plug in Samsara, Geotab or your own telematics for vehicle health and driver behavior.",
+      "Engine health",
+      "Harsh events",
+      "Temperature monitoring"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "HOW IT WORKS",
+   "h2": "From order to delivered — tracked at every step.",
+   "sub": "One flow across warehouse, fleet and last mile.",
+   "items": [
+    {
+     "title": "Receive",
+     "desc": "Orders land from ERP or shipper APIs into the dispatch queue.",
+     "bullets": [],
+     "lines": [
+      "STEP 01",
+      "Receive",
+      "Orders land from ERP or shipper APIs into the dispatch queue."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Plan",
+     "desc": "AI consolidates into optimal loads and routes across your fleet.",
+     "bullets": [],
+     "lines": [
+      "STEP 02",
+      "Plan",
+      "AI consolidates into optimal loads and routes across your fleet."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Dispatch",
+     "desc": "Drivers get manifests with POD checklists and navigation.",
+     "bullets": [],
+     "lines": [
+      "STEP 03",
+      "Dispatch",
+      "Drivers get manifests with POD checklists and navigation."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Track",
+     "desc": "Every vehicle visible in real time. ETA drift surfaces automatically.",
+     "bullets": [],
+     "lines": [
+      "STEP 04",
+      "Track",
+      "Every vehicle visible in real time. ETA drift surfaces automatically."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Deliver",
+     "desc": "POD captured with photo, signature and scan. Customer notified.",
+     "bullets": [],
+     "lines": [
+      "STEP 05",
+      "Deliver",
+      "POD captured with photo, signature and scan. Customer notified."
+     ],
+     "href": ""
+    },
+    {
+     "title": "Measure",
+     "desc": "DIFOT, cost and exceptions roll up to ops and finance dashboards.",
+     "bullets": [],
+     "lines": [
+      "STEP 06",
+      "Measure",
+      "DIFOT, cost and exceptions roll up to ops and finance dashboards."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "PROVEN OUTCOMES",
+   "h2": "Logistics operators unlock real savings once every shipment is visible.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "99.5%",
+      "inventory accuracy",
+      "End-to-end at batch level"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "−20%",
+      "delivery delays",
+      "Dynamic re-routing and ETAs"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "+20%",
+      "warehouse throughput",
+      "Smarter picking and dispatch"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "WORKS WITH YOUR STACK",
+   "h2": "Fits your WMS, TMS and telematics.",
+   "sub": "Native connectors and standardized APIs for enterprise logistics stacks.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "SAP TM",
+      "Transport management"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "OR",
+      "Oracle TMS",
+      "Loads · Routing"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "MA",
+      "Manhattan",
+      "WMS"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "BL",
+      "Blue Yonder",
+      "Forecasting"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "SA",
+      "Samsara",
+      "Telematics"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "GE",
+      "Geotab",
+      "Fleet data"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "HE",
+      "HERE Maps",
+      "Routing · Traffic"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "ED",
+      "EDI X12",
+      "Carrier EDI"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": []
+  },
+  {
+   "eyebrow": "FAQ",
+   "h2": "Questions, answered.",
+   "sub": "",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Can we connect our existing telematics?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Does it handle cold chain and temperature-sensitive shipments?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "How does the AI handle dynamic re-routing?"
+     ],
+     "href": ""
+    },
+    {
+     "title": "",
+     "desc": "Yes. White-labeled tracking pages and real-time SMS/email updates give end customers self-service visibility without exposing internal operations.",
+     "bullets": [],
+     "lines": [
+      "Can our customers track their own shipments?",
+      "Yes. White-labeled tracking pages and real-time SMS/email updates give end customers self-service visibility without exposing internal operations."
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Can we connect our existing telematics?",
+    "Does it handle cold chain and temperature-sensitive shipments?",
+    "How does the AI handle dynamic re-routing?",
+    "Can our customers track their own shipments?"
+   ]
+  },
+  {
+   "eyebrow": "",
+   "h2": "Turn your supply chain into one live, intelligent network.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "Trackeys gives logistics operators real-time visibility, AI routing and exception management across first, middle and last mile."
+  ],
+  [
+   "h2",
+   "Visibility and control from dock to doorstep."
+  ],
+  [
+   "p",
+   "Shipment tracking, warehouse ops, last-mile delivery and exception handling — one stack."
+  ],
+  [
+   "p",
+   "Real-time location and status for every shipment, with 5-second latency."
+  ],
+  [
+   "li",
+   "Origin to destination visibility"
+  ],
+  [
+   "li",
+   "Milestone events"
+  ],
+  [
+   "li",
+   "ETA prediction"
+  ],
+  [
+   "p",
+   "Multi-stop, multi-constraint routing across mixed fleets and zones."
+  ],
+  [
+   "li",
+   "Time-window compliance"
+  ],
+  [
+   "li",
+   "Vehicle + driver fit"
+  ],
+  [
+   "li",
+   "Dynamic re-routing"
+  ],
+  [
+   "p",
+   "Putaway, picking, packing and dispatch — with barcode, batch and expiry support."
+  ],
+  [
+   "li",
+   "Zone-based picking"
+  ],
+  [
+   "li",
+   "Cycle counts"
+  ],
+  [
+   "li",
+   "Cross-dock flow"
+  ],
+  [
+   "p",
+   "Delays, damages, refusals and returns — every scenario has a clean workflow."
+  ],
+  [
+   "li",
+   "Damaged goods flow"
+  ],
+  [
+   "li",
+   "Refusal documentation"
+  ],
+  [
+   "li",
+   "Return-to-origin"
+  ],
+  [
+   "p",
+   "Cost per drop, per kilometer, per lane — with driver-scorecard detail."
+  ],
+  [
+   "li",
+   "Fuel efficiency"
+  ],
+  [
+   "li",
+   "Lane profitability"
+  ],
+  [
+   "li",
+   "Carrier scorecards"
+  ],
+  [
+   "p",
+   "Plug in Samsara, Geotab or your own telematics for vehicle health and driver behavior."
+  ],
+  [
+   "li",
+   "Engine health"
+  ],
+  [
+   "li",
+   "Harsh events"
+  ],
+  [
+   "li",
+   "Temperature monitoring"
+  ],
+  [
+   "h2",
+   "From order to delivered — tracked at every step."
+  ],
+  [
+   "p",
+   "One flow across warehouse, fleet and last mile."
+  ],
+  [
+   "p",
+   "Orders land from ERP or shipper APIs into the dispatch queue."
+  ],
+  [
+   "p",
+   "AI consolidates into optimal loads and routes across your fleet."
+  ],
+  [
+   "p",
+   "Drivers get manifests with POD checklists and navigation."
+  ],
+  [
+   "p",
+   "Every vehicle visible in real time. ETA drift surfaces automatically."
+  ],
+  [
+   "p",
+   "POD captured with photo, signature and scan. Customer notified."
+  ],
+  [
+   "p",
+   "DIFOT, cost and exceptions roll up to ops and finance dashboards."
+  ],
+  [
+   "h2",
+   "Logistics operators unlock real savings once every shipment is visible."
+  ],
+  [
+   "h2",
+   "Fits your WMS, TMS and telematics."
+  ],
+  [
+   "p",
+   "Native connectors and standardized APIs for enterprise logistics stacks."
+  ],
+  [
+   "h2",
+   "Questions, answered."
+  ],
+  [
+   "p",
+   "Yes. White-labeled tracking pages and real-time SMS/email updates give end customers self-service visibility without exposing internal operations."
+  ],
+  [
+   "h2",
+   "Turn your supply chain into one live, intelligent network."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": [
+  {
+   "q": "Can we connect our existing telematics?",
+   "a": "Yes — native connectors for Samsara, Geotab, Motive and others. For proprietary telematics, a standardized API ingests vehicle, driver and diagnostic data into the Trackeys live view."
+  },
+  {
+   "q": "Does it handle cold chain and temperature-sensitive shipments?",
+   "a": "Yes. IoT temperature and humidity sensors stream continuously. Breach alerts fire in real time and full logs attach to every shipment for compliance, claims and dispute handling."
+  },
+  {
+   "q": "How does the AI handle dynamic re-routing?",
+   "a": "When traffic, cancellations or priority changes occur, the engine re-evaluates remaining stops in seconds against time-window, vehicle and driver constraints — and pushes the updated manifest to the driver automatically."
+  },
+  {
+   "q": "Can our customers track their own shipments?",
+   "a": "Yes. White-labeled tracking pages and real-time SMS/email updates give end customers self-service visibility without exposing internal operations."
+  }
+ ]
+}

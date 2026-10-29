@@ -1,0 +1,83 @@
+{
+ "title": "Case studies — Trackeys",
+ "hero": {
+  "eyebrow": "CASE STUDIES",
+  "h1": "Real teams. Real numbers. Real outcomes.",
+  "p": "What our customers did with Trackeys — and the measurable results that followed.",
+  "ctas": [],
+  "stats": [],
+  "visual": [],
+  "visualSvg": []
+ },
+ "sections": [
+  {
+   "eyebrow": "",
+   "h2": "Your story is next. Let's build it.",
+   "sub": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
+   "items": [
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Book a demo"
+     ],
+     "href": "/book-a-demo"
+    },
+    {
+     "title": "",
+     "desc": "",
+     "bullets": [],
+     "lines": [
+      "Watch 2-min overview"
+     ],
+     "href": ""
+    }
+   ],
+   "btns": [
+    "Book a demo",
+    "Book a demo",
+    "Watch 2-min overview"
+   ]
+  }
+ ],
+ "flow": [
+  [
+   "p",
+   "What our customers did with Trackeys — and the measurable results that followed."
+  ],
+  [
+   "p",
+   "Regional beverage distributor, 180 SKUs across 4,200 retail points. Before Trackeys: 11% stockout rate, weekly lag, board-level issue. After: 6.4%, live signals, new growth runway."
+  ],
+  [
+   "p",
+   "National packaged-foods brand with a fragmented distribution network. Replaced 6 legacy tools with one platform, with change-management that actually worked."
+  ],
+  [
+   "p",
+   "Regional logistics operator shifted from Excel-based route planning to AI routing. Freed planners for exception management and lifted fleet utilization."
+  ],
+  [
+   "p",
+   "Major GCC beverage brand deployed Merchandising AI across 3,200 modern-trade outlets. Photo-based compliance scoring replaced human audits."
+  ],
+  [
+   "p",
+   "Pharma distributor rolled out SFA + Distribution with full batch tracking, expiry management and cold-chain telemetry across 18 DCs."
+  ],
+  [
+   "p",
+   "Indonesian dairy brand deployed AI-assisted pre-sales with route optimization and upsell suggestions. Reps sold more, drove less."
+  ],
+  [
+   "h2",
+   "Your story is next. Let's build it."
+  ],
+  [
+   "p",
+   "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs."
+  ]
+ ],
+ "faq": []
+}
