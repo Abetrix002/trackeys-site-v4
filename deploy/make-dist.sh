@@ -15,4 +15,16 @@ F="$ROOT/web3/index.html"
   awk 'f{print} /<a class="skip"/{f=1; print}' "$F"
   printf '</body>\n</html>\n'
 } > "$OUT/index.html"
+# The live site is the clean public version: no prototype bar (design-notes link, review-notes toggle),
+# no review-note annotations in the markup, and no internal notes page. The Claude artifact keeps all three.
+python3 -I - "$OUT" <<'PY'
+import pathlib, re, sys
+out = pathlib.Path(sys.argv[1])
+(out / 'notes.html').unlink(missing_ok=True)
+for f in out.rglob('*.html'):
+    s = f.read_text()
+    s = re.sub(r'<div class="proto">.*?</div></div>\n?', '', s, count=1, flags=re.S)
+    s = re.sub(r' data-note="[^"]*"', '', s)
+    f.write_text(s)
+PY
 grep -q '<a class="skip"' "$OUT/index.html" && echo "dist ready: $OUT"

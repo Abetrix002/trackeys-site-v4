@@ -193,7 +193,7 @@ function home() {
 <div class="hero-copy"><span class="pill" data-hero style="justify-self:start"><i></i>${esc(h.badge)}</span>
 <h1 class="display" id="hero-h" data-split>${esc(h.h1a)} <span class="blue">${esc(h.h1b)}</span> ${esc(h.h1c)}</h1>
 <p class="lede" data-hero>${esc(h.p)}</p>
-<div class="hero-ctas" data-hero><a class="btn btn-primary" href="book-a-demo.html">${esc(h.ctas[0])} ${arrow}</a><button type="button" class="btn btn-ghost"${note(NOACT)}>${esc(h.ctas[1])}</button></div></div>
+<div class="hero-ctas" data-hero><a class="btn btn-primary" href="book-a-demo.html">${esc(h.ctas[0])} ${arrow}</a></div></div>
 <div data-hero-art>${homeScene()}</div>
 </div></section>
 ${shot(pre, 'dash', 'home')}
