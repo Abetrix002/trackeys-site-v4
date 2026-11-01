@@ -100,13 +100,11 @@ p{margin:0;max-width:66ch}
 .btn-ghost{background:var(--surface);color:var(--ink);border-color:var(--line-2);box-shadow:var(--shadow)}
 .btn-sm{min-height:40px;padding:8px 16px;font-size:.92rem;border-radius:12px}
 .arrow{display:inline-block;transition:transform 220ms var(--ease-out)}
-.play-ic{width:22px;height:22px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font-size:.6rem;transition:transform 220ms var(--ease-out)}
 @media (hover:hover) and (pointer:fine){
   .btn-primary:hover{background:#3641f5}
   .btn-ghost:hover{border-color:var(--ink-3)}
   .btn:hover .arrow,a:hover .arrow{transform:translateX(4px)}
-  .btn:hover .play-ic{transform:scale(1.12)}
-}
+  .btn:hover }
 .link{font-weight:600;text-decoration:none;display:inline-flex;gap:8px;align-items:center;color:var(--brand-ink)}
 
 /* cards */
@@ -328,8 +326,7 @@ p{margin:0;max-width:66ch}
 .ctaband h2{color:#fff;max-width:20ch}
 .ctaband p{color:#cdd6e3;text-align:center}
 .ctaband .btn-ghost{background:rgba(255,255,255,.06);color:#fff;border-color:rgba(255,255,255,.2);box-shadow:none}
-.ctaband .play-ic{background:#fff;color:#06080d}
-
+.ctaband 
 /* product sections */
 .steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(28px,3vw,40px) clamp(24px,3vw,48px);counter-reset:s}
 .step{display:grid;gap:10px;align-content:start;padding-top:20px;border-top:2px solid var(--line-2)}
@@ -667,8 +664,7 @@ input[type=range]::-moz-range-thumb{width:22px;height:22px;border-radius:50%;bac
 .band.dark::before,.signin-page .right::before,.ctaband .inner::before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background-image:linear-gradient(rgba(255,255,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.06) 1px,transparent 1px);background-size:52px 52px;background-position:center;-webkit-mask:radial-gradient(ellipse 70% 60% at 50% 45%,#000 20%,transparent 75%);mask:radial-gradient(ellipse 70% 60% at 50% 45%,#000 20%,transparent 75%)}
 .ctaband{background:#161950}
 .ctaband::before{background:linear-gradient(180deg,rgba(22,25,80,.55),rgba(22,25,80,.94))}
-.ctaband .play-ic{color:#161950}
-.signin-page .right{background:#161950}
+.ctaband .signin-page .right{background:#161950}
 .sq{position:absolute;inset:0;z-index:-1;pointer-events:none}
 .sq i{position:absolute;width:52px;height:52px;background:rgba(255,255,255,.07);left:calc(50% + var(--x) * 52px);top:calc(50% + var(--y) * 52px);animation:sq 5s ease-in-out infinite;animation-delay:var(--d)}
 .sq i:nth-child(1){--x:-6;--y:-3;--d:0s}.sq i:nth-child(2){--x:-5;--y:-2;--d:1.2s}.sq i:nth-child(3){--x:2;--y:-5;--d:.6s}.sq i:nth-child(4){--x:4;--y:-4;--d:2.1s}.sq i:nth-child(5){--x:5;--y:-5;--d:3s}.sq i:nth-child(6){--x:-3;--y:3;--d:1.7s}.sq i:nth-child(7){--x:3;--y:2;--d:2.6s}.sq i:nth-child(8){--x:-7;--y:1;--d:.3s}

@@ -136,7 +136,7 @@
      "Mohammed A. · Van VN-1128",
      "STOP 3 of 11",
      "LuLu Hypermarket · Al Barsha",
-     "42 cases · AED 8,420",
+     "42 cases · SAR 8,420",
      "Navigate",
      "Call",
      "UP NEXT",
@@ -148,16 +148,16 @@
      "Pre-sales visits",
      "Territory: Dubai North · 8 visits today",
      "Géant Ibn Battuta",
-     "Pipeline · AED 12.4k",
+     "Pipeline · SAR 12.4k",
      "HIGH",
      "Viva Supermarket",
-     "Pipeline · AED 4.1k",
+     "Pipeline · SAR 4.1k",
      "MED",
      "Union Coop Al Quoz",
-     "Pipeline · AED 9.8k",
+     "Pipeline · SAR 9.8k",
      "HIGH",
      "West Zone Mart",
-     "Pipeline · AED 2.0k",
+     "Pipeline · SAR 2.0k",
      "LOW"
     ],
     "Merchandiser": [
@@ -316,8 +316,7 @@
    "h2": "Every field activity, visible. Every route, optimal.",
    "p": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
    "ctas": [
-    "Book a demo",
-    "Watch 2-min overview"
+    "Book a demo"
    ]
   }
  },
@@ -344,22 +343,22 @@
     "09:42 · Trackeys Agent",
     "Today · 8 visits",
     "Géant Ibn Battuta",
-    "AED 12.4k",
+    "SAR 12.4k",
     "Viva Supermarket",
-    "AED 4.1k",
+    "SAR 4.1k",
     "Union Coop",
-    "AED 9.8k",
+    "SAR 9.8k",
     "West Zone Mart",
-    "AED 2.0k",
+    "SAR 2.0k",
     "LIVE PIPELINE · NW REGION",
     "Géant Mall",
-    "AED 124,800",
+    "SAR 124,800",
     "Proposal · lead score 70",
     "Carrefour City Centre",
-    "AED 89,200",
+    "SAR 89,200",
     "Negotiation · lead score 75",
     "LuLu Hypermarket",
-    "AED 56,400",
+    "SAR 56,400",
     "Qualified · lead score 80",
     "Copilot: add 2 visits in Al Barsha to hit weekly target"
    ],
@@ -1262,22 +1261,22 @@
     "09:42 · Trackeys Agent",
     "Today · 8 visits",
     "Géant Ibn Battuta",
-    "AED 12.4k",
+    "SAR 12.4k",
     "Viva Supermarket",
-    "AED 4.1k",
+    "SAR 4.1k",
     "Union Coop",
-    "AED 9.8k",
+    "SAR 9.8k",
     "West Zone Mart",
-    "AED 2.0k",
+    "SAR 2.0k",
     "LIVE PIPELINE · NW REGION",
     "Géant Mall",
-    "AED 124,800",
+    "SAR 124,800",
     "Proposal · lead score 70",
     "Carrefour City Centre",
-    "AED 89,200",
+    "SAR 89,200",
     "Negotiation · lead score 75",
     "LuLu Hypermarket",
-    "AED 56,400",
+    "SAR 56,400",
     "Qualified · lead score 80",
     "Copilot: add 2 visits in Al Barsha to hit weekly target"
    ],
@@ -2167,12 +2166,12 @@
   "curLabel": "Show prices in",
   "currencies": [
    "USD",
-   "AED",
+   "SAR",
    "EUR"
   ],
   "rates": {
    "USD": 1,
-   "AED": 3.67,
+   "SAR": 3.75,
    "EUR": 0.92
   },
   "tiers": [
@@ -3637,8 +3636,6 @@
  "common": {
   "ctaP": "Book a 30-minute walkthrough with our field-ops team. We'll map Trackeys to your territory, fleet and KPIs.",
   "demo": "Book a demo",
-  "watch": "Watch 2-min overview",
-  "datasheet": "Download datasheet",
   "signin": "Sign in"
  }
 }

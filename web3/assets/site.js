@@ -152,8 +152,8 @@
   /* currency */
   const cur = $('[data-currency]');
   if (cur) {
-    const rate = { USD: 1, AED: 3.67, EUR: 0.92 };
-    const fmt = (c, n) => { const v = n < 1 ? n.toFixed(2) : Math.round(n).toLocaleString('en-US'); return c === 'USD' ? '$' + v : c === 'EUR' ? '€' + v : 'AED ' + v; };
+    const rate = { USD: 1, SAR: 3.75, EUR: 0.92 };
+    const fmt = (c, n) => { const v = n < 1 ? n.toFixed(2) : Math.round(n).toLocaleString('en-US'); return c === 'USD' ? '$' + v : c === 'EUR' ? '€' + v : 'SAR ' + v; };
     const btns = $$('button', cur);
     btns.forEach(b => b.addEventListener('click', () => {
       btns.forEach(x => x.setAttribute('aria-pressed', String(x === b))); moveInd(cur, b);

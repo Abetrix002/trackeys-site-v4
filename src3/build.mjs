@@ -79,11 +79,10 @@ ${col('Resources', [['All resources', '/resources'], ['Blog', '/blog'], ['Case s
 }
 
 /* ---------- shared blocks ---------- */
-const btnWatch = (label = C.common.watch) => `<button type="button" class="btn btn-ghost"${note(NOACT)}><span class="play-ic">${icon('play')}</span>${esc(label)}</button>`;
 const sh = (eyebrow, h2, sub, cls = '', id = '') => `<div class="sec-head ${cls}" data-r>${eyebrow ? `<span class="eyebrow">${esc(eyebrow)}</span>` : ''}<h2 class="h2"${id ? ` id="${id}"` : ''}>${esc(h2)}</h2>${sub ? `<p class="lede">${esc(sub)}</p>` : ''}</div>`;
 const ctaBand = (pre, h2, p = C.common.ctaP) => `<section class="band tight"><div class="wrap"><div class="ctaband" data-r data-cta><img src="${pre}assets/img/riyadh-dusk.jpg" alt="" loading="lazy">
 <div class="sq" aria-hidden="true">${'<i></i>'.repeat(8)}</div>
-<div class="inner"><h2 class="h2">${esc(h2)}</h2><p class="lede">${esc(p)}</p><div class="hero-ctas" style="justify-content:center"><a class="btn btn-primary" href="${pre}book-a-demo.html">${esc(C.common.demo)} ${arrow}</a>${btnWatch()}</div></div></div></div></section>`;
+<div class="inner"><h2 class="h2">${esc(h2)}</h2><p class="lede">${esc(p)}</p><div class="hero-ctas" style="justify-content:center"><a class="btn btn-primary" href="${pre}book-a-demo.html">${esc(C.common.demo)} ${arrow}</a></div></div></div></div></section>`;
 const faqBlock = (eyebrow, h2, items) => `<section class="band"><div class="wrap two"><div>${sh(eyebrow, h2)}</div><div class="acc" data-r>${items.map((f, i) => `<details${i === 0 ? ' open' : ''}><summary>${esc(f.q || f[0])}</summary><p class="a">${esc(f.a || f[1])}</p></details>`).join('')}</div></div></section>`;
 const pinG = (x, y, cls = '') => `<g class="pin ${cls}" transform="translate(${x} ${y})"><circle class="halo" r="16"/><path d="M0 -28c-9 0-15 7-15 14 0 10 15 22 15 22s15-12 15-22c0-7-6-14-15-14z"/><circle cx="0" cy="-14" r="5"/></g>`;
 const vanG = (id) => `<g id="${id}" class="van"><circle class="veh" r="10"/></g>`;
@@ -101,7 +100,7 @@ ${h.rows.map(([t, a, b], i) => `<div class="co-row"><span class="tag ${['', 'war
 }
 function liveScene() {
   const L2 = C.home.live;
-  return `<div class="livemap" data-r${note('Copy from the live site names Dubai (lat/lng, DXB, Al Barsha, AED); the map is real Riyadh streets. Align one to the other before launch')}><div class="scene" data-scene="live"><svg class="art" viewBox="0 0 600 460" preserveAspectRatio="xMidYMid slice" aria-hidden="true">${mapBase('', 'live')}
+  return `<div class="livemap" data-r${note('Copy from the live site names Dubai (lat/lng, DXB, Al Barsha); the map is real Riyadh streets. Align one to the other before launch')}><div class="scene" data-scene="live"><svg class="art" viewBox="0 0 600 460" preserveAspectRatio="xMidYMid slice" aria-hidden="true">${mapBase('', 'live')}
 <path id="lr1" class="route" d="${MAP.live.routes.l1.d}"/><path id="lr2" class="route" style="stroke:#14b8a6" d="${MAP.live.routes.l2.d}"/><path id="lr3" class="route" style="stroke:#8b5cf6" d="${MAP.live.routes.l3.d}"/>
 ${pinG(...MAP.live.pts.p1)}${pinG(...MAP.live.pts.p2, 'ok')}${pinG(...MAP.live.pts.p3)}${pinG(...MAP.live.pts.p4, 'warn')}
 <circle id="ld1" r="9" fill="#465fff" stroke="#fff" stroke-width="3"/><circle id="ld2" r="9" fill="#14b8a6" stroke="#fff" stroke-width="3"/><circle id="ld3" r="9" fill="#8b5cf6" stroke="#fff" stroke-width="3"/></svg>${mattr('live')}
@@ -231,7 +230,7 @@ function productPage(kind, slug) {
   const body = `<nav class="subnav" aria-label="${kind === 'product' ? 'Product' : 'Solutions'}"><div class="wrap">${navList.map(([t, h]) => `<a href="${L(h, pre)}"${h === active ? ' aria-current="page"' : ''}>${esc(t)}</a>`).join('')}</div></nav>
 <section class="hero" aria-labelledby="p-h"><div class="wrap">
 <div class="hero-copy"><span class="eyebrow" data-hero>${esc(d.eyebrow)}</span><h1 class="h1" id="p-h" data-split>${esc(d.h1)}</h1><p class="lede" data-hero>${esc(d.p)}</p>
-<div class="hero-ctas" data-hero><a class="btn btn-primary" href="${pre}book-a-demo.html">${esc(C.common.demo)} ${arrow}</a><button type="button" class="btn btn-ghost"${note(NOACT)}>${icon('file')}${esc(C.common.datasheet)}</button></div>
+<div class="hero-ctas" data-hero><a class="btn btn-primary" href="${pre}book-a-demo.html">${esc(C.common.demo)} ${arrow}</a></div>
 <div class="hstats" data-hero${note('Figures from the live site')}>${d.stats.map(([v, k]) => `<div><b data-count>${esc(v)}</b><span>${esc(k)}</span></div>`).join('')}</div></div>
 <div data-hero-art>${SCENE[slug](d.visual, pre)}</div>
 </div></section>
