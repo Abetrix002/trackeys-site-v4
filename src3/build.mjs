@@ -71,10 +71,10 @@ function footer(pre) {
   const col = (h, items) => `<div class="f-col"><h4>${h}</h4><ul>${items.map(([t, href]) => `<li><a href="${L(href, pre)}"${href === '#' ? note(DEAD) : ''}>${esc(t)}</a></li>`).join('')}</ul></div>`;
   return `<footer class="site-footer"><div class="wrap">
 <div class="f-top"><div><a class="brand" href="${pre}index.html"><img src="${pre}assets/mark.png" alt="" width="30" height="30">Trackeys</a><p class="f-desc">${esc(C.footer.desc)}</p></div>
-${col('Product', [['Sales Force Automation', '/product/sales-force-automation'], ['Delivery & Routing', '/product/delivery-routing'], ['Merchandising AI', '/product/merchandising-ai'], ['Distribution', '/product/distribution'], ['Fleet Management', '#'], ['Integrations', '#']])}
+${col('Product', [['Sales Force Automation', '/product/sales-force-automation'], ['Delivery & Routing', '/product/delivery-routing'], ['Merchandising AI', '/product/merchandising-ai'], ['Distribution', '/product/distribution'], ['Fleet Management', '#']])}
 ${col('Solutions', [['FMCG', '/solutions/fmcg'], ['Logistics', '/solutions/logistics'], ['Distribution', '/solutions/distribution'], ['Fleet', '/solutions/fleet']])}
-${col('Resources', [['All resources', '/resources'], ['Blog', '/blog'], ['Case studies', '/case-studies'], ['Book a demo', '/book-a-demo'], ['Documentation', '#'], ['Security', '#']])}</div>
-<div class="f-bot"><span>${esc(C.footer.legal)}</span><nav aria-label="Legal"><a href="${pre}privacy-policy.html"${note('Live site links Privacy to #; the prototype links the existing policy page')}>Privacy</a><a href="#"${note(DEAD)}>Terms</a><a href="#"${note(DEAD)}>Security</a><a href="#"${note(DEAD)}>Cookies</a></nav></div>
+${col('Resources', [['All resources', '/resources'], ['Blog', '/blog'], ['Case studies', '/case-studies'], ['Book a demo', '/book-a-demo']])}</div>
+<div class="f-bot"><span>${esc(C.footer.legal)}</span><nav aria-label="Legal"><a href="${pre}privacy-policy.html"${note('Live site links Privacy to #; the prototype links the existing policy page')}>Privacy</a><a href="#"${note(DEAD)}>Terms</a><a href="#"${note(DEAD)}>Cookies</a></nav></div>
 </div></footer>`;
 }
 
